@@ -8,6 +8,7 @@
 
 * [Twitter](twitter.md)
 * [Cuaderno del profesor](cuaderno-del-profesor.md)
+* [Escribir matemáticas](escribir-matematicas.md)
 * [Blogs](blog.md)
 * [Edmodo](edmodo.md)
 
