@@ -7,6 +7,8 @@
 ## Las TIC para el día a día
 
 * [Twitter](twitter.md)
+* [Cuaderno del profesor](cuaderno-del-profesor.md)
+* [Blogs](blog.md)
 * [Edmodo](edmodo.md)
 
 ## Enseñando y aprendiendo matemáticas con TIC
