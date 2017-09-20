@@ -1,4 +1,6 @@
-## ¿Una red social para el aula?
+# Edmodo, ¿una red social para el aula?
 
-![](/assets/edmodo.png)Disponer de una red social
+![](/assets/edmodo.png)
+
+Disponer de una red social para nuestros alumnos
 
