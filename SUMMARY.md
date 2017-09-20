@@ -11,6 +11,7 @@
 
 ## Enseñando y aprendiendo matemáticas con TIC
 
+* [Manipulables virtuales](ensenando-y-aprendiendo-matematicas-con-tic/manipulables-virtuales.md)
 * [La hoja de cálculo](ensenando-y-aprendiendo-matematicas-con-tic/la-hoja-de-calculo.md)
 * [Geogebra](ensenando-y-aprendiendo-matematicas-con-tic/geogebra.md)
 
