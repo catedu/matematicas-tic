@@ -1,4 +1,4 @@
-# Summary
+# Tabla de contenidos
 
 ## Introducción
 
@@ -6,7 +6,11 @@
 
 ## Las TIC en el día a día
 
+* [Blogs](las-tic-en-el-dia-a-dia/blog.md)
 * [Edmodo](las-tic-en-el-dia-a-dia/edmodo.md)
+* [Cuaderno del profesor](las-tic-en-el-dia-a-dia/cuaderno-del-profesor.md)
+* [Twitter](las-tic-en-el-dia-a-dia/twitter.md)
+* [Escribir matemáticas](las-tic-en-el-dia-a-dia/escribir-matematicas.md)
 
 ## Enseñando y aprendiendo matemáticas con TIC
 
@@ -18,4 +22,6 @@
 ## A modo de conclusión
 
 * [Esto es solo el principio](a-modo-de-conclusion/esto-es-solo-el-principio.md)
+
+
 
