@@ -4,13 +4,9 @@
 
 * [¿De qué va esto y qué puedo esperar de este curso?](README.md)
 
-## Las TIC para el día a día
+## Las TIC en el día a día
 
-* [Twitter](twitter.md)
-* [Cuaderno del profesor](cuaderno-del-profesor.md)
-* [Escribir matemáticas](escribir-matematicas.md)
-* [Blogs](blog.md)
-* [Edmodo](edmodo.md)
+* [Edmodo](las-tic-en-el-dia-a-dia/edmodo.md)
 
 ## Enseñando y aprendiendo matemáticas con TIC
 

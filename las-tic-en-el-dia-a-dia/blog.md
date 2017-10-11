@@ -2,8 +2,6 @@
 
 ## Los blogs personales
 
-
-
 ## Los blogs de aula
 
 
