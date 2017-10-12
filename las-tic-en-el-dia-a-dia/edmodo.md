@@ -1,3 +1,8 @@
+---
+plugins:
+  - mathjax
+---
+
 # Edmodo, ¿una red social para el aula?
 
 ![](/assets/edmodo.png)
@@ -17,8 +22,6 @@ $$
 $$a=b$$
 
 $$x^n=y^n+z^n$$
-
-
 
 probando gitbook editor
 
