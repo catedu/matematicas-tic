@@ -1,7 +1,3 @@
 {
-"plugins": [
-        "autocover",
-        "mathjax"
-    ],
-"pluginsConfig": {}
+    "plugins": ["mathjax"]
 }
