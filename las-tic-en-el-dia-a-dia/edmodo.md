@@ -1,10 +1,3 @@
----
-plugins:
-  - autocover
-  - mathjax
-pluginsConfig: {}
----
-
 # Edmodo, ¿una red social para el aula?
 
 ![](/assets/edmodo.png)
