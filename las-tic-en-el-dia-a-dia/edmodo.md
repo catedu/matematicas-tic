@@ -1,3 +1,8 @@
+---
+plugins:
+  - mathjax
+---
+
 # Edmodo, ¿una red social para el aula?
 
 ![](/assets/edmodo.png)
