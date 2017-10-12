@@ -1,6 +1,6 @@
 ---
 plugins:
-  - mathjax
+  - katex
 ---
 
 # Edmodo, ¿una red social para el aula?
