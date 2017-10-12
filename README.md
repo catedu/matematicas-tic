@@ -6,6 +6,8 @@ Hay quien sigue llamando _nuevas tecnologías_ a las Tecnologías de la Informac
 
 $$x^2$$
 
+
+
 # Usos de las TIC en educación
 
 ## En el día a día
