@@ -4,10 +4,6 @@ Hay quien sigue llamando _nuevas tecnologías_ a las Tecnologías de la Informac
 
 Últimamente se emplea el acrónimo [TAC ](https://es.wikipedia.org/wiki/Tecnologías_del_aprendizaje_y_el_conocimiento)\(Tecnologías del Aprendizaje y el Conocimiento\) para referirse a esas tecnologías que promueven un aprendizaje significativo. En lo que sigue, y por simplificar, hemos dividido los contenidos en dos grandes apartados que aluden un poco a esta separación entre TIC y TAC. Por un lado, esas tecnologías que usamos, o podemos usar, en el día a día como profesores y que nos facilitan ciertas tareas, pero que no inciden en la forma en que aprenden nuestro alumnado. Y por otro lado, las TIC en clase de matemáticas hace referencia a aquellos servicios y aplicaciones TIC que sí que afectan, o están en condiciones de afectar de forma positiva, a los procesos de enseñanza-aprendizaje de las matemáticas.
 
-$$x^2$$
-
-
-
 # Usos de las TIC en educación
 
 ## En el día a día
