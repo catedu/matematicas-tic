@@ -13,8 +13,6 @@ Hay quien sigue llamando _nuevas tecnologías_ a las Tecnologías de la Informac
 
 $$x^2$$
 
-&lt;script type="math/tex; "&gt;y = bbx + ccy&lt;/script&gt;
-
 # Usos de las TIC en educación
 
 ## En el día a día
