@@ -16,7 +16,11 @@ Lo realmente interesante, desde el punto de vista de la didáctica de las matem�
 
 ## Aviso para navegantes
 
-Es imposible tratar en un curso de 40 horas todo lo relacionado con las matemáticas y las TIC. Algo que pudiera parecer tan simple como la hoja de cálculo, ha dado lugar a tesis doctorales e investigaciones en profundidad. No hablemos ya de Geogebra, que daría para uno o dos cursos aparte de este. La intención de este curso no es otra que la de mostrar alguna de las cosas que pueden hacerse y despertar la curiosidad y las ganas por hacer algo nuevo y que puede influir en nuestro día a día como profesores. Y, lo que más importa, en el aprendizaje de nuestros alumnos.
+Es imposible tratar en un curso de 40 horas todo lo relacionado con las matemáticas y las TIC. Algo que pudiera parecer tan simple como la hoja de cálculo, ha dado lugar a tesis doctorales e investigaciones en profundidad. No hablemos ya de Geogebra, que daría para uno o dos cursos aparte de este, o de Scratch. La intención de este curso no es otra que la de servir de puerta de entrada. Es decir, mostrar alguna de las cosas que pueden hacerse y despertar la curiosidad y las ganas de hacer algo nuevo y que puede influir en nuestro día a día como profesores. Y, lo que más importa, en el aprendizaje de nuestros alumnos.
+
+
+
+
 
 
 
