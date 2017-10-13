@@ -1,4 +1,4 @@
-# Geogebra
+# Breve introducción a Geogebra
 
 Una de las herramientas más utilizadas en niveles preuniversitarios es Geogebra, cuya licencia para aplicaciones no comerciales es de tipo GNU GPL. Por lo tanto, cualquier utilización o modificación del mismo requiere, simplemente, atribuir la autoría especificando el tipo de licencia. Geogebra se puede clasificar como software de geometría dinámica, en el que confluyen un procesador geométrico y otro algebraico. Existe muchísima literatura al respecto, así como investigaciones y experiencias didácticas.
 

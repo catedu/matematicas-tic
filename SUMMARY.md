@@ -13,11 +13,11 @@
 ## Algunas herramientas
 
 * [Escribir matemáticas](herramientas/escribir-matematicas.md)
-* [Cuaderno del profesor](herramientas/cuaderno-del-profesor.md)
+* [Hojas de cálculo como cuaderno del profesor](herramientas/cuaderno-del-profesor.md)
 
 ## Geogebra
 
-* [Geogebra](geogebra/geogebra.md)
+* [Breve introducción a Geogebra](geogebra/geogebra.md)
 * [Personalización](geogebra/personalizacion.md)
 * [Actividades con Geogebra](geogebra/actividades-con-geogebra.md)
 * Integración con otras herramientas
