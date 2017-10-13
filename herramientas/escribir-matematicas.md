@@ -30,11 +30,11 @@ Si copiamos una fórmula de estas y pegamos en otra aplicación \(editor de LaTe
 
 ### Y limitaciones
 
-A día de hoy \(octubre de 2017\), y con la última versión posible de Word, nos encontramos con situaciones un poco marcianas. Son situaciones que recuerdan a esos vídeos de YouTube en los que cogen una canción en inglés, la traducen con Google Translate a otros idiomas y luego de vuelta al inglés. Y el resultado, bueno, el resultado os lo podéis [imaginar](https://www.youtube.com/watch?v=6mqG5l-9wIE). 
+A día de hoy \(octubre de 2017\), y con la última versión posible de Word, nos encontramos con situaciones un poco marcianas. Son situaciones que recuerdan a esos vídeos de YouTube en los que cogen una canción en inglés, la traducen con Google Translate a otros idiomas y luego de vuelta al inglés. Y el resultado, bueno, el resultado os lo podéis [imaginar](https://www.youtube.com/watch?v=6mqG5l-9wIE).
 
 ## El minimalismo al rescate
 
-El minimalismo al que me refiero tiene nombre: [Markdown](https://es.wikipedia.org/wiki/Markdown). De hecho, este libro está hecho con ese sistema. Y se puede escribir esto de aquí:
+El minimalismo es bello. Y en lo que a escritura se refiere, tiene nombre propio: [Markdown](https://es.wikipedia.org/wiki/Markdown). De hecho, este libro está hecho con ese sistema. Se puede escribir esto de aquí:
 
 
 $$
@@ -48,11 +48,7 @@ sin más que escribir esto otro:
 $$e=\lim_{n\to\infty} \left(1+\cfrac{1}{n}\right)^n$$
 ```
 
-Si es la primera vez que ves la sintaxis de LaTeX para expresiones matemáticas, te puede sonar raro. Pero enseguida te habituas. 
+Si es la primera vez que ves la sintaxis de LaTeX para expresiones matemáticas, te puede sonar raro. Pero enseguida te habitúas. 
 
 Hay un buen puñado de editores de Mark
-
-
-
-
 
