@@ -1,4 +1,4 @@
-# Tabla de contenidos
+# Summary
 
 ## Introducción
 
@@ -18,16 +18,17 @@
 ## Geogebra
 
 * [Geogebra](geogebra/geogebra.md)
+* [Personalización](geogebra/personalizacion.md)
+* [Actividades con Geogebra](geogebra/actividades-con-geogebra.md)
+* Integración con otras herramientas
 
 ## Otros recursos para enseñanza-aprendizaje
 
-* [Manipulables virtuales](otros-recursos/manipulables-virtuales.md)
 * [La hoja de cálculo](otros-recursos/la-hoja-de-calculo.md)
+* [Manipulables virtuales](otros-recursos/manipulables-virtuales.md)
 * [Scratch](otros-recursos/scratch.md)
 
 ## A modo de conclusión
 
 * [Esto es solo el principio](final/esto-es-solo-el-principio.md)
-
-
 
