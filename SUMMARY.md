@@ -27,6 +27,7 @@
 * [La hoja de cálculo](otros-recursos/la-hoja-de-calculo.md)
 * [Manipulables virtuales](otros-recursos/manipulables-virtuales.md)
 * [Scratch](otros-recursos/scratch.md)
+* [Algunos enlaces](otros-recursos/algunos-enlaces.md)
 
 ## A modo de conclusión
 
