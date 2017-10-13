@@ -4,7 +4,7 @@ La red social del pajarito, [Twitter](https://twitter.com/). Realmente, se trata
 
 ## ¿Por qué Twitter en un curso de Matemáticas con TIC?
 
-os profesores de todos los niveles, incluidos los de matemáticas, forman un grupo de usuarios bastante activo en Twitter. Activo y heterogéneo, porque encontramos de todo. Desde maestros y profesores que comparten la última actividad que les ha funcionado especialmente bien \(o especialmente mal\) en su aula hasta compañeros que reflexionan sobre algún tema de actualidad \(en educación matemática\), pasando por la divulgación de recursos y muchas otras cosas más.
+Los profesores de todos los niveles, incluidos los de matemáticas, forman un grupo de usuarios bastante activo en Twitter. Activo y heterogéneo, porque encontramos de todo. Desde maestros y profesores que comparten la última actividad que les ha funcionado especialmente bien \(o especialmente mal\) en su aula hasta compañeros que reflexionan sobre algún tema de actualidad \(en educación matemática\), pasando por la divulgación de recursos y muchas otras cosas más.
 
 Algunos usuarios bastante activos son, por ejemplo, [@**ClaraGrima**](https://twitter.com/ClaraGrima) y [@**edusadeci**](https://twitter.com/edusadeci). Basta echar un vistazo a su TimeLine para ver de qué va la cosa. Espera, espera, que en esta última frase han aparecido la arroba y una palabra especial... Y sí, Internet tiene su propia jerga. Twitter usa una terminología peculiar. Vayamos por partes:
 

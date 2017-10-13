@@ -20,7 +20,7 @@
 * [Breve introducción a Geogebra](geogebra/geogebra.md)
 * [Personalización](geogebra/personalizacion.md)
 * [Actividades con Geogebra](geogebra/actividades-con-geogebra.md)
-* Integración con otras herramientas
+* [Integración con otras herramientas](geogebra/integracion-con-otras-herramientas.md)
 
 ## Otros recursos para enseñanza-aprendizaje
 
