@@ -3,32 +3,29 @@
 ## Introducción
 
 * [¿De qué va esto y qué puedo esperar de este curso?](README.md)
-* [Redes sociales](redes-sociales.md)
-  * [dddd](redes-sociales/dddd.md)
 
 ## Redes sociales y blogs
 
-* [Twitter](las-tic-en-el-dia-a-dia/twitter.md)
-* [Blogs](las-tic-en-el-dia-a-dia/blog.md)
-* [Escribir matemáticas](las-tic-en-el-dia-a-dia/escribir-matematicas.md)
-* [Edmodo](las-tic-en-el-dia-a-dia/edmodo.md)
+* [Twitter](redes-sociales/twitter.md)
+* [Blogs](redes-sociales/blog.md)
+* [Edmodo](redes-sociales/edmodo.md)
 
 ## Algunas herramientas
 
-* [prueba](las-tic-en-el-dia-a-dia/prueba.md)
-  * [hola](hola.md)
-* [Cuaderno del profesor](las-tic-en-el-dia-a-dia/cuaderno-del-profesor.md)
+* [Escribir matemáticas](herramientas/escribir-matematicas.md)
+* [Cuaderno del profesor](herramientas/cuaderno-del-profesor.md)
 
-## Enseñando y aprendiendo matemáticas con TIC
+## Geogebra
 
-* [Manipulables virtuales](ensenando-y-aprendiendo-matematicas-con-tic/manipulables-virtuales.md)
-* [La hoja de cálculo](ensenando-y-aprendiendo-matematicas-con-tic/la-hoja-de-calculo.md)
-* [Geogebra](ensenando-y-aprendiendo-matematicas-con-tic/geogebra.md)
-* [Scratch](ensenando-y-aprendiendo-matematicas-con-tic/scratch.md)
+* [Geogebra](geogebra/geogebra.md)
+
+## Otros recursos para enseñanza-aprendizaje
+
+* [Manipulables virtuales](otros-recursos/manipulables-virtuales.md)
+* [La hoja de cálculo](otros-recursos/la-hoja-de-calculo.md)
+* [Scratch](otros-recursos/scratch.md)
 
 ## A modo de conclusión
 
-* [Esto es solo el principio](a-modo-de-conclusion/esto-es-solo-el-principio.md)
-
-## Redes sociales
+* [Esto es solo el principio](final/esto-es-solo-el-principio.md)
 
