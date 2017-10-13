@@ -4,7 +4,7 @@
 
 * [¿De qué va esto y qué puedo esperar de este curso?](README.md)
 
-## Redes sociales
+## Redes sociales y blogs
 
 * [Twitter](las-tic-en-el-dia-a-dia/twitter.md)
 * [Blogs](las-tic-en-el-dia-a-dia/blog.md)
@@ -14,7 +14,7 @@
 ## Algunas herramientas
 
 * [prueba](las-tic-en-el-dia-a-dia/prueba.md)
-  * [hola](las-tic-en-el-dia-a-dia/prueba/hola.md)
+  * [hola](hola.md)
 * [Cuaderno del profesor](las-tic-en-el-dia-a-dia/cuaderno-del-profesor.md)
 
 ## Enseñando y aprendiendo matemáticas con TIC
