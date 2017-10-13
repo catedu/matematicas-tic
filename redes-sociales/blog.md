@@ -1,6 +1,6 @@
 # Los blogs
 
-Podríamos pensar que los blogs andan en decadencia respecto a las redes sociales, como Facebook o Twitter. Es cierto que hay menos bloggers, puesto que hace unos años, los blogs eran el sitio donde se compartían multitud de chistes, contenidos recopilados, etc. Ahora, toda esa actividad loca de compartir todo lo que nos llega tiene lugar por otras vías, como Twitter, Facebook o Pinterest. Y los blogs son el reducto de los curadores de contenidos que aportan algo, de los bloggers reflexivos y de los creadores de contenidos. Sí, luego toda esta comunidad recurre a las redes sociales para compartir su contenido. Pero su cuartel central es el blog.
+Podríamos pensar que los blogs andan en decadencia respecto a las redes sociales, como Facebook o Twitter. Es cierto que hay menos bloggers, puesto que hace unos años, los blogs eran el sitio donde se compartían multitud de chistes, contenidos recopilados, etc. Ahora, toda esa actividad loca de compartir todo lo que nos llega tiene lugar por otras vías, como Twitter, Facebook o Pinterest. Y los blogs son el reducto de los curadores de contenidos que aportan algo, de los bloggers reflexivos y de los creadores de contenidos. Sí, luego toda esta comunidad recurre a las redes sociales para compartir su contenido. Pero su cuartel central es el blog. Y a los docentes nos vienen muy bien.
 
 ## Los blogs personales
 
@@ -10,14 +10,14 @@ Podríamos pensar que los blogs andan en decadencia respecto a las redes sociale
 
 La idea básica la expresa fantásticamente Sorando \(2012\). En sus propias palabras, la cosa es que _¡la clase sigue en casa!,_ y los objetivos son:
 
-* Dejar  constancia  del  desarrollo  diario  de  la  clase  y  de  sus  actividades, facilitando  los  repasos  en  casa,  el  control  paterno  y  el  seguimiento  por alumnos ausentes por enfermedad. 
-* Estimular la responsabilidad, participación y cuidado de aspectos formales por parte  de  los  alumnos,  ante  el  compromiso  de  presentar  artículos  a  sus compañeros.
-* Dar  cauce  al  interés  de  algunos  alumnos  \(¡son  más de  los  que  pensamos!\) ávidos por conocer más allá de lo que en clase se ofrece.  
-* Presentar variados recursos \(aplicaciones interactivas, videos, fotos, artículos, humor,  canciones,  etc.\)  cuando  hay  dificultades  para  encajarlos  en  la  clase por  limitaciones  de  infraestructuras,  organización escolar  o  dinámica  del grupo. 
-* Fomentar  la  capacidad  de  resolver  problemas  y,  como  culminación  del proceso,  la  participación  en  los  concursos  matemáticos  que  cada  año  se ofrecen  \(Olimpiada  Matemática,  Fotografía Matemática,  Canguro Matemático y Rally Matemático sin Fronteras, en nuestro caso\).
-* Contribuir  a  la  creación  de  una  cultura  de  grupo, con  el  intercambio  de propuestas,   ideas   y   opiniones   entre   compañeros;   valorando   siempre positivamente a quien ofrece algo a los demás. 
-* Adiestrar  la  “mirada  matemática”  de  los  alumnos,  mostrándoles  la  presencia matemática en su mundo próximo.
-* Construir  en  la  práctica  un  vínculo  positivo  con  el  conocimiento  que  excede las obligaciones pautadas.
+* Dejar constancia del desarrollo diario de la clase y de sus actividades, facilitando los repasos en casa, el control paterno y el seguimiento por alumnos ausentes por enfermedad.
+* Estimular la responsabilidad, participación y cuidado de aspectos formales por parte de los alumnos, ante el compromiso de presentar artículos a sus compañeros.
+* Dar cauce al interés de algunos alumnos \(¡son más de los que pensamos!\) ávidos por conocer más allá de lo que en clase se ofrece.
+* Presentar variados recursos \(aplicaciones interactivas, videos, fotos, artículos, humor, canciones, etc.\) cuando hay dificultades para encajarlos en la clase por limitaciones de infraestructuras, organización escolar o dinámica del grupo.
+* Fomentar la capacidad de resolver problemas y, como culminación del proceso, la participación en los concursos matemáticos que cada año se ofrecen \(Olimpiada Matemática, Fotografía Matemática, Canguro Matemático y Rally Matemático sin Fronteras, en nuestro caso\).
+* Contribuir a la creación de una cultura de grupo, con el intercambio de propuestas, ideas y opiniones entre compañeros; valorando siempre positivamente a quien ofrece algo a los demás.
+* Adiestrar la “mirada matemática” de los alumnos, mostrándoles la presencia matemática en su mundo próximo.
+* Construir en la práctica un vínculo positivo con el conocimiento que excede las obligaciones pautadas.
 
 Los blogs como herramienta permitían cumplir con estos objetivos perfectamente. Entre sus características cabe mensionar la existencia de plataformas gratuitas, la baja dependencia de la tecnología \(sencillez de uso\), estructura de diario y posibilidades de interacción \(comentarios, múltiples autores\), etc. Los resultados del proyecto de Sorando son más que llamativos y desde aquí recomendamos una visita a sus [blogs de aula](http://matematicasentumundo.es/blogsdeaula.htm).
 
@@ -26,6 +26,10 @@ Los blogs como herramienta permitían cumplir con estos objetivos perfectamente.
 Ahora bien, también es cierto que la tecnología cambia. Y lo hace rápido. Actualmente  existen otros recursos con las que abordar las premisas de Sorando. Aunque para gustos, colores, en este módulo introduciremos una de estas herramientas, Edmodo, en este sentido.
 
 ## Las plataformas más empleadas: Blogger y Wordpress
+
+Ahora viene la parte práctica. Hay diversas opciones para montar un blog y aquí no vamos a listar todas. Si disponemos de un servidor propio o de un servicio de alojamiento online, podemos descargarnos alguna de las plataformas de código abierto disponibles por ahí y ponerla a funcionar \(por ejemplo, [Ghost](https://ghost.org)\). Pero si no queremos cacharrear y nos queremos centrar directamente en el contenido, nada más fácil que acudir a [Blogger ](https://www.blogger.com)o a [Wordpress ](https://es.wordpress.com/)\(de hecho, el [software de Wordpress](https://wordpress.org/) es abierto y también se puede descargar para hacerlo funcionar en un servidor\). Ambas son gratuitas, debiendo pagar únicamente en Wordpress para funcionalidades específicas.
+
+En el curso nos centraremos en Blogger. Realmente, los pasos a seguir serían muy similares para Wordpress.
 
 
 
