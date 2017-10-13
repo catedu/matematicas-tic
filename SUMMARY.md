@@ -3,6 +3,8 @@
 ## Introducción
 
 * [¿De qué va esto y qué puedo esperar de este curso?](README.md)
+* [Redes sociales](redes-sociales.md)
+  * [dddd](redes-sociales/dddd.md)
 
 ## Redes sociales y blogs
 
@@ -27,4 +29,6 @@
 ## A modo de conclusión
 
 * [Esto es solo el principio](a-modo-de-conclusion/esto-es-solo-el-principio.md)
+
+## Redes sociales
 
