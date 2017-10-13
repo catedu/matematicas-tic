@@ -5,13 +5,13 @@ Hay cuadernos del profesor que casi podrían tildarse de obras de arte. Al final
 * El uso del papel hace necesario tirar de calculadora para calcular medias y notas finales.
 * Si pierdo el cuaderno... ¿qué pasa?
 
-Existen en la red multitud de cuadernos del profesor realizados en hoja de cálculo \(tanto en Excel, Drive como Libreoffice\) y que sustituyen al tradicional cuaderno de papel. 
+Existen en la red multitud de cuadernos del profesor realizados en hoja de cálculo \(tanto en Excel, Drive como Libreoffice\) y que sustituyen al tradicional cuaderno de papel.
 
-![](/assets/drive.png)![](/assets/excel.png)![](/assets/calclogo.png)
+![](/assets/drive.png)![](/assets/excel.png)![](/assets/calclogo.png)![](/herramientas/assets/calclogo.png)![](/herramientas/assets/excel.png)![](/herramientas/assets/drive.png)
 
 A modo de ejemplo:
 
-* Es interesante el realizado en Excel por Antonio J. Calvillo, compatible con LibreOffice, en cuya página podemos descargarlo \([http://www.musikawa.es/cuaderno-del-profesor-en-excel-muy-facil-manual-musikawa\](http://www.musikawa.es/cuaderno-del-profesor-en-excel-muy-facil-manual-musikawa\)\)
+* Es interesante el realizado en Excel por Antonio J. Calvillo, compatible con LibreOffice, en cuya página podemos descargarlo \([http://www.musikawa.es/cuaderno-del-profesor-en-excel-muy-facil-manual-musikawa\](http://www.musikawa.es/cuaderno-del-profesor-en-excel-muy-facil-manual-musikawa%29\)
 * 
 
 
