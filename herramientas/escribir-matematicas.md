@@ -38,7 +38,7 @@ El minimalismo es bello. Y en lo que a escritura se refiere, tiene nombre propio
 
 
 $$
-e=\lim_{n\to\infty} \left(1 +\cfrac{1}{n}\right)^n
+e=\lim_{n\to\infty} \left(1+\cfrac{1}{n}\right)^n
 $$
 
 
@@ -76,5 +76,5 @@ Puede parecer simple, porque lo es. Observemos que todas las opciones son accesi
 
 ![](/herramientas/assets/typora01.png)
 
-Como podemos ver, tenemos las opciones básicas de cualquier editor. 
+Como podemos ver, tenemos las opciones básicas de cualquier editor.
 
