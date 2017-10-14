@@ -68,11 +68,15 @@ Hay un buen puñado de editores de markdown. En el fondo, basta con un editor de
 
 En la página web de [Typora ](https://typora.io/)podemos descargar el programita en cuestión. Si tenemos Windows o Mac se nos bajará un ejecutable, mientras que si tenemos Linux, en la página vienen las [instrucciones ](https://typora.io/#linux)para que se mantenga actualizado.
 
-Para poder disfrutar de todas las capacidades de exportación, hay que instalar pandoc. 
+Para poder disfrutar de todas las capacidades de exportación, hay que instalar pandoc.
 
 #### Aspecto del entorno
 
-Puede parecer simple, porque lo es. Observemos que todas las opciones son accesibles desde los menús \(o con atajos de teclado\) y que tampoco hay que estar tecleando en markdown \(aunque acelera el asunto\). 
+Puede parecer simple, porque lo es. Observemos que todas las opciones son accesibles desde los menús \(o con atajos de teclado\) y que tampoco hay que estar tecleando en markdown \(aunque acelera el asunto\).
 
 ![](/herramientas/assets/typora01.png)
+
+
+
+
 
