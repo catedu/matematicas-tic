@@ -34,13 +34,11 @@ A día de hoy \(octubre de 2017\), y con la última versión posible de Word, no
 
 ## El minimalismo al rescate
 
-El minimalismo es bello. 
-
 ```
 $$e=\lim_{n\to\infty} \left(1+\cfrac{1}{n}\right)^n$$
 ```
 
-Si es la primera vez que ves la sintaxis de LaTeX para expresiones matemáticas, te puede sonar raro. Pero enseguida te habitúas. Y respecto a la sintaxis de markdown, resulta tan simple que pronto te ves escribiendo palabras entre dos asteriscos para activar la**negrita**.
+Si es la primera vez que ves la sintaxis de LaTeX para expresiones matemáticas, te puede sonar raro. Pero enseguida te habitúas. Y respecto a la sintaxis de markdown, resulta tan simple que pronto te ves escribiendo palabras entre dos asteriscos para activar la **negrita**.
 
 ```
 **negrita**
