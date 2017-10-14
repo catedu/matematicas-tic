@@ -12,6 +12,14 @@ Existen en la red multitud de cuadernos del profesor realizados en hoja de cálc
 A modo de ejemplo:
 
 * Es interesante el realizado en Excel por Antonio J. Calvillo, compatible con LibreOffice, en cuya página podemos descargarlo \([http://www.musikawa.es/cuaderno-del-profesor-en-excel-muy-facil-manual-musikawa\](http://www.musikawa.es/cuaderno-del-profesor-en-excel-muy-facil-manual-musikawa%29\)
+
+
+
+## Otros cuadernos digitales del profesor
+
+### Android
+
+* [Cuaderno del Profesor/a](https://play.google.com/store/apps/details?id=com.apolosoft.cuadernoprofesor&hl=es), de Fran Meneu. 
 * 
 
 
