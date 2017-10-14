@@ -36,8 +36,6 @@ A día de hoy \(octubre de 2017\), y con la última versión posible de Word, no
 
 El minimalismo es bello. Y en lo que a escritura se refiere, tiene nombre propio: [markdown](https://es.wikipedia.org/wiki/Markdown). De hecho, este libro está hecho con Gitbook, que sigue ese sistema. En lo que a matemáticas se refiere, se puede escribir esto de aquí:
 
-$$e=\lim_{n\to\infty} \left(1+\cfrac{1}{n}\right)^n$$
-
 sin más que escribir esto otro:
 
 ```
