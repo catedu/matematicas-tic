@@ -34,27 +34,7 @@ A día de hoy \(octubre de 2017\), y con la última versión posible de Word, no
 
 ## El minimalismo al rescate
 
-El minimalismo es bello. Y en lo que a escritura se refiere, tiene nombre propio: [markdown](https://es.wikipedia.org/wiki/Markdown). De hecho, este libro está hecho con Gitbook, que sigue ese sistema. En lo que a matemáticas se refiere, se puede escribir esto de aquí:
 
-$$e=\lim_{n\to\infty}\left(1+\cfrac{1}{n}\right)^n$$
-
-sin más que escribir esto otro:
-
-```
-$$e=\lim_{n\to\infty} \left(1+\cfrac{1}{n}\right)^n$$
-```
-
-Si es la primera vez que ves la sintaxis de LaTeX para expresiones matemáticas, te puede sonar raro. Pero enseguida te habitúas. Y respecto a la sintaxis de markdown, resulta tan simple que pronto te ves escribiendo palabras entre dos asteriscos para activar la **negrita**.
-
-```
-**negrita**
-```
-
-Hay un buen puñado de editores de markdown. En el fondo, basta con un editor de texto plano, como el bloc de notas de toda la vida o el magnífico [Notepad++](#). Pero es que no hace falta. Los editores especializados en Markdown te permiten ver directamente el resultado de lo que escribes. Por ejemplo, esta es la barra de Gitbook Editor que veo arriba del todo mientras escribo estas líneas:
-
-![](/herramientas/assets/barra-gitbook.png)
-
-¿Para qué más? Lo simple es bello. Y si quieres cambiar el estilo, también hay plantillas y formas de hacerlo. A continuación, vamos a ver un poquito en profundidad un editor que, aunque se encuentra en versión beta todavía, es increíble. Por simple. Se trata de [Typora](#).
 
 ### Typora
 
@@ -64,7 +44,7 @@ Hay un buen puñado de editores de markdown. En el fondo, basta con un editor de
 
 En la página web de [Typora ](https://typora.io/)podemos descargar el programita en cuestión. Si tenemos Windows o Mac se nos bajará un ejecutable, mientras que si tenemos Linux, en la página vienen las [instrucciones ](https://typora.io/#linux)para que se mantenga actualizado.
 
-Para poder disfrutar de todas las capacidades de exportación, hay que instalar pandoc. 
+Para poder disfrutar de todas las capacidades de exportación, hay que instalar pandoc.
 
 #### Aspecto del entorno
 
