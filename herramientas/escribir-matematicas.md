@@ -56,7 +56,5 @@ Hay un buen puñado de editores de markdown. En el fondo, basta con un editor de
 
 ¿Para qué más? Lo simple es bello. Y si quieres cambiar el estilo, también hay plantillas y formas de hacerlo. A continuación, vamos a ver un poquito en profundidad un editor que, aunque se encuentra en versión beta todavía, es increíble. Por simple. Se trata de [Typora](https://typora.io/).
 
-### 
-
 
 
