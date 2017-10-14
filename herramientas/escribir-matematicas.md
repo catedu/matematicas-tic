@@ -12,11 +12,11 @@ Aproximadamente desde verano de 2017, ya se pueden escribir [ecuaciones en la si
 
 ### Cómo funciona
 
-1- Insertar ecuación y seleccionar modo {}LaTeX
+1- Insertar ecuación y seleccionar modo `{}LaTeX`
 
 ![](/herramientas/assets/latexword01.png)
 
-2- En el cuadro de la ecuación, escribir \(o pegar\) en sintaxis LaTeX la expresión que deseemos. Por ejemplo: \frac{a+b}{c+d}![](/herramientas/assets/latexword02.png)
+2- En el cuadro de la ecuación, escribir \(o pegar\) en sintaxis LaTeX la expresión que deseemos. Por ejemplo: `\frac{a+b}{c+d}`![](/herramientas/assets/latexword02.png)
 
 3- Para ir alternando habrá que darle a "Convertir". Si convertimos a "Profesional", veremos el resultado:
 
@@ -26,7 +26,7 @@ Aproximadamente desde verano de 2017, ya se pueden escribir [ecuaciones en la si
 
 ### Cosas interesantes
 
-Si copiamos una fórmula de estas y pegamos en otra aplicación \(editor de LaTeX o un simple notepad\), lo que aparecerá será la expresión LaTeX. Maravilloso. Aunque sería todavía mejor si Word permitiese entrar en el modo ecuación tecleando $$ o \\[. Todo llegará, supongo. Y otra cosa que tampoco está habilitada en el editor de ecuaciones en modo LaTeX es el empleo de tags como \begin o \end.
+Si copiamos una fórmula de estas y pegamos en otra aplicación \(editor de LaTeX o un simple notepad\), lo que aparecerá será la expresión LaTeX. Maravilloso. Aunque sería todavía mejor si Word permitiese entrar en el modo ecuación tecleando `$$` o `\[`. Todo llegará, supongo. Y otra cosa que tampoco está habilitada en el editor de ecuaciones en modo LaTeX es el empleo de tags como `\begin` o `\end`.
 
 ### Y limitaciones
 
@@ -40,7 +40,9 @@ $$e=\lim_{n\to\infty} \left(1+\cfrac{1}{n}\right)^n$$
 
 sin más que escribir esto otro:
 
-
+```
+$$e=\lim_{n\to\infty} \left(1+\cfrac{1}{n}\right)^n$$
+```
 
 Si es la primera vez que ves la sintaxis de LaTeX para expresiones matemáticas, te puede sonar raro. Pero enseguida te habitúas. Y respecto a la sintaxis de markdown, resulta tan simple que pronto te ves escribiendo palabras entre dos asteriscos para activar la **negrita**.
 
