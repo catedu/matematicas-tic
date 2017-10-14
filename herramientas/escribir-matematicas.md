@@ -76,3 +76,5 @@ Puede parecer simple, porque lo es. Observemos que todas las opciones son accesi
 
 ![](/herramientas/assets/typora01.png)
 
+Como podemos ver, tenemos las opciones básicas de cualquier editor. 
+
