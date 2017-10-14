@@ -76,7 +76,3 @@ Puede parecer simple, porque lo es. Observemos que todas las opciones son accesi
 
 ![](/herramientas/assets/typora01.png)
 
-
-
-
-
