@@ -36,6 +36,8 @@ A día de hoy \(octubre de 2017\), y con la última versión posible de Word, no
 
 El minimalismo es bello. Y en lo que a escritura se refiere, tiene nombre propio: [markdown](https://es.wikipedia.org/wiki/Markdown). De hecho, este libro está hecho con Gitbook, que sigue ese sistema. En lo que a matemáticas se refiere, se puede escribir esto de aquí:
 
+$$e=\lim_{n\to\infty} \left(1+\cfrac{1}{n}\right)^n$$
+
 sin más que escribir esto otro:
 
 ```
@@ -54,19 +56,7 @@ Hay un buen puñado de editores de markdown. En el fondo, basta con un editor de
 
 ¿Para qué más? Lo simple es bello. Y si quieres cambiar el estilo, también hay plantillas y formas de hacerlo. A continuación, vamos a ver un poquito en profundidad un editor que, aunque se encuentra en versión beta todavía, es increíble. Por simple. Se trata de [Typora](https://typora.io/).
 
-### Typora
+### 
 
-![](/herramientas/assets/typoralogo.png)
 
-#### Descarga e instalación
-
-En la página web de [Typora ](https://typora.io/)podemos descargar el programita en cuestión. Si tenemos Windows o Mac se nos bajará un ejecutable, mientras que si tenemos Linux, en la página vienen las [instrucciones ](https://typora.io/#linux)para que se mantenga actualizado.
-
-Para poder disfrutar de todas las capacidades de exportación, hay que instalar pandoc.
-
-#### Aspecto del entorno
-
-Puede parecer simple, porque lo es. Observemos que todas las opciones son accesibles desde los menús \(o con atajos de teclado\) y que tampoco hay que estar tecleando en markdown \(aunque acelera el asunto\).
-
-![](/herramientas/assets/typora01.png)Como podemos ver, tenemos las opciones básicas de cualquier editor.
 
