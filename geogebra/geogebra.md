@@ -6,17 +6,13 @@ Antes de empezar con esta mini-introducción a Geogebra, es de recibo avisar de 
 
 ## Descarga e instalación
 
-
+Realmente, no hace falta instalar nada. 
 
 ## Filosofía
-
-
 
 ![](/geogebra/assets/geogebra01.png)
 
 ## Construcciones geométricas
-
-
 
 ## Expresiones algebraicas
 
