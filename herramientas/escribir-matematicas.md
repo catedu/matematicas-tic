@@ -32,45 +32,5 @@ Si copiamos una fórmula de estas y pegamos en otra aplicación \(editor de LaTe
 
 A día de hoy \(octubre de 2017\), y con la última versión posible de Word, nos encontramos con situaciones un poco marcianas. Son situaciones que recuerdan a esos vídeos de YouTube en los que cogen una canción en inglés, la traducen con Google Translate a otros idiomas y luego de vuelta al inglés. Y el resultado, bueno, el resultado os lo podéis [imaginar](https://www.youtube.com/watch?v=6mqG5l-9wIE).
 
-## El minimalismo al rescate
 
-El minimalismo es bello. Y en lo que a escritura se refiere, tiene nombre propio: [markdown](https://es.wikipedia.org/wiki/Markdown). De hecho, este libro está hecho con Gitbook, que sigue ese sistema. En lo que a matemáticas se refiere, se puede escribir esto de aquí:
-
-
-$$
-e=\lim_{n\to\infty} \left(1+\cfrac{1}{n}\right)^n
-$$
-sin más que escribir esto otro:
-
-```
-$$e=\lim_{n\to\infty} \left(1+\cfrac{1}{n}\right)^n$$
-```
-
-Si es la primera vez que ves la sintaxis de LaTeX para expresiones matemáticas, te puede sonar raro. Pero enseguida te habitúas. Y respecto a la sintaxis de markdown, resulta tan simple que pronto te ves escribiendo palabras entre dos asteriscos para activar la **negrita**.
-
-```
-**negrita**
-```
-
-Hay un buen puñado de editores de markdown. En el fondo, basta con un editor de texto plano, como el bloc de notas de toda la vida o el magnífico [Notepad++](https://notepad-plus-plus.org). Pero es que no hace falta. Los editores especializados en Markdown te permiten ver directamente el resultado de lo que escribes. Por ejemplo, esta es la barra de Gitbook Editor que veo arriba del todo mientras escribo estas líneas:
-
-![](/herramientas/assets/barra-gitbook.png)
-
-¿Para qué más? Lo simple es bello. Y si quieres cambiar el estilo, también hay plantillas y formas de hacerlo. A continuación, vamos a ver un poquito en profundidad un editor que, aunque se encuentra en versión beta todavía, es increíble. Por simple. Se trata de [Typora](https://typora.io/).
-
-### Typora
-
-![](/herramientas/assets/typoralogo.png)
-
-#### Descarga e instalación
-
-En la página web de [Typora ](https://typora.io/)podemos descargar el programita en cuestión. Si tenemos Windows o Mac se nos bajará un ejecutable, mientras que si tenemos Linux, en la página vienen las [instrucciones ](https://typora.io/#linux)para que se mantenga actualizado.
-
-Para poder disfrutar de todas las capacidades de exportación, hay que instalar pandoc.
-
-#### Aspecto del entorno
-
-Puede parecer simple, porque lo es. Observemos que todas las opciones son accesibles desde los menús \(o con atajos de teclado\) y que tampoco hay que estar tecleando en markdown \(aunque acelera el asunto\).
-
-![](/herramientas/assets/typora01.png)Como podemos ver, tenemos las opciones básicas de cualquier editor.
 
