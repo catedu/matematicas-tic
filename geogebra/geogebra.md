@@ -2,17 +2,25 @@
 
 Una de las herramientas más utilizadas en niveles preuniversitarios es Geogebra, cuya licencia para aplicaciones no comerciales es de tipo GNU GPL y se descarga gratuitamente. Además, se puede emplear directamente en línea. Geogebra se puede clasificar como software de geometría dinámica, en el que confluyen un procesador geométrico y otro algebraico y existe muchísima literatura al respecto, así como investigaciones y experiencias didácticas.
 
+Antes de empezar con esta mini-introducción a Geogebra, es de recibo avisar de que si no le gusta al lector... hay otras. No hay más que asomarse a la [wiki oficial de Geogebra en español](https://wiki.geogebra.org/es/Tutoriales) o al [manual ](https://wiki.geogebra.org/en/Manual)y los [tutoriales ](https://wiki.geogebra.org/en/Tutorials)en inglés. Aquí haremos una introducción técnica, a la que añadiremos ejemplos de actividades.
+
+## Descarga e instalación
+
+
+
 ## Filosofía
 
 
 
+![](/geogebra/assets/geogebra01.png)
+
+## Construcciones geométricas
 
 
 
+## Expresiones algebraicas
 
 ## Para saber más \(referencias\)
-
-Arnal-Bailera, A. \(2013\). [_Mediación tecnológica en la enseñanza y el aprendizaje de Geometría con grupos de riesgo: Estudio múltiple de casos_](https://ddd.uab.cat/record/117881). Tesis doctoral: Universitat Autònoma de Barcelona.
 
 Hohenwarter, M. & Preiner, J. \(2007\). [Dynamic mathematics with GeoGebra](https://www.maa.org/external_archive/joma/Volume7/Hohenwarter/index.html). _The Journal of Online Mathematics and Its Applications, 7_, 1448.
 
