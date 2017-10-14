@@ -38,14 +38,14 @@ Y en lo que a escritura se refiere, tiene nombre propio: [markdown](https://es.w
 
 
 $$
-e=\lim_{n\to\infty} \left(1+\cfrac{1}{n}\right)^n
+e=\lim_{n\to\infty} \left( 1+\cfrac{1}{n} \right)^n
 $$
 
 
 sin más que escribir esto otro:
 
 ```
-e=\lim_{n\to\infty} \left(1+\cfrac{1}{n}\right)^n
+e=\lim_{n\to\infty} \left( 1+\cfrac{1}{n}\right)^n
 ```
 
 Si es la primera vez que ves la sintaxis de LaTeX para expresiones matemáticas, te puede sonar raro. Pero enseguida te habitúas. Y respecto a la sintaxis de markdown, resulta tan simple que pronto te ves escribiendo palabras entre dos asteriscos para activar la **negrita**.
