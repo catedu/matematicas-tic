@@ -58,11 +58,19 @@ Hay un buen puñado de editores de Markdown. En el fondo, basta con un editor de
 
 ![](/herramientas/assets/barra-gitbook.png)
 
-¿Para qué más? Lo simple es bello. Y si quieres cambiar el estilo, también hay plantillas y formas de hacerlo. A continuación, vamos a ver un poquito en profundidad un editor que, aunque se encuentra en versión beta todavía, es increíble. Por simple. Se trata de [Typora](https://typora.io/). 
+¿Para qué más? Lo simple es bello. Y si quieres cambiar el estilo, también hay plantillas y formas de hacerlo. A continuación, vamos a ver un poquito en profundidad un editor que, aunque se encuentra en versión beta todavía, es increíble. Por simple. Se trata de [Typora](https://typora.io/).
 
 ### Typora
 
+#### Descarga e instalación
+
 En la página web de [Typora ](https://typora.io/)podemos descargar el programita en cuestión. Si tenemos Windows o Mac se nos bajará un ejecutable, mientras que si tenemos Linux, en la página vienen las [instrucciones ](https://typora.io/#linux)para que se mantenga actualizado.
+
+#### Aspecto del entorno
+
+Puede parecer simple, porque lo es. Observemos que todas las opciones son accesibles desde los menús \(o con atajos de teclado\). 
+
+![](/herramientas/assets/typora01.png)
 
 
 
