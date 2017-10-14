@@ -38,7 +38,7 @@ Y en lo que a escritura se refiere, tiene nombre propio: [markdown](https://es.w
 
 
 $$
-e=\lim_{n\to\infty} \left({1+\cfrac{1}{n}}\right)^n
+e=\lim_{n\to\infty} \left( 1+\frac{1}{n} \right)^n
 $$
 
 
