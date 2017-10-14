@@ -19,6 +19,7 @@
 
 * [Breve introducción a Geogebra](geogebra/geogebra.md)
 * [Personalización del entorno](geogebra/personalizacion.md)
+* [Geogebra en clase](geogebra/geogebra-en-clase.md)
 * [Actividades con Geogebra](geogebra/actividades-con-geogebra.md)
 * [Integración con otras herramientas](geogebra/integracion-con-otras-herramientas.md)
 

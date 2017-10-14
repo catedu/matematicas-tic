@@ -1,4 +1,6 @@
-# Actividades con Geogebra
+# Utilización didáctica de Geogebra
+
+
 
 
 
