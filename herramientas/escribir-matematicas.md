@@ -14,13 +14,13 @@ Aproximadamente desde verano de 2017, ya se pueden escribir [ecuaciones en la si
 
 1- Insertar ecuación y seleccionar modo {}LaTeX
 
-[![](https://3.bp.blogspot.com/--1Y6LYgFEyc/Wb581DFkHlI/AAAAAAAAEZQ/sFbWA_N97YoYEMd5OZWCbCiO9ueDjKbVwCEwYBhgL/s1600/word01.jpg)](https://3.bp.blogspot.com/--1Y6LYgFEyc/Wb581DFkHlI/AAAAAAAAEZQ/sFbWA_N97YoYEMd5OZWCbCiO9ueDjKbVwCEwYBhgL/s1600/word01.jpg)
+![](/herramientas/assets/latexword01.png)
 
-2- En el cuadro de la ecuación, escribir \(o pegar\) en sintaxis LaTeX la expresión que deseemos. Por ejemplo: \frac{a+b}{c+d}[![](https://4.bp.blogspot.com/-88omupwe07Q/Wb581My8ZzI/AAAAAAAAEZY/j9-Yft7EQ9AIjDeG4MYRKwZ_qwlyARAcACEwYBhgL/s1600/word02.jpg)](https://4.bp.blogspot.com/-88omupwe07Q/Wb581My8ZzI/AAAAAAAAEZY/j9-Yft7EQ9AIjDeG4MYRKwZ_qwlyARAcACEwYBhgL/s1600/word02.jpg)
+2- En el cuadro de la ecuación, escribir \(o pegar\) en sintaxis LaTeX la expresión que deseemos. Por ejemplo: \frac{a+b}{c+d}![](/herramientas/assets/latexword02.png)
 
 3- Para ir alternando habrá que darle a "Convertir". Si convertimos a "Profesional", veremos el resultado:
 
-[![](https://3.bp.blogspot.com/-bTZkagvVTSo/Wb581fq-jHI/AAAAAAAAEZY/9BAqXSmvb_kq3o6lq-A-LyN1biErDqb1QCEwYBhgL/s1600/word03.jpg)](https://3.bp.blogspot.com/-bTZkagvVTSo/Wb581fq-jHI/AAAAAAAAEZY/9BAqXSmvb_kq3o6lq-A-LyN1biErDqb1QCEwYBhgL/s1600/word03.jpg)
+![](/herramientas/assets/latexword03.png)
 
 4- Mientras que si convertimos a "Lineal", volveremos a ver la expresión LaTeX que hay detrás de ese renderizado, pudiendo modificarla de nuevo.
 
@@ -40,8 +40,6 @@ El minimalismo es bello. Y en lo que a escritura se refiere, tiene nombre propio
 $$
 e=\lim_{n\to\infty} \left(1+\cfrac{1}{n}\right)^n
 $$
-
-
 sin más que escribir esto otro:
 
 ```
