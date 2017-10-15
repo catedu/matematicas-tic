@@ -2,13 +2,19 @@
 
 ## LaTeX
 
-LaTeX es algo que genera sentimientos encontrados. Hay gente que lo ama y gente que lo odia.
+$$\LaTeX$$ es algo que genera sentimientos encontrados. Hay gente que lo ama y gente que lo odia. Pero su sintaxis para escribir expresiones matemáticas es muy, pero que muy cómoda. No vamos aquí a aprender los entresijos más avanzados, sino que vamos a centrar nuestra atención en utilizar un editor online con una plantilla para hacer exámenes. De esta manera, conoceremos la estructura de un documento de $$\LaTeX$$ a la vez que nos hacemos con algo que podemos utilizar mañana mismo en el colegio o en el instituto. 
+
+Utilizaremos el estupendo editor en línea ShareLaTeX, a partir de la[ plantilla para examen](https://es.sharelatex.com/project/59e28be7b1ea802c6058f481) que hemos hecho pública para este curso \(ese regalo que se lleva el lector\).
+
+
 
 ## LaTeX en MS Word
 
+Sigue teniendo su cosa escribir matemáticas en MS Word, pero allá vamos. 
+
 ![](/herramientas/assets/latex-word.png)
 
-Aproximadamente desde verano de 2017, ya se pueden escribir [ecuaciones en la sintaxis de LaTeX en documentos de MS Word](https://blogs.msdn.microsoft.com/murrays/2017/07/30/latex-math-in-office/). Para Powerpoint hay una triquiñuela, pero no hemos conseguido hacerla funcionar con el paquete de idioma español, así que lo dejaremos para otro momento y vamos a centrarnos ahora en lo que funciona desde la versión de Office 1707 \(Build 8326.2058\). Y esto es una novedad, a la que tampoco se le ha dado mucha publicidad, pero para la que existía una potencial comunidad de usuarios que la esperaban como agua de mayo. Facilita enormemente, por ejemplo, el copy-paste de fórmulas de otros sitios. Además, la sintaxis de LaTeX puede parecer extraña al principio, pero es bastante más eficaz para escribir ecuaciones y fórmulas que el seleccionado manual con el ratón a través de múltiples menús.
+Aproximadamente desde verano de 2017, ya se pueden escribir [ecuaciones en la sintaxis de LaTeX en documentos de MS Word](https://blogs.msdn.microsoft.com/murrays/2017/07/30/latex-math-in-office/). Para Powerpoint hay una triquiñuela, pero no hemos conseguido hacerla funcionar con el paquete de idioma español, así que lo dejaremos para otro momento y vamos a centrarnos ahora en lo que funciona desde la versión de Office 1707 \(Build 8326.2058\). Y esto es una novedad, a la que tampoco se le ha dado mucha publicidad, pero para la que existía una potencial comunidad de usuarios que la esperaban como agua de mayo. Facilita enormemente, por ejemplo, el copy-paste de fórmulas de otros sitios. Además, la sintaxis de $$\LaTeX$$ puede parecer extraña al principio, pero es bastante más eficaz para escribir ecuaciones y fórmulas que el seleccionado manual con el ratón a través de múltiples menús.
 
 ### Cómo funciona
 
@@ -26,15 +32,13 @@ Aproximadamente desde verano de 2017, ya se pueden escribir [ecuaciones en la si
 
 ### Cosas interesantes
 
-Si copiamos una fórmula de estas y pegamos en otra aplicación \(editor de LaTeX o un simple notepad\), lo que aparecerá será la expresión LaTeX. Maravilloso. Aunque sería todavía mejor si Word permitiese entrar en el modo ecuación tecleando $$ o \\[. Todo llegará, supongo. Y otra cosa que tampoco está habilitada en el editor de ecuaciones en modo LaTeX es el empleo de tags como \begin o \end.
+Si copiamos una fórmula de estas y pegamos en otra aplicación \(editor de $$\LaTeX$$ o un simple notepad\), lo que aparecerá será la expresión $$\LaTeX$$. Maravilloso. Aunque sería todavía mejor si Word permitiese entrar en el modo ecuación tecleando $$ o \\[. Todo llegará, supongo. Y otra cosa que tampoco está habilitada en el editor de ecuaciones en modo LaTeX es el empleo de tags como \begin o \end.
 
 ### Y limitaciones
 
 A día de hoy \(octubre de 2017\), y con la última versión posible de Word, nos encontramos con situaciones un poco marcianas. Son situaciones que recuerdan a esos vídeos de YouTube en los que cogen una canción en inglés, la traducen con Google Translate a otros idiomas y luego de vuelta al inglés. Y el resultado, bueno, el resultado os lo podéis [imaginar](https://www.youtube.com/watch?v=6mqG5l-9wIE).
 
 ## El minimalismo al rescate
-
-
 
 ### Typora
 
@@ -44,7 +48,7 @@ A día de hoy \(octubre de 2017\), y con la última versión posible de Word, no
 
 En la página web de [Typora ](https://typora.io/)podemos descargar el programita en cuestión. Si tenemos Windows o Mac se nos bajará un ejecutable, mientras que si tenemos Linux, en la página vienen las [instrucciones ](https://typora.io/#linux)para que se mantenga actualizado.
 
-Para poder disfrutar de todas las capacidades de exportación, hay que instalar pandoc.
+Aunque para exportar a `pdf `y `html `no hace falta, para poder disfrutar de todas las capacidades de exportación, hay que instalar pandoc.
 
 #### Aspecto del entorno
 
