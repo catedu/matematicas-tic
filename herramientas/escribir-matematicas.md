@@ -2,12 +2,13 @@
 
 ## LaTeX
 
-$$\LaTeX$$ es algo que genera sentimientos encontrados. Hay gente que lo ama y gente que lo odia. Pero su sintaxis para escribir expresiones matemáticas es muy, pero que muy cómoda. No vamos aquí a aprender los entresijos más avanzados, sino que vamos a centrar nuestra atención en utilizar un editor online con una plantilla para hacer exámenes. De esta manera, conoceremos la estructura de un documento de $$\LaTeX$$ a la vez que nos hacemos con algo que podemos utilizar mañana mismo en el colegio o en el instituto. 
+$$\LaTeX$$ es algo que genera sentimientos encontrados. Hay gente que lo ama y gente que lo odia. Pero su sintaxis para escribir expresiones matemáticas es muy, pero que muy cómoda. No vamos aquí a aprender los entresijos más avanzados, sino que vamos a centrar nuestra atención en utilizar un editor online con una plantilla para hacer exámenes. De esta manera, conoceremos la estructura de un documento de $$\LaTeX$$ a la vez que nos hacemos con algo que podemos utilizar mañana mismo en el colegio o en el instituto.
 
 Utilizaremos el estupendo editor en línea ShareLaTeX, a partir de la[ plantilla para examen](https://es.sharelatex.com/project/59e28be7b1ea802c6058f481) que hemos hecho pública para este curso \(ese regalo que se lleva el lector\).
 
 ## LaTeX en MS Word
-Sigue teniendo su cosa escribir matemáticas en MS Word, pero allá vamos. 
+
+Sigue teniendo su cosa escribir matemáticas en MS Word, pero allá vamos.
 
 ![](/herramientas/assets/latex-word.png)
 
@@ -48,7 +49,7 @@ $$
 sin más que escribir esto otro:
 
 ```
-$$e=\lim_{n\to\infty} \left( 1+\cfrac{1}{n}\right)^n$$
+$$e=\lim_{n\to\infty} \left( 1+\frac{1}{n}\right)^n$$
 ```
 
 Si es la primera vez que ves la sintaxis de LaTeX para expresiones matemáticas, te puede sonar raro. Pero enseguida te habitúas. Y respecto a la sintaxis de markdown, resulta tan simple que pronto te ves escribiendo palabras entre dos asteriscos para activar la **negrita**.
@@ -71,8 +72,7 @@ Hay un buen puñado de editores de markdown. En el fondo, basta con un editor de
 
 En la página web de [Typora ](https://typora.io/)podemos descargar el programita en cuestión. Si tenemos Windows o Mac se nos bajará un ejecutable, mientras que si tenemos Linux, en la página vienen las [instrucciones ](https://typora.io/#linux)para que se mantenga actualizado.
 
-Aunque para exportar a `pdf `y `html `no hace falta, para poder disfrutar de todas las capacidades de exportación, hay que instalar pandoc, para poder disfrutar de todas las capacidades de exportación, hay que instalar pandoc.
-
+Aunque para exportar a `pdf`y `html`no hace falta, para poder disfrutar de todas las capacidades de exportación, hay que instalar pandoc, para poder disfrutar de todas las capacidades de exportación, hay que instalar pandoc.
 
 #### Aspecto del entorno
 
