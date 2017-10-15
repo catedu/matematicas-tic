@@ -4,8 +4,6 @@ Podríamos pensar que los blogs andan en decadencia respecto a las redes sociale
 
 ## Los blogs personales
 
-
-
 ## Los blogs de aula
 
 La idea básica la expresa fantásticamente Sorando \(2012\). En sus propias palabras, la cosa es que _¡la clase sigue en casa!,_ y los objetivos son:
@@ -29,9 +27,7 @@ Ahora bien, también es cierto que la tecnología cambia. Y lo hace rápido. Act
 
 Ahora viene la parte práctica. Hay diversas opciones para montar un blog y aquí no vamos a listar todas. Si disponemos de un servidor propio o de un servicio de alojamiento online, podemos descargarnos alguna de las plataformas de código abierto disponibles por ahí y ponerla a funcionar \(por ejemplo, [Ghost](https://ghost.org)\). Pero si no queremos cacharrear y nos queremos centrar directamente en el contenido, nada más fácil que acudir a [Blogger ](https://www.blogger.com)o a [Wordpress ](https://es.wordpress.com/)\(de hecho, el [software de Wordpress](https://wordpress.org/) es abierto y también se puede descargar para hacerlo funcionar en un servidor\). Ambas son gratuitas, debiendo pagar únicamente en Wordpress para funcionalidades específicas.
 
-En el curso nos centraremos en Blogger. Realmente, los pasos a seguir serían muy similares para Wordpress.
-
-
+En el curso nos centraremos en Blogger, aunque, realmente, los pasos a seguir serían muy similares para Wordpress.
 
 ## Para saber más \(referencias\)
 
