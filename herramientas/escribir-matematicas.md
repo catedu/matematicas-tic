@@ -4,7 +4,108 @@
 
 LaTeX es algo que genera sentimientos encontrados. Hay gente que lo ama y gente que lo odia. Pero su sintaxis para escribir expresiones matemáticas es muy, pero que muy cómoda. No vamos aquí a aprender los entresijos más avanzados, sino que vamos a centrar nuestra atención en utilizar un editor online con una plantilla para hacer exámenes. De esta manera, conoceremos la estructura de un documento de LaTeX  a la vez que nos hacemos con algo que podemos utilizar mañana mismo en el colegio o en el instituto.
 
-Utilizaremos el estupendo editor en línea ShareLaTeX, a partir de la[ plantilla para examen](https://es.sharelatex.com/project/59e28be7b1ea802c6058f481) que hemos hecho pública para este curso \(ese regalo que se lleva el lector\). Hace uso de la clase [exam](http://www-math.mit.edu/~psh/exam/examdoc.pdf).
+Utilizaremos el estupendo editor en línea ShareLaTeX, a partir de la[ plantilla para examen](https://es.sharelatex.com/project/59e28be7b1ea802c6058f481) que hemos hecho pública para este curso \(ese regalo que se lleva el lector\). Hace uso de la clase [exam](http://www-math.mit.edu/~psh/exam/examdoc.pdf). Comentemos rápidamente sobre una captura qué es lo que nos vamos a encontrar en la interfaz de ShareLaTeX, que sería muy similar si usamos editores offline \(entre los que podemos recomendar [Texmaker ](http://www.xm1math.net/texmaker/)o [TexStudio](https://www.texstudio.org/)\)
+
+
+
+
+
+```
+\documentclass[addpoints,spanish, 12pt,a4paper]{exam}
+% Hasta donde pone \begin{document} es lo que se conoce como preámbulo (preamble)
+
+%% Esto es de la clase exam. Si dejamos sin comentar \printanswers, se mostraran las soluciones. 
+%% Si la comentamos y dejamos sin comentar \noprintanswers, pues no se muestran las soluciones.
+\printanswers
+%\noprintanswers
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+% Idioma y codificación de texto
+\PassOptionsToPackage{T1}{fontenc} 
+\usepackage{fontenc} 
+\usepackage[utf8]{inputenc}
+% Cargar babel y configurar para español
+\usepackage[spanish,es-lcroman, es-tabla, es-noshorthands]{babel}
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+%%%%%%% Paquetes varios y alguna opción
+\usepackage{graphicx} % Paquete necesario para incluir imágenes, cambiarles el tamaño, etc.
+\usepackage{enumitem} % Para poder configurar las listas
+\everymath{\displaystyle} % Esto es para que las expresiones se vean... grandes, que resulta diferente de si las queremos entre líneas.
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%%% Cosas a configurar de la clase EXAM %%%%
+
+\author{Pablo Beltrán Pellicer}
+\pagestyle{headandfoot}
+\runningheadrule
+\extraheadheight{2cm}
+\firstpageheader{}
+                {\hspace*{-1cm}\includegraphics[height=1.6cm]{img/\string"logoDGA\string".jpg}\hspace*{10cm}\includegraphics[height=1.6cm]{img/\string"logocatedu\string".png}\\
+                IES CATEDU, Aragón\\
+                Examen de Matemáticas - Tema 2 - Polinomios\\15 de octubre, 2017
+                }
+                {}
+
+\runningheader{Matemáticas}
+{Examen del tema 2}
+{15 de octubre, 2017}
+\firstpagefooter{}{{\tiny IES CATEDU, Aragón}}{}
+\runningfooter{}{{\tiny  IES CATEDU, Aragón}}{Página \thepage\ de \numpages}
+\pointpoints{punto}{puntos}
+\bonuspointpoints{punto extra}{puntos extra}
+\hqword{Pregunta}
+\hpword{Puntos}
+\hsword{Calificación}
+\renewcommand{\solutiontitle}{\noindent\textbf{Solución:}\par\noindent}
+\pointformat{(\emph{\thepoints})}
+\bonuspointformat{(\emph{\thepoints})}
+\pointsinrightmargin % Para poner las puntuaciones a la derecha. Se puede cambiar. Si se comenta, sale a la izquierda.
+\marginpointname{ \emph{\points}}
+%\bracketedpoints
+
+%%%%%%%%%%%%%%%%%%%%%% FIN DEL PREÁMBULO %%%%%%%%%%%%%%%%%%%%%
+
+\begin{document}
+\vspace{0.1in} %espacio vertical
+\makebox[\textwidth]{Nombre:\enspace\hrulefill}
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+% Tabla para anotar la calificación
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+\begin{center}
+    %\resizebox{\textwidth}{!}{\gradetable[h][questions]} % Esto es por si la tabla sale muy grande, para ajustarla al ancho
+    \gradetable[h][questions]
+\end{center}
+\vspace{0.1in} % Espacio vertical
+
+
+\begin{questions} % Comenzamos con las preguntas del examen
+% Entre corchetes se pone la puntuación de cada una
+
+    %Pregunta con apartados
+    \question Calcula:
+        \begin{parts}
+            \part[1] $2+2=$
+            \part[2] $\frac{1}{2}+\frac{3}{4}=$ 
+        \end{parts}
+    \begin{solution} % Aquí ponemos la solución, es opcional.
+        \begin{parts}
+            \part $4$
+            \part $\frac{5}{4}$ 
+        \end{parts}
+    \end{solution}
+    
+    \question[1 \half] Una pregunta sin apartados.
+    \question[1] Otra pregunta.
+    \question[1 \half] Otra pregunta más.
+    \question[3] Una pregunta más complicada.
+
+\end{questions}
+
+\end{document}
+```
 
 ## LaTeX en MS Word
 

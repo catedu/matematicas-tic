@@ -4,6 +4,8 @@ Sí, otra vez. En módulos anteriores hemos visto que la hoja de cálculo puede 
 
 ## Enlace con el álgebra
 
+Vamos a tratar ahora una forma de utilizar la hoja de cálculo para resolver problemas. 
+
 ## Estadística
 
 ## Para saber más \(referencias\)
