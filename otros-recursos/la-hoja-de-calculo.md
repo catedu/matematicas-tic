@@ -4,7 +4,7 @@ Sí, otra vez. En módulos anteriores hemos visto que la hoja de cálculo puede 
 
 ## Enlace con el álgebra
 
-Vamos a tratar ahora una forma de utilizar la hoja de cálculo para resolver problemas. 
+Vamos a tratar ahora una forma de utilizar la hoja de cálculo para resolver problemas.
 
 ## Estadística
 
@@ -12,5 +12,5 @@ Vamos a tratar ahora una forma de utilizar la hoja de cálculo para resolver pro
 
 Arnau, D. \(2010\). [_La enseñanza de la resolución algebraica de problemas en el entorno de la hoja de cálculo_](http://www.tdx.cat/bitstream/handle/10803/41722/arnau.pdf?sequence=1). Tesis doctoral: Universitat de València.
 
-Arnau, D. y Puig, L. \(2013\). [Actuaciones de alumnos instruidos en la resolución algebraica de problemas en el entorno de la hoja de cálculo y su relación con la competencia en el método cartesiano](http://ensciencias.uab.es/article/download/v31-n3-arnau-puig/pdf-es). _Enseñanza de Las Ciencias, 3_, 49–66.
+Arnau, D. y Puig, L. \(2013\). [Actuaciones de alumnos instruidos en la resolución algebraica de problemas en el entorno de la hoja de cálculo y su relación con la competencia en el método cartesiano](http://ensciencias.uab.es/article/download/v31-n3-arnau-puig/pdf-es). _Enseñanza de las Ciencias, 3_, 49–66.
 
