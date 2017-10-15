@@ -30,7 +30,7 @@ Aproximadamente desde verano de 2017, ya se pueden escribir [ecuaciones en la si
 
 ### Cosas interesantes
 
-Si copiamos una fórmula de estas y pegamos en otra aplicación \(editor de LaTeX o un simple notepad\), lo que aparecerá será la expresión LaTeX. Maravilloso. Aunque sería todavía mejor si Word permitiese entrar en el modo ecuación tecleando algún comando especial tipo`\[`. Todo llegará, supongo. Y otra cosa que tampoco está habilitada en el editor de ecuaciones en modo LaTeX es el empleo de tags como `\begin` o `\end`.
+Si copiamos una fórmula de estas y pegamos en otra aplicación \(editor de LaTeX o un simple notepad\), lo que aparecerá será la expresión LaTeX. Maravilloso. Aunque sería todavía mejor si Word permitiese entrar en el modo ecuación tecleando algún comando especial tipo `$$` o `\[`. Todo llegará, supongo. Y otra cosa que tampoco está habilitada en el editor de ecuaciones en modo LaTeX es el empleo de tags como `\begin` o `\end`.
 
 ### Y limitaciones
 
@@ -49,7 +49,7 @@ $$
 sin más que escribir esto otro:
 
 ```
-e=\lim_{n\to\infty} \left( 1+\frac{1}{n}\right)^n
+$$e=\lim_{n\to\infty} \left( 1+\frac{1}{n}\right)^n$$
 ```
 
 Si es la primera vez que ves la sintaxis de LaTeX para expresiones matemáticas, te puede sonar raro. Pero enseguida te habitúas. Y respecto a la sintaxis de markdown, resulta tan simple que pronto te ves escribiendo palabras entre dos asteriscos para activar la **negrita**.
