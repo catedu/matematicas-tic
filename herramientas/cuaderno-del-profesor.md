@@ -5,9 +5,11 @@ Hay cuadernos del profesor que casi podrían tildarse de obras de arte. Al final
 * El uso del papel hace necesario tirar de calculadora para calcular medias y notas finales.
 * Si pierdo el cuaderno... ¿qué pasa?
 
-Existen en la red multitud de cuadernos del profesor realizados en hoja de cálculo \(tanto en Excel, Drive como Libreoffice\) y que sustituyen al tradicional cuaderno de papel.
+
 
 ![](/herramientas/assets/calclogo.png)![](/herramientas/assets/excel.png)![](/herramientas/assets/drive.png)
+
+Siendo de matemáticas, y siendo la hoja de cálculo uno de los recursos utilizados en la enseñanza de las matemáticas, creemos que una forma de introducir este elemento en el curso es echar un vistazo a algún tipo de cuaderno del profesor sobre este soporte. Existen en la red multitud de cuadernos del profesor realizados en hoja de cálculo \(tanto en Excel, Drive como Libreoffice\) y que sustituyen al tradicional cuaderno de papel.
 
 A modo de ejemplo:
 
@@ -15,7 +17,7 @@ A modo de ejemplo:
 
 ## Otros cuadernos digitales del profesor
 
-No será porque no haya opciones.
+No será porque no haya opciones. Dejamos aquí alguna como referencia.
 
 ### Android
 
