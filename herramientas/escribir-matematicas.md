@@ -4,7 +4,18 @@
 
 LaTeX es algo que genera sentimientos encontrados. Hay gente que lo ama y gente que lo odia. Pero su sintaxis para escribir expresiones matemáticas es muy, pero que muy cómoda. No vamos aquí a aprender los entresijos más avanzados, sino que vamos a centrar nuestra atención en utilizar un editor online con una plantilla para hacer exámenes. De esta manera, conoceremos la estructura de un documento de LaTeX  a la vez que nos hacemos con algo que podemos utilizar mañana mismo en el colegio o en el instituto.
 
-Utilizaremos el estupendo editor en línea ShareLaTeX, a partir de la[ plantilla para examen](https://es.sharelatex.com/project/59e28be7b1ea802c6058f481) con la clase [exam](http://www-math.mit.edu/~psh/exam/examdoc.pdf) que hemos hecho pública para este curso \(ese regalo que se lleva el lector\). Comentemos rápidamente sobre una captura qué es lo que nos vamos a encontrar en la interfaz de ShareLaTeX, que sería muy similar si usamos editores offline \(entre los que podemos recomendar [Texmaker ](http://www.xm1math.net/texmaker/)o [TexStudio](https://www.texstudio.org/)\)
+Utilizaremos el estupendo editor en línea ShareLaTeX, a partir de la[ plantilla para examen](https://es.sharelatex.com/project/59e28be7b1ea802c6058f481) con la clase [exam](http://www-math.mit.edu/~psh/exam/examdoc.pdf) que hemos hecho pública para este curso \(ese regalo que se lleva el lector\). Comentemos rápidamente sobre una captura qué es lo que nos vamos a encontrar en la interfaz de ShareLaTeX, que sería muy similar si usamos editores offline \(entre los que podemos recomendar [Texmaker ](http://www.xm1math.net/texmaker/)o [TexStudio](https://www.texstudio.org/)\).
+
+![](/herramientas/assets/sharelatex01.png)
+
+Si nos fijamos en la plantilla, que exponemos un poco más abajo \(aunque se puede ver directamente en ShareLaTeX\), veremos que un documento simple de LaTeX se divide en:
+
+* Preámbulo
+* Cuerpo del documento
+
+La primera línea del preámbulo siempre es la definición de la clase de documento `\documentclass[addpoints,spanish, 12pt,a4paper]{exam}` y llega hasta donde pone `\begin{document}`, que es donde comienza el cuerpo. En el preámbulo se configuran aspectos tales como el idioma, lo que se quiere que aparezca en las cabeceras y pies de página, etc. y donde se incluyen paquetes adicionales si queremos hacer alguna birguería. Hay algunos paquetes que siempre los pondremos en nuestro preámbulo, como `graphicx `para poder incluir imágenes y redimensionarlas. 
+
+La plantilla está comentada \(cuando se escribe en una línea `%`, todo lo que viene después es un comentario que no se renderiza\), de forma que se explica la estructura y lo que se va haciendo.
 
 ```
 \documentclass[addpoints,spanish, 12pt,a4paper]{exam}
