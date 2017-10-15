@@ -4,7 +4,7 @@
 
 LaTeX es algo que genera sentimientos encontrados. Hay gente que lo ama y gente que lo odia. Pero su sintaxis para escribir expresiones matemáticas es muy, pero que muy cómoda. No vamos aquí a aprender los entresijos más avanzados, sino que vamos a centrar nuestra atención en utilizar un editor online con una plantilla para hacer exámenes. De esta manera, conoceremos la estructura de un documento de LaTeX  a la vez que nos hacemos con algo que podemos utilizar mañana mismo en el colegio o en el instituto.
 
-Utilizaremos el estupendo editor en línea ShareLaTeX, a partir de la[ plantilla para examen](https://es.sharelatex.com/project/59e28be7b1ea802c6058f481) que hemos hecho pública para este curso \(ese regalo que se lleva el lector\).
+Utilizaremos el estupendo editor en línea ShareLaTeX, a partir de la[ plantilla para examen](https://es.sharelatex.com/project/59e28be7b1ea802c6058f481) que hemos hecho pública para este curso \(ese regalo que se lleva el lector\). Hace uso de la clase [exam](http://www-math.mit.edu/~psh/exam/examdoc.pdf).
 
 ## LaTeX en MS Word
 
@@ -30,7 +30,7 @@ Aproximadamente desde verano de 2017, ya se pueden escribir [ecuaciones en la si
 
 ### Cosas interesantes
 
-Si copiamos una fórmula de estas y pegamos en otra aplicación \(editor de LaTeX o un simple notepad\), lo que aparecerá será la expresión LaTeX. Maravilloso. Aunque sería todavía mejor si Word permitiese entrar en el modo ecuación tecleando algún comando especial tipo `$$` o `\[`. Todo llegará, supongo. Y otra cosa que tampoco está habilitada en el editor de ecuaciones en modo LaTeX es el empleo de tags como `\begin` o `\end`.
+Si copiamos una fórmula de estas y pegamos en otra aplicación \(editor de LaTeX o un simple notepad\), lo que aparecerá será la expresión LaTeX. Maravilloso. Aunque sería todavía mejor si Word permitiese entrar en el modo ecuación tecleando algún comando especial tipo`\[`. Todo llegará, supongo. Y otra cosa que tampoco está habilitada en el editor de ecuaciones en modo LaTeX es el empleo de tags como `\begin` o `\end`.
 
 ### Y limitaciones
 
@@ -49,7 +49,7 @@ $$
 sin más que escribir esto otro:
 
 ```
-$$e=\lim_{n\to\infty} \left( 1+\frac{1}{n}\right)^n$$
+e=\lim_{n\to\infty} \left( 1+\frac{1}{n}\right)^n
 ```
 
 Si es la primera vez que ves la sintaxis de LaTeX para expresiones matemáticas, te puede sonar raro. Pero enseguida te habitúas. Y respecto a la sintaxis de markdown, resulta tan simple que pronto te ves escribiendo palabras entre dos asteriscos para activar la **negrita**.
