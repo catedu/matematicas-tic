@@ -4,11 +4,7 @@
 
 LaTeX es algo que genera sentimientos encontrados. Hay gente que lo ama y gente que lo odia. Pero su sintaxis para escribir expresiones matemáticas es muy, pero que muy cómoda. No vamos aquí a aprender los entresijos más avanzados, sino que vamos a centrar nuestra atención en utilizar un editor online con una plantilla para hacer exámenes. De esta manera, conoceremos la estructura de un documento de LaTeX  a la vez que nos hacemos con algo que podemos utilizar mañana mismo en el colegio o en el instituto.
 
-Utilizaremos el estupendo editor en línea ShareLaTeX, a partir de la[ plantilla para examen](https://es.sharelatex.com/project/59e28be7b1ea802c6058f481) que hemos hecho pública para este curso \(ese regalo que se lleva el lector\). Hace uso de la clase [exam](http://www-math.mit.edu/~psh/exam/examdoc.pdf). Comentemos rápidamente sobre una captura qué es lo que nos vamos a encontrar en la interfaz de ShareLaTeX, que sería muy similar si usamos editores offline \(entre los que podemos recomendar [Texmaker ](http://www.xm1math.net/texmaker/)o [TexStudio](https://www.texstudio.org/)\)
-
-
-
-
+Utilizaremos el estupendo editor en línea ShareLaTeX, a partir de la[ plantilla para examen](https://es.sharelatex.com/project/59e28be7b1ea802c6058f481) con la clase [exam](http://www-math.mit.edu/~psh/exam/examdoc.pdf) que hemos hecho pública para este curso \(ese regalo que se lleva el lector\). Comentemos rápidamente sobre una captura qué es lo que nos vamos a encontrar en la interfaz de ShareLaTeX, que sería muy similar si usamos editores offline \(entre los que podemos recomendar [Texmaker ](http://www.xm1math.net/texmaker/)o [TexStudio](https://www.texstudio.org/)\)
 
 ```
 \documentclass[addpoints,spanish, 12pt,a4paper]{exam}
@@ -96,7 +92,7 @@ Utilizaremos el estupendo editor en línea ShareLaTeX, a partir de la[ plantilla
             \part $\frac{5}{4}$ 
         \end{parts}
     \end{solution}
-    
+
     \question[1 \half] Una pregunta sin apartados.
     \question[1] Otra pregunta.
     \question[1 \half] Otra pregunta más.
