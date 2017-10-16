@@ -14,3 +14,5 @@ Arnau, D. \(2010\). [_La enseñanza de la resolución algebraica de problemas en
 
 Arnau, D. y Puig, L. \(2013\). [Actuaciones de alumnos instruidos en la resolución algebraica de problemas en el entorno de la hoja de cálculo y su relación con la competencia en el método cartesiano](http://ensciencias.uab.es/article/download/v31-n3-arnau-puig/pdf-es). _Enseñanza de las Ciencias, 3_, 49–66.
 
+
+
