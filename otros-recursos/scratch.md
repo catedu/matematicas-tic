@@ -4,5 +4,7 @@ Si bien Geogebra es un software esencialmente matemático, [Scratch ](https://sc
 
 ## ¿Te has parado a pensar por qué se enseña a hacer raíces cuadradas?
 
+Bueno, la pregunta puede generar debate. Pero nos viene bien para distinguir dos cosas. Por un lado, ¿qué pretendemos que aprendan los alumnos sobre la raíz cuadrada? Y por otro, ¿qué es lo realmente importante? 
+
 
 
