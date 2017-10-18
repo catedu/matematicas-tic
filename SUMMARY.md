@@ -9,6 +9,7 @@
 * [Twitter](redes-sociales/twitter.md)
 * [Blogs](redes-sociales/blog.md)
 * [Edmodo](redes-sociales/edmodo.md)
+* [Khan Academy](redes-sociales/khan-academy.md)
 
 ## Algunas herramientas
 
@@ -29,6 +30,7 @@
 * [Manipulables virtuales](otros-recursos/manipulables-virtuales.md)
 * [Scratch](otros-recursos/scratch.md)
 * [Videojuegos](otros-recursos/videojuegos.md)
+* [Dispositivos móviles](otros-recursos/dispositivos-moviles.md)
 * [Algunos enlaces](otros-recursos/algunos-enlaces.md)
 
 ## A modo de conclusión
