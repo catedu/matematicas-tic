@@ -42,9 +42,9 @@ Los profesores de matemáticas debemos de ser muy especiales. Como ya hemos vist
 $$
 e^{i x} = \cos x + i\,\sin x
 $$
+sin más que escribir `e^{i x} = \cos x + i\,\sin x `entre signos de dólar \($\).
 
 
-Sin más que escribir `e^{i x} = \cos x + i\,\sin x`
 
 ## Otras opciones para el blended learning
 
