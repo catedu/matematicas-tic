@@ -38,9 +38,11 @@ Calificar
 
 Los profesores de matemáticas debemos de ser muy especiales. Como ya hemos visto, muchas aplicaciones ofimáticas se olvidan de que existimos y de que necesitamos escribir símbolos «extraños» de vez en cuando. Así, resulta gratificante cuando GitBook y su empleo de markdown nos facilitan insertar cosas como:
 
-
+$$e^{i x} = \cos x + i\,\sin x$$
 
 sin más que escribir `e^{i x} = \cos x + i\,\sin x`entre signos de dólar.
+
+A este respecto, Edmodo nos permite 
 
 ## Otras opciones para el blended learning
 
