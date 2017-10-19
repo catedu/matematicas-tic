@@ -44,9 +44,9 @@ e^{i x} = \cos x + i\,\sin x
 $$
 
 
-Sin más que escribir `e^{i x} = \cos x + i\,\sin x `
+Sin más que escribir `e^{i x} = \cos x + i\,\sin x`
 
-##  Otras opciones para el blended learning
+## Otras opciones para el blended learning
 
 Para gustos, colores. Aquí van diferentes opciones.
 
