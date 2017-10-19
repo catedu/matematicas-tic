@@ -20,18 +20,33 @@ A los profesores nos gusta que todo esté muy bien estructurado y organizado, qu
 
 Debemos ser cuidadosos con la utilización de herramientas que implican la recogida de información personal, fotografías, etc. Edmodo está pensada desde un
 
+## Funcionalidad básica
+
+Crear una clase y añadir alumnos
+
+Enviar mensajes
+
+Compartir documentos
+
+Asignar tareas
+
+Programar eventos
+
+Calificar
+
+
+
 ## Escribir matemáticas
 
 Los profesores de matemáticas debemos de ser muy especiales. Como ya hemos visto, muchas aplicaciones ofimáticas se olvidan de que existimos y de que necesitamos escribir símbolos «extraños» de vez en cuando. Así, resulta gratificante cuando GitBook y su empleo de markdown nos facilitan insertar cosas como:
 
-
-
 ## Otras opciones para el blended learning
 
-Para gustos, colores.
+Para gustos, colores. Aquí van diferentes opciones.
 
-* Schoology. Similar a Edmodo, pero un poquito más estrcturada.
-* Moodle. Software libre
+* [Schoology](https://www.schoology.com/). Similar a Edmodo, pero un poquito más estructurada.
+* [Moodle](https://moodle.org/?lang=es). Software libre. Se puede instalar en un servidor o, si eres profe en Aragón, solicitar espacio a [Catedu](http://catedu.aragon.es/moodle/mod/page/view.php?id=53074).
+* [Khan Academy](https://es.khanacademy.org/). Permite asignar tareas a los alumnos, pero carece, por el momento, de mensajería. Lo veremos en la siguiente sección.
 
 
 
