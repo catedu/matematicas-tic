@@ -20,6 +20,8 @@ A los profesores nos gusta que todo esté muy bien estructurado y organizado, qu
 
 Debemos ser cuidadosos con la utilización de herramientas que implican la recogida de información personal, fotografías, etc. Edmodo está pensada desde un
 
+No estaría de más echar un vistazo a la [Guía para centros educativos](http://www.tudecideseninternet.es/agpd1/images/guias/GuiaCentros/GuiaCentrosEducativos.pdf) de la Agencia Española de Protección de Datos.
+
 ## Funcionalidad básica
 
 Crear una clase y añadir alumnos
@@ -42,7 +44,7 @@ $$e^{i x} = \cos x + i\,\sin x$$
 
 sin más que escribir `e^{i x} = \cos x + i\,\sin x`entre signos de dólar.
 
-A este respecto, Edmodo nos permite 
+A este respecto, Edmodo nos permite
 
 ## Otras opciones para el blended learning
 
