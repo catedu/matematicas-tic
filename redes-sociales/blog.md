@@ -4,6 +4,8 @@ Podríamos pensar que los blogs andan en decadencia respecto a las redes sociale
 
 ## Los blogs personales
 
+Muchos docentes disponen de un blog para, entre otras cosas, abrir una ventana a su aula, compartir experiencias, organizar recursos didácticos o dejar materiales para su alumnado. El mero hecho de escribir sobre lo que hacemos ya invita a la reflexión sobre nuestra propia práctica, de manera que tener un blog \(y actualizarlo regularmente\) puede ser un detonante para ello.
+
 ## Los blogs de aula
 
 La idea básica la expresa fantásticamente Sorando \(2012\). En sus propias palabras, la cosa es que _¡la clase sigue en casa!,_ y los objetivos son:
