@@ -18,7 +18,11 @@ A los profesores nos gusta que todo esté muy bien estructurado y organizado, qu
 
 ## Permisos
 
-Debemos ser cuidadosos con la utilización de herramientas que implican la recogida de información personal, fotografías, etc. Edmodo está pensada desde un principio 
+Debemos ser cuidadosos con la utilización de herramientas que implican la recogida de información personal, fotografías, etc. Edmodo está pensada desde un principio para el ámbito educativo. Tanto es así, que ni siquiera es obligatorio tener una cuenta de correo para registrarse como estudiante. Evidentemente, utilizar la cuenta de correo permite un mejor seguimiento, ya que así los alumnos reciben correos con avisos de lo que ocurre en la clase virtual.
+
+
+
+
 
 No estaría de más echar un vistazo a la [Guía para centros educativos](http://www.tudecideseninternet.es/agpd1/images/guias/GuiaCentros/GuiaCentrosEducativos.pdf) de la Agencia Española de Protección de Datos.
 
@@ -28,7 +32,15 @@ No estaría de más echar un vistazo a la [Guía para centros educativos](http:/
 
 ![](/redes-sociales/assets/edmodo02.png)
 
-Enviar mensajes
+Acto seguido, nos salta una ventanita con instrucciones sobre cómo hemos de añadir alumnos. 
+
+![](/redes-sociales/assets/edmodo03.png)
+
+Lo más importante es ese código que aparece, aunque también nos genera un [pdf personalizado con las instrucciones](/redes-sociales/assets/folleto_edmodo.pdf), por si queremos utilizarlo directamente. Sin embaro, el código es todo lo que necesitan los alumnos para «matricularse» en tu clase recién creada. Algo muy habitual es, sencillamente, mostrar la clase recién creada con el proyector o escribir ese código en la pizarra de clase.
+
+
+
+### Enviar mensajes
 
 Compartir documentos
 
@@ -46,7 +58,7 @@ $$e^{i x} = \cos x + i\,\sin x$$
 
 sin más que escribir `e^{i x} = \cos x + i\,\sin x`entre signos de dólar.
 
-A este respecto, Edmodo nos permite, en primer lugar, escribir en markdown. 
+A este respecto, Edmodo nos permite, en primer lugar, escribir en markdown.
 
 ## Otras opciones para el blended learning
 
