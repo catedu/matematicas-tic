@@ -6,7 +6,7 @@ Disponer de una red social para nuestros alumnos nos va a permitir varias cosas.
 
 ## ¿Por qué Edmodo y no otra cosa?
 
-Emodo es gratuita, por lo menos, de momento. Hay extras, como quitar la publicidad, que requieren el pago de una cuota, pero si no molestan, tampoco es necesario.
+Edmodo es una aplicación gratuita, por lo menos, de momento. Hay extras, como quitar la publicidad, que requieren el pago de una cuota, pero si no molestan, tampoco es necesario.
 
 A los profesores nos gusta que todo esté muy bien estructurado y organizado, que los foros estén clasificados con hilos, etc. Además, es habitual que hayamos participado en algún curso en línea, y lo normal es que esté en una plataforma basada en codigo libre que se llama Moodle. Así que pensamos que una buena opción para utilizar con nuestro alumnado es Moodle. Y Moodle está bien, es software libre y ofrece un montón de posibilidades. Quizá demasiadas si lo que queremos hacer es:
 
@@ -18,13 +18,15 @@ A los profesores nos gusta que todo esté muy bien estructurado y organizado, qu
 
 ## Permisos
 
-Debemos ser cuidadosos con la utilización de herramientas que implican la recogida de información personal, fotografías, etc. Edmodo está pensada desde un
+Debemos ser cuidadosos con la utilización de herramientas que implican la recogida de información personal, fotografías, etc. Edmodo está pensada desde un principio 
 
 No estaría de más echar un vistazo a la [Guía para centros educativos](http://www.tudecideseninternet.es/agpd1/images/guias/GuiaCentros/GuiaCentrosEducativos.pdf) de la Agencia Española de Protección de Datos.
 
 ## Funcionalidad básica
 
-Crear una clase y añadir alumnos
+### Crear una clase y añadir alumnos
+
+![](/redes-sociales/assets/edmodo02.png)
 
 Enviar mensajes
 
@@ -44,7 +46,7 @@ $$e^{i x} = \cos x + i\,\sin x$$
 
 sin más que escribir `e^{i x} = \cos x + i\,\sin x`entre signos de dólar.
 
-A este respecto, Edmodo nos permite
+A este respecto, Edmodo nos permite, en primer lugar, escribir en markdown. 
 
 ## Otras opciones para el blended learning
 
