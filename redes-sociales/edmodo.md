@@ -18,11 +18,18 @@ A los profesores nos gusta que todo esté muy bien estructurado y organizado, qu
 
 ## Permisos
 
-Debemos ser cuidadosos con la utilización de herramientas que implican la recogida de información personal, fotografías, etc. Edmodo está pensada desde un principio para el ámbito educativo. Tanto es así, que ni siquiera es obligatorio tener una cuenta de correo para registrarse como estudiante. Evidentemente, utilizar la cuenta de correo permite un mejor seguimiento, ya que así los alumnos reciben correos con avisos de lo que ocurre en la clase virtual.
+Debemos ser cuidadosos con la utilización de herramientas que implican la recogida de información personal, fotografías, etc. Edmodo está pensada desde un principio para el ámbito educativo. Tanto es así, que ni siquiera es obligatorio tener una cuenta de correo para registrarse como estudiante. Evidentemente, utilizar la cuenta de correo permite un mejor seguimiento, ya que así los alumnos reciben correos con avisos de lo que ocurre en la clase virtual. En cualquier caso, debemos contar con la autorización de los padres si nuestros alumnos son menores de cierta edad.
 
+Debemos atenernos a dos marcos legislativos, como bien indica [J.J. de Haro](http://jjdeharo.blogspot.com.es/2011/03/aspectos-tener-en-cuenta-la-hora-de.html), y que ahora vamos a resumir teniendo en mente la utilización de Edmodo:
 
+*  Por un lado, tenemos los términos del servicio. Edmodo indica que es necesario contar con el consentimiento de los padres o tutores legales de los menores de 13 años de edad para utilizar el servicio. De lo contrario, si advierten que un menor está usando la plataforma sin ese consentimiento, proceden a borrar los datos.
 
+* Por otro lado está la legislación española, en la forma del [Real Decreto 1720/2007, de 21 de diciembre](http://www.boe.es/boe/dias/2008/01/19/pdfs/A04103-04136.pdf) y la [Ley de la Propiedad Intelectual](http://www.mcu.es/propiedadInt/docs/RDLegislativo_1_1996.pdf). El RD 1720/2007 nos dice que los datos personales de los alumnos de 14 o más años pueden ser gestionados por ellos mismos. Sin embargo, la publicación de trabajos por parte de los alumnos, se atiene a la Ley de Propiedad Intelectual, que no especifica una edad concreta, siendo por tanto necesaria la autorización de los padres si el alumno es menor de 18 años. Como Edmodo es una red privada y la exposición de trabajos en su seno es similar a colgar murales en clase o en el centro educativo, en principio sólo sería obligado pedir autorización cuando los alumnos tuvieran menos de 14 años. Pero si te quieres curar en salud, es recomendable pedirla también para menores de 18 años. 
 
+En resumen, que para utilizar Edmodo con nuestros alumnos en España:
+
+* Obligatorio pedir autorización si son menores de 14 años.
+* Recomendable si son menores de 18 años.
 
 No estaría de más echar un vistazo a la [Guía para centros educativos](http://www.tudecideseninternet.es/agpd1/images/guias/GuiaCentros/GuiaCentrosEducativos.pdf) de la Agencia Española de Protección de Datos.
 
@@ -32,13 +39,11 @@ No estaría de más echar un vistazo a la [Guía para centros educativos](http:/
 
 ![](/redes-sociales/assets/edmodo02.png)
 
-Acto seguido, nos salta una ventanita con instrucciones sobre cómo hemos de añadir alumnos. 
+Acto seguido, nos salta una ventanita con instrucciones sobre cómo hemos de añadir alumnos.
 
 ![](/redes-sociales/assets/edmodo03.png)
 
 Lo más importante es ese código que aparece, aunque también nos genera un [pdf personalizado con las instrucciones](/redes-sociales/assets/folleto_edmodo.pdf), por si queremos utilizarlo directamente. Sin embaro, el código es todo lo que necesitan los alumnos para «matricularse» en tu clase recién creada. Algo muy habitual es, sencillamente, mostrar la clase recién creada con el proyector o escribir ese código en la pizarra de clase.
-
-
 
 ### Enviar mensajes
 
@@ -67,6 +72,13 @@ Para gustos, colores. Aquí van diferentes opciones.
 * [Schoology](https://www.schoology.com/). Similar a Edmodo, pero un poquito más estructurada.
 * [Moodle](https://moodle.org/?lang=es). Software libre. Se puede instalar en un servidor o, si eres profe en Aragón, solicitar espacio a [Catedu](http://catedu.aragon.es/moodle/mod/page/view.php?id=53074).
 * [Khan Academy](https://es.khanacademy.org/). Permite asignar tareas a los alumnos, pero carece, por el momento, de mensajería. Lo veremos en la siguiente sección.
+
+## Para saber más \(referencias\)
+
+* Beltrán-Pellicer, P. \(2015\). [Modelo de carta de autorización para emplear Edmodo](http://www.tierradenumeros.com/2015/10/carta-de-autorizacion-edmodo.html). Disponible en tierradenumeros.com
+* Ufi de Alcañiz. [Manual/curso de Edmodo](https://www.gitbook.com/book/ufialcaniz/edmodo/details).
+
+
 
 
 
