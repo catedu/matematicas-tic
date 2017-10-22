@@ -20,11 +20,11 @@ A los profesores nos gusta que todo esté muy bien estructurado y organizado, qu
 
 Debemos ser cuidadosos con la utilización de herramientas que implican la recogida de información personal, fotografías, etc. Edmodo está pensada desde un principio para el ámbito educativo. Tanto es así, que ni siquiera es obligatorio tener una cuenta de correo para registrarse como estudiante. Evidentemente, utilizar la cuenta de correo permite un mejor seguimiento, ya que así los alumnos reciben correos con avisos de lo que ocurre en la clase virtual. En cualquier caso, debemos contar con la autorización de los padres si nuestros alumnos son menores de cierta edad.
 
-Debemos atenernos a dos marcos legislativos, como bien indica [J.J. de Haro](http://jjdeharo.blogspot.com.es/2011/03/aspectos-tener-en-cuenta-la-hora-de.html), y que ahora vamos a resumir teniendo en mente la utilización de Edmodo:
+Debemos atenernos a dos marcos legislativos, como bien indica [J.J. de Haro](http://jjdeharo.blogspot.com.es/2011/03/aspectos-tener-en-cuenta-la-hora-de.html), y que ahora vamos a resumir teniendo en mente la utilización de Edmodo:
 
-*  Por un lado, tenemos los términos del servicio. Edmodo indica que es necesario contar con el consentimiento de los padres o tutores legales de los menores de 13 años de edad para utilizar el servicio. De lo contrario, si advierten que un menor está usando la plataforma sin ese consentimiento, proceden a borrar los datos.
+* Por un lado, tenemos los términos del servicio. Edmodo indica que es necesario contar con el consentimiento de los padres o tutores legales de los menores de 13 años de edad para utilizar el servicio. De lo contrario, si advierten que un menor está usando la plataforma sin ese consentimiento, proceden a borrar los datos.
 
-* Por otro lado está la legislación española, en la forma del [Real Decreto 1720/2007, de 21 de diciembre](http://www.boe.es/boe/dias/2008/01/19/pdfs/A04103-04136.pdf) y la [Ley de la Propiedad Intelectual](http://www.mcu.es/propiedadInt/docs/RDLegislativo_1_1996.pdf). El RD 1720/2007 nos dice que los datos personales de los alumnos de 14 o más años pueden ser gestionados por ellos mismos. Sin embargo, la publicación de trabajos por parte de los alumnos, se atiene a la Ley de Propiedad Intelectual, que no especifica una edad concreta, siendo por tanto necesaria la autorización de los padres si el alumno es menor de 18 años. Como Edmodo es una red privada y la exposición de trabajos en su seno es similar a colgar murales en clase o en el centro educativo, en principio sólo sería obligado pedir autorización cuando los alumnos tuvieran menos de 14 años. Pero si te quieres curar en salud, es recomendable pedirla también para menores de 18 años. 
+* Por otro lado está la legislación española, en la forma del [Real Decreto 1720/2007, de 21 de diciembre](http://www.boe.es/boe/dias/2008/01/19/pdfs/A04103-04136.pdf) y la [Ley de la Propiedad Intelectual](http://www.mcu.es/propiedadInt/docs/RDLegislativo_1_1996.pdf). El RD 1720/2007 nos dice que los datos personales de los alumnos de 14 o más años pueden ser gestionados por ellos mismos. Sin embargo, la publicación de trabajos por parte de los alumnos, se atiene a la Ley de Propiedad Intelectual, que no especifica una edad concreta, siendo por tanto necesaria la autorización de los padres si el alumno es menor de 18 años. Como Edmodo es una red privada y la exposición de trabajos en su seno es similar a colgar murales en clase o en el centro educativo, en principio sólo sería obligado pedir autorización cuando los alumnos tuvieran menos de 14 años. Pero si te quieres curar en salud, es recomendable pedirla también para menores de 18 años.
 
 En resumen, que para utilizar Edmodo con nuestros alumnos en España:
 
@@ -77,8 +77,6 @@ Para gustos, colores. Aquí van diferentes opciones.
 
 * Beltrán-Pellicer, P. \(2015\). [Modelo de carta de autorización para emplear Edmodo](http://www.tierradenumeros.com/2015/10/carta-de-autorizacion-edmodo.html). Disponible en tierradenumeros.com
 * Ufi de Alcañiz. [Manual/curso de Edmodo](https://www.gitbook.com/book/ufialcaniz/edmodo/details).
-
-
 
 
 
