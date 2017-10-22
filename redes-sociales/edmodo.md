@@ -31,7 +31,7 @@ En resumen, que para utilizar Edmodo con nuestros alumnos en España:
 * Obligatorio pedir autorización si son menores de 14 años.
 * Recomendable si son menores de 18 años.
 
-No estaría de más echar un vistazo a la [Guía para centros educativos](http://www.tudecideseninternet.es/agpd1/images/guias/GuiaCentros/GuiaCentrosEducativos.pdf) de la Agencia Española de Protección de Datos.
+Desde este [enlace](http://www.tierradenumeros.com/2015/10/carta-de-autorizacion-edmodo.html), podemos descargar un modelo de carta de autorización para usar Edmodo. Tampoco estaría de más echar un vistazo a la [Guía para centros educativos](http://www.tudecideseninternet.es/agpd1/images/guias/GuiaCentros/GuiaCentrosEducativos.pdf) de la Agencia Española de Protección de Datos.
 
 ## Funcionalidad básica
 
