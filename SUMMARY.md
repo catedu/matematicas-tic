@@ -23,6 +23,7 @@
 * [Geogebra en clase](geogebra/geogebra-en-clase.md)
 * [Actividades con Geogebra](geogebra/actividades-con-geogebra.md)
 * [Integración con otras herramientas](geogebra/integracion-con-otras-herramientas.md)
+* [Más Geogebra](geogebra/mas-geogebra.md)
 
 ## Otros recursos para enseñanza-aprendizaje
 
