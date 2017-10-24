@@ -6,9 +6,11 @@ Antes de empezar con esta mini-introducción a Geogebra, es de recibo avisar de 
 
 ## Descarga e instalación
 
-Realmente, no hace falta instalar nada. 
+Aunque ya hemos dicho que no hace falta instalar nada, para lo que sigue emplearemos la versión 6, disponbile en la web de [descargas de Geogebra](https://www.geogebra.org/download) donde pone «GeoGebra Classic 6». 
 
 ## Filosofía
+
+Si no hemos 
 
 ![](/geogebra/assets/geogebra01.png)
 
