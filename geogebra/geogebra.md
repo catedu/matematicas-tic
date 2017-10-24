@@ -1,6 +1,6 @@
 # Breve introducción a Geogebra
 
-Una de las herramientas más utilizadas en niveles preuniversitarios es Geogebra, cuya licencia para aplicaciones no comerciales es de tipo GNU GPL y se descarga gratuitamente. Además, se puede emplear directamente en línea. Geogebra se puede clasificar como software de geometría dinámica, en el que confluyen un procesador geométrico y otro algebraico y existe muchísima literatura al respecto, así como investigaciones y experiencias didácticas.
+Una de las herramientas más utilizadas en niveles preuniversitarios es Geogebra \(primaria incluida\), cuya licencia para aplicaciones no comerciales es de tipo GNU GPL y se descarga gratuitamente. Además, se puede emplear directamente en línea. Geogebra se puede clasificar como software de geometría dinámica, en el que confluyen un procesador geométrico y otro algebraico y existe muchísima literatura al respecto, así como investigaciones y experiencias didácticas.
 
 Antes de empezar con esta mini-introducción a Geogebra, es de recibo avisar de que si no le gusta al lector... hay otras. No hay más que asomarse a la [wiki oficial de Geogebra en español](https://wiki.geogebra.org/es/Tutoriales) o al [manual ](https://wiki.geogebra.org/en/Manual)y los [tutoriales ](https://wiki.geogebra.org/en/Tutorials)en inglés. Aquí haremos una introducción técnica, a la que añadiremos ejemplos de actividades.
 
