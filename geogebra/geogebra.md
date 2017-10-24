@@ -10,13 +10,19 @@ Aunque ya hemos dicho que no hace falta instalar nada, en este curso emplearemos
 
 ## Filosofía
 
-Si no hemos abierto nunca Geogebra, puede sorprendernos el minimalismo de la interfaz. Unos ejes cartesianos de referencia, un panel a la izquierda y un menú con «herramientas». Es posible que la primera vez que lo abrimos, se abra en modo «calculadora gráfica», por lo que para abrir la interfaz clásica tendremos que ir al menú. Por otro lado, una de las características de Geogebra es que es dinámico, y ofrece diversas «apariencias» \(vistas, en versiones anteriores\), que van en relación con el tipo de representación de los objetos matemáticos que intervienen. Por ejemplo, representación algebraica y gráfica. Esto significa que si modificamos un objeto en cualquier vista, su representación en las otras se actualiza automáticamente, siempre que sea posible. La apariencia que mostramos a continuación es la de graficación. 
+Si no hemos abierto nunca Geogebra, puede sorprendernos el minimalismo de la interfaz. Unos ejes cartesianos de referencia, un panel a la izquierda y un menú con «herramientas y comandos». Es posible que la primera vez que lo abrimos, se abra en modo «calculadora gráfica», por lo que para abrir la interfaz clásica tendremos que ir al menú. Por otro lado, una de las características de Geogebra es que es dinámico, y ofrece diversas «apariencias» \(vistas, en versiones anteriores\), que van en relación con el tipo de representación de los objetos matemáticos que intervienen. Por ejemplo, representación algebraica y gráfica. Esto significa que si modificamos un objeto en cualquier vista, su representación en las otras se actualiza automáticamente, siempre que sea posible. La apariencia que mostramos a continuación es la de graficación.
 
 ![](/geogebra/assets/interfaz-classic6.png)
+
+La filosofía fundamental de Geogebra es que en las diferentes vistas podremos introducir objetos matemáticos de dos tipos: libres \(o independientes\) y ligados \(o dependientes\). Todas las construcciones que hagamos sobre Geogebra dependen de esta distinción.
+
+## Herramientas y comandos
 
 
 
 ## Construcciones geométricas
+
+
 
 ## Expresiones algebraicas
 
