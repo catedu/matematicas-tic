@@ -49,19 +49,35 @@ En este menú se agrupan unas cuantas herramientas relacionadas con los puntos. 
 
 ![](/geogebra/assets/menu_rectasespeciales.png)
 
-Polígonos
+### Polígonos
 
-Circunferencias
+![](/geogebra/assets/menu_poligonos.png)
 
-Cónicas
+### Circunferencias
 
-Medida
+![](/geogebra/assets/menu_circ.png)
 
-Transformaciones en el plano
+### Cónicas
 
-Controles
+![](/geogebra/assets/menu_conicas.png)
 
-Apariencia
+### Medida
+
+![](/geogebra/assets/menu_medida.png)
+
+### Transformaciones en el plano
+
+![](/geogebra/assets/menu_transformaciones.png)
+
+### Controles
+
+![](/geogebra/assets/menu_control.png)
+
+### Apariencia o vista
+
+Finalmente, tenemos un menú con el que controlar la vista en sí. Por ejemplo, qué objetos o etiquetas queremos mostrar, copiar el estilo \(formato\) visual o hacer zoom. No obstante, para hacer zoom es mucho mejor acostumbrarse a utilizar la tecla control mientras manejamos la rueda del ratón.
+
+![](/geogebra/assets/menu_vista.png)
 
 ## Construcciones geométricas
 
