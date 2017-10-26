@@ -14,9 +14,30 @@ Si no hemos abierto nunca Geogebra, puede sorprendernos el minimalismo de la int
 
 La filosofía fundamental de Geogebra es que en las diferentes vistas podremos introducir objetos matemáticos de dos tipos: libres \(o independientes\) y ligados \(o dependientes\). Todas las construcciones que hagamos sobre Geogebra dependen de esta distinción.
 
-## Herramientas y comandos
+## Herramientas
 
 ![](/geogebra/assets/geogebra5_barra.png)
+
+Las herramientas y comandos, por llamarlos de alguna manera \(en el fondo, muchas de ellas son objetos matemáticos\), se acceden desde la barra que está disponible en la parte superior de la pantalla. Cada uno de los iconos agrupa, a su vez, una serie de herramientas en un menú desplegable. Con ellas, se pueden realizar construcciones en la vista gráfica utilizando el ratón y, cada vez que introduzcamos un objeto nuevo \(recta, circunferencia, etc.\), las coordenadas o ecuaciones correspondientes se mostrarán en la vista algebraica. 
+
+Cabe observar que los diferentes objetos matemáticos también podemos introducirlos desde la barra de entrada, en la parte inferior, sin más que ingresando sus coordenadas o ecuaciones. Por otro lado, además de la vista gráfica y la algebraica, tenemos:
+
+* Vista gráfica 3D.
+* Vista CAS para utilizar el sistema de GeoGebra para cálculos simbólicos.
+* Vista de hoja de cálculo para trabajar con datos y conceptos estadísticos.
+* Calculadora de probabilidades, para calcular y representar gráficamente distribuciones de probabilidades
+
+Pero detengámonos en la barra de herramientas geométricas para comentarla un poquito.
+
+### Elige y mueve, mano alzada
+
+Desde el primer menú accedemos a la herramienta «Elige y mueve», que permite mover objetos sobre la representación gráfica. Es en este menú donde tenemos también las herramientas para hacer figuras \(que bien pueden ser funciones\) o bocetos, así como borrar. Observaremos que la última herramienta que usemos es la que se queda por defecto hasta que empleemos otra. 
+
+![](/geogebra/assets/menu01.png)
+
+### Puntos
+
+![](/geogebra/assets/menu_puntos.png)
 
 
 
