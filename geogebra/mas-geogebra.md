@@ -1,10 +1,14 @@
 # Más Geogebra
 
-Más cosas que se pueden hacer con Geogebra y que no hemos comentado aquí, pero que se pueden ir explorando. 
+Más cosas que se pueden hacer con Geogebra y que no hemos comentado aquí, pero que se pueden ir explorando.
 
 ## Modo examen
 
-GeoGebra tiene un modo examen que permite a los estudiantes utilizarlo durante los exámenes, restringiendo el acceso a Internet u otros programas instalados en la computadora o dispositivo. De esta forma, es posible utilizar Geogebra en estas pruebas, pero evitando el empleo de otros programas o la propia conexión a Internet. Si el alumno deja la ventana de GeoGebra, se dispara una alerta que puede ser detectada por el profesor y queda documentada en el registro del examen. [Enlace al tutorial del equipo de documentación de Geogebra](https://www.geogebra.org/m/yRRCm3S8). 
+GeoGebra tiene un modo examen que permite a los estudiantes utilizarlo durante los exámenes, restringiendo el acceso a Internet u otros programas instalados en la computadora o dispositivo. De esta forma, es posible utilizar Geogebra en estas pruebas, pero evitando el empleo de otros programas o la propia conexión a Internet. Si el alumno deja la ventana de GeoGebra, se dispara una alerta que puede ser detectada por el profesor y queda documentada en el registro del examen. [Enlace al tutorial del equipo de documentación de Geogebra](https://www.geogebra.org/m/yRRCm3S8).
+
+## Libros de Geogebra
+
+Muchos de los tutoriales de la wiki de Geogebra están creados, de hecho, con el propio editor de libros Geogebra. Se trata de un formato interactivo que permite integrar texto y applets de Geogebra. Se puede consultar en este [enlace](https://www.geogebra.org/m/Smmt4pVM).
 
 
 
