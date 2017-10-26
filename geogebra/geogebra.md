@@ -83,9 +83,7 @@ Finalmente, tenemos un menú con el que controlar la vista en sí. Por ejemplo, 
 
 ## Expresiones algebraicas
 
-## Para saber más \(referencias\)
+## 
 
-Hohenwarter, M. & Preiner, J. \(2007\). [Dynamic mathematics with GeoGebra](https://www.maa.org/external_archive/joma/Volume7/Hohenwarter/index.html). _The Journal of Online Mathematics and Its Applications, 7_, 1448.
 
-Hohenwarter, J., Hohenwarter, M., & Lavicza, Z. \(2009\).[ Introducing dynamic mathematics software to secondary school teachers: The case of GeoGebra](https://archive.geogebra.org/static/publications/2009-Hohenwarter_Lavicza_IntroducingDynMathSoft-GeoGebra.pdf). _Journal of Computers in Mathematics and Science Teaching, 28_\(2\), 135-146.
 
