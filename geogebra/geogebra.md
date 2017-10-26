@@ -6,7 +6,7 @@ Antes de empezar con esta mini-introducción a Geogebra, es de recibo avisar de 
 
 ## Descarga e instalación
 
-Aunque ya hemos dicho que no hace falta instalar nada, en este curso emplearemos la versión 5, disponible en la web de [descargas de Geogebra](https://www.geogebra.org/download) donde pone «GeoGebra Classic 5». El hecho de no emplear la nueva versión 6, es que muchos materiales de ayuda que se pueden encontrar fácilmente, se refieren a la versión 5. Por otro lado, todo lo que mencionemos aquí es válido para la nueva versión, y además las construcciones y archivos correspondientes son compatibles. De hecho, existe cierto debate en los propios foros de Geogebra acerca de cuál de las dos versiones es mejor. La principal ventaja de la versión 6 es su adaptación a dispositivos móviles. 
+Aunque ya hemos dicho que no hace falta instalar nada, en este curso emplearemos la versión 5, disponible en la web de [descargas de Geogebra](https://www.geogebra.org/download) donde pone «GeoGebra Classic 5». El hecho de no emplear la nueva versión 6, es que muchos materiales de ayuda que se pueden encontrar fácilmente, se refieren a la versión 5. Por otro lado, todo lo que mencionemos aquí es válido para la nueva versión, y además las construcciones y archivos correspondientes son compatibles. De hecho, existe cierto debate en los propios foros de Geogebra acerca de cuál de las dos versiones es mejor. La principal ventaja de la versión 6 es su adaptación a dispositivos móviles.
 
 ## Filosofía
 
@@ -15,6 +15,10 @@ Si no hemos abierto nunca Geogebra, puede sorprendernos el minimalismo de la int
 La filosofía fundamental de Geogebra es que en las diferentes vistas podremos introducir objetos matemáticos de dos tipos: libres \(o independientes\) y ligados \(o dependientes\). Todas las construcciones que hagamos sobre Geogebra dependen de esta distinción.
 
 ## Herramientas y comandos
+
+![](/geogebra/assets/geogebra5_barra.png)
+
+
 
 ## Construcciones geométricas
 
