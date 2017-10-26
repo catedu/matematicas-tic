@@ -49,9 +49,19 @@ En este menú se agrupan unas cuantas herramientas relacionadas con los puntos. 
 
 ![](/geogebra/assets/menu_rectasespeciales.png)
 
+Polígonos
 
+Circunferencias
 
+Cónicas
 
+Medida
+
+Transformaciones en el plano
+
+Controles
+
+Apariencia
 
 ## Construcciones geométricas
 
