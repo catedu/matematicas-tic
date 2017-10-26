@@ -37,9 +37,21 @@ Desde el primer menú accedemos a la herramienta «Elige y mueve», que permite 
 
 ### Puntos
 
-En este menú se agrupan unas cuantas herramientas relacionadas con los puntos. Con la primera de ellas, «Punto», 
+En este menú se agrupan unas cuantas herramientas relacionadas con los puntos. Con la primera de ellas, «Punto»,
 
 ![](/geogebra/assets/menu_puntos.png)
+
+### Rectas
+
+![](/geogebra/assets/menu_rectas.png)
+
+### Rectas especiales
+
+![](/geogebra/assets/menu_rectasespeciales.png)
+
+
+
+
 
 ## Construcciones geométricas
 
