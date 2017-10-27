@@ -47,13 +47,15 @@ Lo más importante es ese código que aparece, aunque también nos genera un [pd
 
 ### Enviar mensajes
 
-Compartir documentos
+![](/redes-sociales/assets/edmodo_mensajes.png)
 
-Asignar tareas
+### Compartir documentos
 
-Programar eventos
+### Asignar tareas
 
-Calificar
+### Programar eventos
+
+### Calificar
 
 ## Escribir matemáticas
 
