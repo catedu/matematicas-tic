@@ -10,6 +10,7 @@
 * [Blogs](redes-sociales/blog.md)
 * [Edmodo](redes-sociales/edmodo.md)
 * [Khan Academy](redes-sociales/khan-academy.md)
+* [Más herramientas sociales](redes-sociales/mas-herramientas-sociales.md)
 
 ## Algunas herramientas
 

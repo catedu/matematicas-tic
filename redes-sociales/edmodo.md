@@ -67,14 +67,6 @@ sin más que escribir `e^{i x} = \cos x + i\,\sin x`entre signos de dólar.
 
 A este respecto, Edmodo nos permite, en primer lugar, escribir en markdown.
 
-## Otras opciones para el blended learning
-
-Para gustos, colores. Aquí van diferentes opciones.
-
-* [Schoology](https://www.schoology.com/). Similar a Edmodo, pero un poquito más estructurada.
-* [Moodle](https://moodle.org/?lang=es). Software libre. Se puede instalar en un servidor o, si eres profe en Aragón, solicitar espacio a [Catedu](http://catedu.aragon.es/moodle/mod/page/view.php?id=53074).
-* [Khan Academy](https://es.khanacademy.org/). Permite asignar tareas a los alumnos, pero carece, por el momento, de mensajería. Lo veremos en la siguiente sección.
-
 ## Para saber más \(referencias\)
 
 * Beltrán-Pellicer, P. \(2015\). [Modelo de carta de autorización para emplear Edmodo](http://www.tierradenumeros.com/2015/10/carta-de-autorizacion-edmodo.html). Disponible en tierradenumeros.com
