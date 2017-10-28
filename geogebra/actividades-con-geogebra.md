@@ -28,7 +28,11 @@ Nuestro gozo en un pozo, sigue pareciéndose a una cosa rara que salía en la pr
 
 ### Un cuadrado de verdad
 
+Pensemos un poquito sobre por qué un cuadrado es un cuadrado. Es un cuadrilátero, por lo que tiene 4 vértices y 4 lados. Sus lados son iguales y perpendiculares entre sí. Y...bueno, con eso ya es suficiente. Conste que podríamos partir de otras propiedades que solamente cumplen los cuadrados, pero con las que hemos dicho, nos vale. 
 
+* Creamos dos puntos libres, que serán A y B, y los unimos con un segmento, que será uno de los lados del futuro cuadrado.
+* Utilizamos la herramienta «Recta perpendicular» para crear dos rectas perpenciculares a AB pasando por A y por B, respectivamente.
+* Utilizamos la herramienta «Circunferencia \(centro, punto\)» para 
 
 ## Conjeturemos
 
