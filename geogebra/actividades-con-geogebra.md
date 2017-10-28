@@ -28,11 +28,20 @@ Nuestro gozo en un pozo, sigue pareciéndose a una cosa rara que salía en la pr
 
 ### Un cuadrado de verdad
 
-Pensemos un poquito sobre por qué un cuadrado es un cuadrado. Es un cuadrilátero, por lo que tiene 4 vértices y 4 lados. Sus lados son iguales y perpendiculares entre sí. Y...bueno, con eso ya es suficiente. Conste que podríamos partir de otras propiedades que solamente cumplen los cuadrados, pero con las que hemos dicho, nos vale. 
+Pensemos un poquito sobre por qué un cuadrado es un cuadrado. Es un cuadrilátero, por lo que tiene 4 vértices y 4 lados. Sus lados son iguales y perpendiculares entre sí. Y...bueno, con eso ya es suficiente. Conste que podríamos partir de otras propiedades que solamente cumplen los cuadrados, pero con las que hemos dicho, nos vale.
 
 * Creamos dos puntos libres, que serán A y B, y los unimos con un segmento, que será uno de los lados del futuro cuadrado.
 * Utilizamos la herramienta «Recta perpendicular» para crear dos rectas perpenciculares a AB pasando por A y por B, respectivamente.
-* Utilizamos la herramienta «Circunferencia \(centro, punto\)» para 
+* Utilizamos la herramienta «Circunferencia \(centro, punto\)» para encontrar un tercer vértice. Pinchamos nuestro compás en B y lo abrimos hasta A. Al punto de corte de esa circunferencia con la recta perpendicular a AB que pasa por B, lo llamamos C. Para bautizarlo en Geogebra tenemos que crearlo. Y eso se hace con la herramienta «Intersección»
+* Nos falta nuestro D, que podemos hacerlo igual que hemos hecho para C, o creando una perpendicular a AC que pasa por C y creando el punto de corte de esa recta nueva con la perpendicular a AB que pasa por A.
+
+![](/geogebra/assets/cuadrado_verdad_1.png)Ya está, ABCD es nuestro cuadrado, y si desplazamos A, sigue siendo un cuadrado:
+
+![](/geogebra/assets/cuadrado_verdad2.png)
+
+Hemos dejado la hoja llena de objetos que ya no nos hacen falta y queríamos hacer un cuadrado, no rectas y circunferencias de regalo. Bien, es verdad, entonces basta con crear un polígono sobre A, B, C y D y ocultar todos los objetos menos ese nuevo polígono:
+
+![](/geogebra/assets/cuadrado_verdad_final.png)El archivo .ggb correspodiente puede descargarse [aquí](/geogebra/assets/geogebra-cuadrado.ggb).
 
 ## Conjeturemos
 
