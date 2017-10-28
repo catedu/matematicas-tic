@@ -14,7 +14,7 @@ Un ejemplo de personalización, con el fondo oscuro y las líneas y puntos algo 
 
 ### Fondo claro
 
-
+![](/geogebra/assets/fondo_claro.png)
 
 
 
