@@ -43,7 +43,13 @@ Hemos dejado la hoja llena de objetos que ya no nos hacen falta y queríamos hac
 
 ![](/geogebra/assets/cuadrado_verdad_final.png)El archivo .ggb correspodiente puede descargarse [aquí](/geogebra/assets/geogebra-cuadrado.ggb).
 
+### Algunas conclusiones sobre esto del cuadrado
+
+Desde el punto de vista de la didáctica de la geometría, esto que acabamos de hacer con el cuadrado es esencial. Para hacer un simple cuadrado de verdad hemos tenido que reflexionar sobre qué hace que un cuadrado sea un cuadrado. Esto es, las propiedades necesarias y suficientes que ha de tener un cuadrilátero para poder ser considerado como un cuadrado.
+
+A partir de aquí, las actividades obvias pasan por la definición de cuadriláteros y otras figuras geométricas. Si se complementa con las obligatorias reflexiones sobre lo que se está haciendo, estamos ante un recurso excelente y que, por otro lado, no tiene equivalente con lápiz y papel.  
+
 ## Conjeturemos
 
-Geogebra permite que los alumnos conjeturen.
+Geogebra fomenta que, con tareas adecuadas, los alumnos conjeturen.
 
