@@ -16,7 +16,7 @@ Parece un cuadrado, ¿verdad? Tiene cuatro lados que, además, son iguales... Lo
 
 ### Pero, ¿no hay una herramienta para hacer polígonos?
 
-Sí, la hay. Usémosla para hacer nuestro cuadrado. 
+Sí, la hay. Usémosla para hacer nuestro cuadrado.
 
 ![](/geogebra/assets/cuadrado_no3.png)
 
@@ -26,7 +26,7 @@ Qué bien ha quedado nuestro cuadrado, ¿no? Además, esta vez ha salido con un 
 
 Nuestro gozo en un pozo, sigue pareciéndose a una cosa rara que salía en la primera de la _Guerra de las galaxias_... Entonces, ¿qué podemos hacer?
 
- 
+### Un cuadrado de verdad
 
 
 
