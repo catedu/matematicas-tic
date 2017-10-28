@@ -79,9 +79,7 @@ Finalmente, tenemos un menú con el que controlar la vista en sí. Por ejemplo, 
 
 ![](/geogebra/assets/menu_vista.png)
 
-## Construcciones geométricas
 
-## Expresiones algebraicas
 
 ## 
 
