@@ -8,11 +8,11 @@ No debemos encasillar a un instrumento como la hoja de cálculo en una etapa det
 
 ![](/otros-recursos/assets/eustat01.png)
 
-Crespo reconoce que una de las limitaciones es la rigidez inherente a la estructuración de estas hojas ya preparadas. No en vano, si algo caracteriza a la resolución de problemas de verdad, y al tratamiento de los problemas auténticos, es precisamente que deben abordarse de forma abierta. No se trata simplemente de identificar los datos, la fórmula a aplicar y ejecutar las operaciones, sino que se deben relacionar los datos entre sí, establecer hipótesis, etc. 
+Crespo reconoce que una de las limitaciones es la rigidez inherente a la estructuración de estas hojas ya preparadas. No en vano, si algo caracteriza a la resolución de problemas de verdad, y al tratamiento de los problemas auténticos, es precisamente que deben abordarse de forma abierta. No se trata simplemente de identificar los datos, la fórmula a aplicar y ejecutar las operaciones, sino que se deben relacionar los datos entre sí, establecer hipótesis, etc.
 
 En cualquier caso, no es una mala idea que las primeras veces que utilicemos la hoja de cálculo, lo hagamos con una hoja semiestructurada. De esta manera, ejemplificamos una forma de resolver problemas y los alumnos pueden probar a insertar fórmulas en las celdas, arrastrar valores, etc.
 
-## Esperanza
+## Simulación de eventos aleatorios: esperanza
 
 
 
@@ -78,6 +78,8 @@ Arnau, D. y Puig, L. \(2013\). [Actuaciones de alumnos instruidos en la resoluci
 Barreras, M. [Matemáticas con Excel](http://calendas.ftp.catedu.es/catexcel/catexcel.htm). Excelente página web de Miguel Barreras, con actividades, libros y artículos.
 
 Crespo, F. \(2012\). Utilización de la hoja de cálculo en primaria. _UNO, 61_, 9-14.
+
+Gil, J. C. \(2012\). El concepto de esperanza matemática. _UNO, 61_, 35-44. [Enlace al material](http://catedu.es/calendas/introespmat.rar).
 
 Filloy, E., Puig, L., & Rojano, T. \(2008\). [El estudio teórico local del desarrollo de competencias algebraicas](http://www.raco.cat/index.php/Ensenanza/article/download/132179/297697). _Enseñanza de las ciencias, 26_\(3\), 327-342.
 
