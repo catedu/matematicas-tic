@@ -4,9 +4,7 @@ En módulos anteriores hemos visto que la hoja de cálculo \(HC\) puede usarse c
 
 ## Utilización de la hoja de cálculo en primaria
 
-No debemos encasillar a un instrumento como la hoja de cálculo en una etapa determinada. No dejan de ser una serie de casillas o celdas que podemos relacionar y un entorno donde esos datos se pueden representar gráficamente.
-
-
+No debemos encasillar a un instrumento como la hoja de cálculo en una etapa determinada. No dejan de ser una serie de casillas o celdas que podemos relacionar y un entorno donde podemos manipular esos datos y representarlos gráficamente. 
 
 ## Esperanza
 
@@ -63,7 +61,7 @@ Observemos que la resolución que muestra la figura anterior se desmarca de los 
 
 > En una granja hay 180 ovejas en dos corrales. Si sabemos que en uno de ellos hay 30 ovejas más que en el otro, ¿cuántas ovejas hay en cada corral?
 
-## 
+
 
 ## Para saber más \(referencias\)
 
@@ -75,5 +73,9 @@ Barreras, M. [Matemáticas con Excel](http://calendas.ftp.catedu.es/catexcel/cat
 
 Filloy, E., Puig, L., & Rojano, T. \(2008\). [El estudio teórico local del desarrollo de competencias algebraicas](http://www.raco.cat/index.php/Ensenanza/article/download/132179/297697). _Enseñanza de las ciencias, 26_\(3\), 327-342.
 
-Varios autores \(2012\). [Monografía: La hoja de cálculo en la enseñanza de las matemáticas](https://issuu.com/editorialgrao/docs/un061_z_tot). _UNO, 61_.
+Roldán, A. [HojaMat](http://hojamat.es/). Espacio web de Antonio Roldán Martínez, con bastante material. 
+
+VV. AA. \(2012\). [Monografía: La hoja de cálculo en la enseñanza de las matemáticas](https://issuu.com/editorialgrao/docs/un061_z_tot). _UNO, 61_.
+
+VV. AA. \(2012\). [Web Escolar Eustat EP-ESO](https://sites.google.com/site/webescolareustatep5/home). Algunos materiales para 5º/6º Primaria que referencia F. Crespo en la monografía de UNO.  
 
