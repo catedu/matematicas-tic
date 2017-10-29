@@ -43,17 +43,13 @@ Resolución mediante líneas de vida \(no es MHC\):
 
 ![](/otros-recursos/assets/lineas_vida.png)
 
-Resolución correcta mediante el MHC:
+Observemos que la resolución que muestra la figura anterior se desmarca de los pasos propios del MHC y, por tanto, de la resolución algebraica mediante el MC. Una resolución correcta mediante el MHC sería de la siguiente forma:
 
 ![](/otros-recursos/assets/mhc_correcto_edades.png)
-
-
 
 #### Lana y algodón
 
 > Se dispone de tela de lana y de tela de algodón. En total 12 metros. El precio del metro de lana es de 2 euros y el de algodón, de 4 euros. El valor total de la tela que se dispone es de 32 euros. ¿De cuántos metros de tela de lana y de cuántos metros de tela de algodón se dispone?
-
-
 
 #### Las ovejas
 
