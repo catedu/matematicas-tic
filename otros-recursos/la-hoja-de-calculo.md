@@ -2,6 +2,14 @@
 
 En módulos anteriores hemos visto que la hoja de cálculo \(HC\) puede usarse como cuaderno del profesor y para echar unas cuentas de vez en cuando. Sin embargo, la hoja de cálculo es, en sí misma, un recurso ampliamente utilizado en las aulas y sobre el que se ha investigado en profundidad. Algunas de estas experiencias didácticas incluyen la resolución algebraica de problemas con el apoyo de la hoja de cálculo, como entorno de trabajo, aunque hay que tener en cuenta ciertas limitaciones y, desde luego, es innegable su potencial en estadística.
 
+## Utilización de la hoja de cálculo en primaria
+
+No debemos encasillar a un instrumento como la hoja de cálculo en una etapa determinada. No dejan de ser una serie de casillas o celdas que podemos relacionar y un entorno donde esos datos se pueden representar gráficamente.
+
+
+
+## Esperanza
+
 ## Enlace con el álgebra, una experiencia de investigación
 
 ### Método cartesiano
@@ -55,7 +63,7 @@ Observemos que la resolución que muestra la figura anterior se desmarca de los 
 
 > En una granja hay 180 ovejas en dos corrales. Si sabemos que en uno de ellos hay 30 ovejas más que en el otro, ¿cuántas ovejas hay en cada corral?
 
-## Estadística
+## 
 
 ## Para saber más \(referencias\)
 
