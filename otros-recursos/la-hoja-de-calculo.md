@@ -14,6 +14,8 @@ En cualquier caso, no es una mala idea que las primeras veces que utilicemos la 
 
 ## Simulación de eventos aleatorios: esperanza
 
+Aunque la esperanza es un concepto que formalmente, aparece ya en bachillerato, no está de más abordarlo en secundaria desde el punto de vista intuitivo y a partir de la simulación. En este sentido, la hoja de cálculo es un entorno muy apropiado, como relata Gil \(2012\). 
+
 
 
 ## Enlace con el álgebra, una experiencia de investigación
