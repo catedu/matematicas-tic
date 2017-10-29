@@ -29,17 +29,35 @@ En su trabajo, Arnau y Puig diseñaron una secuencia didáctica para enseñar a 
 5. La variación del valor de la cantidad de referencia hasta conseguir que se verifique la igualdad.
 6. La interpretación del valor que verifica la igualdad en términos del problema. 
 
-Hay pasos que pueden realizarse de diferente forma. Para su investigación, Arnau y Puig, optaron en el paso 4 por asignar dos celdas a una misma cantidad y comparar sus valores, en lugar de construir la ecuación, mediante una fórmula del tipo `=B1=B2`, que proporciona resultado `VERDADERO`, si los valores presentes en B1 y B2 coinciden, o `FALSO` en caso contrario. 
+Hay pasos que pueden realizarse de diferente forma. Para su investigación, Arnau y Puig, optaron en el paso 4 por asignar dos celdas a una misma cantidad y comparar sus valores, en lugar de construir la ecuación, mediante una fórmula del tipo `=B1=B2`, que proporciona resultado `VERDADERO`, si los valores presentes en B1 y B2 coinciden, o `FALSO` en caso contrario.
 
 Por otro lado, para el paso 5 eligieron generar una secuencia de valores en la fila en la que se encontraba la celda de referencia, y copiar entonces el contenido del resto de celdas mediante copia y pegado por arrastre, frente a la técnica de hacer variar el valor presente en la celda de referencia.
 
 ### Ejemplos de problemas
 
-Paz, Petra y su madre
+#### Paz, Petra y su madre
 
-Paz y Petra tienen 6 y 9 años respectivamente. Su madre, Ana, tiene 35 años. ¿Cuántos años deben
+> Paz y Petra tienen 6 y 9 años respectivamente. Su madre, Ana, tiene 35 años. ¿Cuántos años deben pasar para que, entre las dos niñas, igualen la edad de la madre?
 
-pasar para que, entre las dos niñas, igualen la edad de la madre?
+Resolución mediante líneas de vida \(no es MHC\):
+
+![](/otros-recursos/assets/lineas_vida.png)
+
+Resolución correcta mediante el MHC:
+
+![](/otros-recursos/assets/mhc_correcto_edades.png)
+
+
+
+#### Lana y algodón
+
+> Se dispone de tela de lana y de tela de algodón. En total 12 metros. El precio del metro de lana es de 2 euros y el de algodón, de 4 euros. El valor total de la tela que se dispone es de 32 euros. ¿De cuántos metros de tela de lana y de cuántos metros de tela de algodón se dispone?
+
+
+
+#### Las ovejas
+
+> En una granja hay 180 ovejas en dos corrales. Si sabemos que en uno de ellos hay 30 ovejas más que en el otro, ¿cuántas ovejas hay en cada corral?
 
 ## Estadística
 
@@ -49,7 +67,7 @@ Arnau, D. \(2010\). [_La enseñanza de la resolución algebraica de problemas en
 
 Arnau, D. y Puig, L. \(2013\). [Actuaciones de alumnos instruidos en la resolución algebraica de problemas en el entorno de la hoja de cálculo y su relación con la competencia en el método cartesiano](http://ensciencias.uab.es/article/download/v31-n3-arnau-puig/pdf-es). _Enseñanza de las Ciencias, 3_, 49–66.
 
-Barreras, M. [Matemáticas con Excel](http://calendas.ftp.catedu.es/catexcel/catexcel.htm). Página web de Miguel Barreras, con actividades y artículos.
+Barreras, M. [Matemáticas con Excel](http://calendas.ftp.catedu.es/catexcel/catexcel.htm). Excelente página web de Miguel Barreras, con actividades, libros y artículos.
 
 Filloy, E., Puig, L., & Rojano, T. \(2008\). [El estudio teórico local del desarrollo de competencias algebraicas](http://www.raco.cat/index.php/Ensenanza/article/download/132179/297697). _Enseñanza de las ciencias, 26_\(3\), 327-342.
 
