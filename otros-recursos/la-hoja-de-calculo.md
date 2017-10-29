@@ -14,14 +14,14 @@ Vamos a exponer ahora una forma de utilizar la hoja de cálculo, a partir de una
 6. Aplicación de la fórmula o algoritmo de solución a la ecuación en forma canónica
 7. Interpretación del resultado de la ecuación en términos del problema.
 
-Como vemos, es el procedimiento habitual cuando se introducen las ecuaciones en educación secundaria. Y se espera que nuestros alumnos sean competentes en él. 
+Como vemos, es el procedimiento habitual cuando se introducen las ecuaciones en educación secundaria. Y se espera que nuestros alumnos sean competentes en él.
 
 En su trabajo, Arnau y Puig diseñaron una secuencia didáctica para enseñar a resolver problemas de manera algebraica que hace uso de la hoja de cálculo, teniendo en cuenta que el objetivo era la competencia en el MC. Así, lo que se realizara con la hoja de cálculo era un mero paso, algo que sería abandonado más adelante. Su premisa de partida es que el MC comparte elementos comunes con una manera de resolver los problemas en la hoja de cálculo que denominan método de resolución algebraico en la hojade cálculo \(MHC\). Los pasos ideales del MHC son:
 
 1. Una lectura analítica del enunciado del problema que lo reduce a una lista de cantidades y de relaciones entre cantidades.
 2. La asignación de una celda a una o varias cantidades desconocidas y la elección de una única cantidad desconocida representada en una celda de la que dependerán directa o indirectamente el  resto  de  cantidades  desconocidas  representadas.  A  esta  cantidad  la  llamaremos  «cantidad  de  referencia» y a la celda que ocupa, «celda de referencia».
 3. La asignación a todas las cantidades desconocidas \(exceptuando la cantidad de referencia\) de una fórmula mediante la que se expresa una relación con otras cantidades. 
-4. El establecimiento de una ecuación, lo que se hace igualando dos expresiones que representan la misma cantidad.
+4. El establecimiento de una ecuación, lo que se hace igualando dos expresiones que representan la misma cantidad. Por ejemplo, tal y como optaron Arnau y Puig en esta investigación, asignandol dos celdas a una misma cantidad y comparar sus valores en lugar de construir la ecuación mediante una fórmula del tipo `=B1=B2`, que proporciona resultado `VERDADERO`, si los valores presentes en B1 y B2 coinciden, o `FALSO` en caso contrario.
 5. La variación del valor de la cantidad de referencia hasta conseguir que se verifique la igualdad.
 6. La interpretación del valor que verifica la igualdad en términos del problema. 
 
