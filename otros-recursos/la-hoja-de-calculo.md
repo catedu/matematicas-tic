@@ -4,7 +4,13 @@ En módulos anteriores hemos visto que la hoja de cálculo \(HC\) puede usarse c
 
 ## Utilización de la hoja de cálculo en primaria
 
-No debemos encasillar a un instrumento como la hoja de cálculo en una etapa determinada. No dejan de ser una serie de casillas o celdas que podemos relacionar y un entorno donde podemos manipular esos datos y representarlos gráficamente. La experiencia que relata Crespo en la mop
+No debemos encasillar a un instrumento como la hoja de cálculo en una etapa determinada. No dejan de ser una serie de casillas o celdas que podemos relacionar y un entorno donde podemos manipular esos datos y representarlos gráficamente. La experiencia que relata Crespo \(2012\) se desarrolla, precisamente, con alumnos de 5º y 6º de primaria y, para ello, prepararon una serie de hojas semiestructuradas sobre las que trabajar la resolución de problemas. Vemos un ejemplo en la figura siguiente:
+
+![](/otros-recursos/assets/eustat01.png)
+
+Crespo reconoce que una de las limitaciones es la rigidez inherente a la estructuración de estas hojas ya preparadas. No en vano, si algo caracteriza a la resolución de problemas de verdad, y al tratamiento de los problemas auténticos, es precisamente que deben abordarse de forma abierta. No se trata simplemente de identificar los datos, la fórmula a aplicar y ejecutar las operaciones, sino que se deben relacionar los datos entre sí, establecer hipótesis, etc. 
+
+En cualquier caso, no es una mala idea que las primeras veces que utilicemos la hoja de cálculo, lo hagamos con una hoja semiestructurada. De esta manera, ejemplificamos una forma de resolver problemas y los alumnos pueden probar a insertar fórmulas en las celdas, arrastrar valores, etc.
 
 ## Esperanza
 
