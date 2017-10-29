@@ -12,9 +12,17 @@ Crespo reconoce que una de las limitaciones es la rigidez inherente a la estruct
 
 En cualquier caso, no es una mala idea que las primeras veces que utilicemos la hoja de cálculo, lo hagamos con una hoja semiestructurada. De esta manera, ejemplificamos una forma de resolver problemas y los alumnos pueden probar a insertar fórmulas en las celdas, arrastrar valores, etc.
 
-## Simulación de eventos aleatorios: esperanza
+## Simulación de eventos aleatorios: esperanza matemática
 
-Aunque la esperanza es un concepto que formalmente, aparece ya en bachillerato, no está de más abordarlo en secundaria desde el punto de vista intuitivo y a partir de la simulación. En este sentido, la hoja de cálculo es un entorno muy apropiado, como relata Gil \(2012\). 
+Aunque la esperanza es un concepto que formalmente, aparece ya en bachillerato, no está de más abordarlo en secundaria desde el punto de vista intuitivo y a partir de la simulación. En este sentido, la hoja de cálculo es un entorno muy apropiado, como relata Gil \(2012\). Consideremos el problema que propone:
+
+> Pedro y Ana apuestan un euro cada uno al resultado obtenido al lanzar un dado equilibrado. Si sale «uno» o «dos», Pedro se llevará los dos euros de la apuesta, mientras que  si sale otro número se los llevará Ana.
+
+La hoja de cálculo correspondiente puede descargarse de la web de [Miguel Barreras](http://calendas.ftp.catedu.es/catexcel/estadistica/pedroana.xls), y tiene la siguiente pinta:![](/otros-recursos/assets/esperanza01.png)
+
+Para la generación de los números aleatorios se ha hecho uso de la función `=ENTERO(ALEATORIO()*6)+1` y los valores que expresan ganancia o pérdida en cada mano se establecen con sencillos condicionales. 
+
+## Estadística
 
 
 
