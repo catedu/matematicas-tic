@@ -1,6 +1,10 @@
 # Twitter
 
-La red social del pajarito, [Twitter](https://twitter.com/) es, realmente, un servicio de [microblogging](https://es.wikipedia.org/wiki/Twitter), donde los usuarios comparten mensajes de 140 caracteres como máximo.
+Hay muchas redes sociales. El siguiente gráfico que hemos preparado intenta sintetizar las más importantes:
+
+![](/redes-sociales/assets/redes-sociales-explicadas.png)
+
+Vamos a fijarnos ahora en la red social del pajarito, [Twitter](https://twitter.com/), que es, realmente, un servicio de [microblogging](https://es.wikipedia.org/wiki/Twitter), donde los usuarios comparten mensajes de 140 caracteres como máximo.
 
 ## ¿Por qué Twitter en un curso de Matemáticas con TIC?
 

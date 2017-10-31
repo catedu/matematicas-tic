@@ -69,7 +69,7 @@ A este respecto, Edmodo nos permite, en primer lugar, escribir en markdown.
 
 ## Para saber más \(referencias\)
 
-* Beltrán-Pellicer, P. \(2015\). [Modelo de carta de autorización para emplear Edmodo](http://www.tierradenumeros.com/2015/10/carta-de-autorizacion-edmodo.html). Disponible en tierradenumeros.com
+* Beltrán-Pellicer, P. \(2015\). [Modelo de carta de autorización para emplear Edmodo](http://www.tierradenumeros.com/2015/10/carta-de-autorizacion-edmodo.html). Disponible en www.tierradenumeros.com
 * Ufi de Alcañiz. [Manual/curso de Edmodo](https://www.gitbook.com/book/ufialcaniz/edmodo/details).
 
 
