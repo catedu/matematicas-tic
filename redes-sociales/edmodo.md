@@ -59,7 +59,7 @@ Podemos tener todos los materiales que utilizamos normalmente de forma organizad
 
 ### Programar eventos
 
-Para acceder al calendario pincharemos en el icono del calendario. 
+Para acceder al calendario pincharemos en el icono del calendario.
 
 ![](/redes-sociales/assets/edmodo_calendar.png)Es posible crear un evento directamente en el calendario, pinchando en el día elegido \(ojo que las fechas las formatean en plan anglosajón, primero el mes y luego el día\):
 
@@ -69,9 +69,9 @@ Aunque si hubiésemos asignado alguna tarea con fecha de entrega, también la ve
 
 ![](/redes-sociales/assets/edmodo-calendar-evento.png)
 
-
-
 ### Calificar
+
+![](/redes-sociales/assets/edmodo-calificaciones.png)
 
 ## Escribir matemáticas
 
