@@ -1,7 +1,5 @@
 # Khan Academy
 
-
-
 ## Crear una clase
 
 Lo primero
@@ -16,7 +14,7 @@ Los estudiantes, lo que verán es
 
 ![](/redes-sociales/assets/khan03.png)
 
-## Asignar tareas
+
 
 
 

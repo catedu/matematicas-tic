@@ -51,6 +51,10 @@ Lo más importante es ese código que aparece, aunque también nos genera un [pd
 
 ### Compartir documentos
 
+Podemos tener todos los materiales que utilizamos normalmente de forma organizada en carpetas. Posteriormente, ya en el menú de un grupo particular, podemos seleccionar qué carpeta queremos compartir con dicho grupo. Es más, en ese momento podemos crear una nueva.
+
+![](/redes-sociales/assets/edmodo_compartir.png)
+
 ### Asignar tareas
 
 ### Programar eventos
