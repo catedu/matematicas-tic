@@ -45,17 +45,37 @@ Acto seguido, nos salta una ventanita con instrucciones sobre cómo hemos de añ
 
 Lo más importante es ese código que aparece, aunque también nos genera un [pdf personalizado con las instrucciones](/redes-sociales/assets/folleto_edmodo.pdf), por si queremos utilizarlo directamente. Sin embaro, el código es todo lo que necesitan los alumnos para «matricularse» en tu clase recién creada. Algo muy habitual es, sencillamente, mostrar la clase recién creada con el proyector o escribir ese código en la pizarra de clase.
 
-### Enviar mensajes
+### Enviar mensajes, mandar tareas, encuestas...
+
+Lo primero que ve una persona cuando accede a una clase de Edmodo es algo similar a un muro de Facebook. Es decir, una línea temporal con los últimos mensajes que se han ido mandando. El profesor decide si, en cada momento, hay un mensaje fijo que aparece siempre el primero, o no. Podría ser el caso, por ejemplo, de un recordatorio sobre una actividad extraescolar, o sobre la entrega de un trabajo importante. 
 
 ![](/redes-sociales/assets/edmodo_mensajes.png)
 
 ### Compartir documentos
 
-### Asignar tareas
+Podemos tener todos los materiales que utilizamos normalmente de forma organizada en carpetas. Posteriormente, ya en el menú de un grupo particular, podemos seleccionar qué carpeta queremos compartir con dicho grupo. Es más, en ese momento podemos crear una nueva.
+
+![](/redes-sociales/assets/edmodo_compartir.png)
+
+### 
 
 ### Programar eventos
 
+Para acceder al calendario pincharemos en el icono del calendario.
+
+![](/redes-sociales/assets/edmodo_calendar.png)Es posible crear un evento directamente en el calendario, pinchando en el día elegido \(ojo que las fechas las formatean en plan anglosajón, primero el mes y luego el día\):
+
+![](/redes-sociales/assets/edmodo-crear-evento.png)
+
+Aunque si hubiésemos asignado alguna tarea con fecha de entrega, también la veríamos en el calendario con el color del grupo correspondiente:
+
+![](/redes-sociales/assets/edmodo-calendar-evento.png)
+
 ### Calificar
+
+En Edmodo podemos llevar un registro de las notas de los alumnos. Nosotros, como profesores, podremos ver -obviamente- las calificaciones de todos los alumnos, añadir nuevas calificaciones, etc. Sin embargo, cada alumno solamente podrá ver las suyas y, cada padre, madre o tutor, solamente podrá ver las de su hijo.
+
+![](/redes-sociales/assets/edmodo-calificaciones.png)
 
 ## Escribir matemáticas
 
@@ -65,7 +85,13 @@ $$e^{i x} = \cos x + i\,\sin x$$
 
 sin más que escribir `e^{i x} = \cos x + i\,\sin x`entre signos de dólar.
 
-A este respecto, Edmodo nos permite, en primer lugar, escribir en markdown.
+Edmodo nos da dos opciones para escribir matemáticas. Por un lado, nos sugiere que, para símbolos matemáticos simples, utilicemos [www.typeit.org](http://www.typeit.org) y después hagamos un copy-paste de los símbolos en Edmodo. Pero nosotros vamos a recomendar el segundo método. Y es que Edmodo permite utilizar la sintaxis de LaTeX. Para incluir una ecuación en una Nota \(mensaje\) de Edmodo, simplemente rodea la anotación en LaTeX con `[math] … [/math]`. Esto generará una imagen de la ecuación en cuestión que se mostrará en el mensaje. Ejemplos extraídos de la página de soporte de Edmodo:
+
+![](/redes-sociales/assets/edmodo_ejemploslatex.png)
+
+A este respecto, debemos decir que Edmodo acepta también markdown.
+
+![](/redes-sociales/assets/md_edmodo.png)
 
 ## Para saber más \(referencias\)
 
