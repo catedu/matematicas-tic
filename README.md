@@ -8,7 +8,9 @@ Hay quien sigue llamando _nuevas tecnologías_ a las tecnologías de la informac
 
 ### En el día a día
 
-Las TIC se pueden emplear para realizar ciertas tareas cotidianas de forma más eficiente o cómoda.
+Las TIC se pueden emplear para realizar ciertas tareas cotidianas de forma más eficiente o cómoda. Ejemplo de ello es llevar en una hoja de cálculo el registro de las calificaciones de las tareas y exámenes, así como de las observaciones y demás instrumentos de evaluación. Y quien dice hoja de cálculo, dice cuaderno digital del profesor, porque las opciones son tan variadas que cada cual puede optar por la que mejor se adapte a sus necesidades.
+
+Como profesores de matemáticas
 
 ### En clase de matemáticas
 
