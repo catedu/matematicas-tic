@@ -29,9 +29,5 @@ Para empezar a utilizar Twitter basta con registrarse en [www.twitter.com](https
 
 ![](/redes-sociales/assets/twitter-register.png)
 
-Nos pedirá nuestro nombre, un mail o un teléfono y una contraseña. En el siguiente paso es cuando se elige el nombre de usuario `@mi_nick`. 
-
-
-
-
+Nos pedirá nuestro nombre, un mail o un teléfono y una contraseña. En el siguiente paso es cuando se elige el nombre de usuario `@minick`.
 
