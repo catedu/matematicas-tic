@@ -23,5 +23,11 @@ Espera, espera, que en esta última frase han aparecido la arroba y una palabra 
 * TimeLine \(TL\). El chorro de mensajes de todas las personas a las que sigues y lo que aparece, por defecto, cuando entras en Twitter con tu cuenta. Igualmente, si entras en el perfil de alguien, podrás ver su TL particular.
 * Listas. En cuanto sigues más de 100 cuentas, tu TL se puede convertir en lo más cercano al caos que eres capaz de imaginar. Las listas están para ayudarte a organizar eso. Por ejemplo, puedes tener una lista solo con profes de matemáticas que, efectivamente, publican cosas de matemáticas que te resultan interesantes. Otra para cuentas relacionadas con las TIC/TAC, otra para noticias de tu ciudad... 
 
+## ¿A qué esperas?
 
+Para empezar a utilizar Twitter basta con registrarse en [www.twitter.com](https://twitter.com/):
+
+![](/redes-sociales/assets/twitter-register.png)
+
+Nos pedirá nuestro nombre, un mail o un teléfono y una contraseña. En el siguiente paso es cuando se elige el nombre de usuario `@minick`.
 
