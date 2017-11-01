@@ -14,5 +14,9 @@ Para gustos, colores. Aquí van diferentes opciones.
 
 * [Khan Academy](https://es.khanacademy.org/). Permite asignar tareas a los alumnos, pero carece, por el momento, de mensajería. Lo veremos en la siguiente sección.
 
+## Para saber más \(referencias\)
+
+Curso de Catedu: [Redes sociales en educación](http://moodle.catedu.es/course/view.php?id=99)
+
 
 
