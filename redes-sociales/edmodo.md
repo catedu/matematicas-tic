@@ -47,6 +47,8 @@ Lo más importante es ese código que aparece, aunque también nos genera un [pd
 
 ### Enviar mensajes, mandar tareas, encuestas...
 
+Lo primero que ve una persona cuando accede a una clase de Edmodo es algo similar a un muro de Facebook. Es decir, una línea temporal con los últimos mensajes que se han ido mandando. El profesor decide si, en cada momento, hay un mensaje fijo que aparece siempre el primero, o no. Podría ser el caso, por ejemplo, de un recordatorio sobre una actividad extraescolar, o sobre la entrega de un trabajo importante. 
+
 ![](/redes-sociales/assets/edmodo_mensajes.png)
 
 ### Compartir documentos
@@ -70,6 +72,8 @@ Aunque si hubiésemos asignado alguna tarea con fecha de entrega, también la ve
 ![](/redes-sociales/assets/edmodo-calendar-evento.png)
 
 ### Calificar
+
+En Edmodo podemos llevar un registro de las notas de los alumnos. Nosotros, como profesores, podremos ver -obviamente- las calificaciones de todos los alumnos, añadir nuevas calificaciones, etc. Sin embargo, cada alumno solamente podrá ver las suyas y, cada padre, madre o tutor, solamente podrá ver las de su hijo.
 
 ![](/redes-sociales/assets/edmodo-calificaciones.png)
 
