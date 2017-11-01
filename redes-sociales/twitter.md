@@ -12,7 +12,7 @@ Espera, espera, que en esta última frase han aparecido la arroba y una palabra 
 
 * Un tweet es un mensaje. Ya sabemos, no más de 140 caracteres, pero se pueden adjuntar imágenes, gifs o vídeos. 
 * Cada usuario tiene un nombre o nick, que es el que define su perfil. Su página principal, por así decirlo. Cuando queremos nombrar a un usuario en un tweet, utilizamos la arroba \(@\). El mismo editor de Twitter nos completará el nombre, con mayor facilidad si está entre nuestra lista de seguidores.
-* Se pueden mandar\_ \_mensajes privados entre usuarios que se siguen mutuamente.
+* Se pueden mandar mensajes privados entre usuarios que se siguen mutuamente.
 * La almohadilla \(\#\) sirve para definir un _hashtag_, una etiqueta que, idealmente, sintetiza el tema del mensaje. Esto facilita la búsqueda de todos los mensajes que nos interesan en un momento dado. Si has escuchado la expresión _trending topic_ alguna vez, es precisamente un hashtag especialmente popular. Muchos mensajes en un intervalo de tiempo relativamente corto, mucha gente reenviando esos mensajes, etc.
 * Retweets. Cuando vemos un tweet interesante que queremos compartir con nuestros seguidores, lo podemos _retuitear_. 
 * Likes o me gusta. El símbolo del corazoncito sirve, normalmente, para indicar que estamos de acuerdo con esa opinión, o que nos ha hecho gracia ese tweet. Ciertos usuarios utilizan los retweet y los likes para plantear encuestas. Por ejemplo, dale a retweet si eres más de académicas y a like si eres de aplicadas. 
