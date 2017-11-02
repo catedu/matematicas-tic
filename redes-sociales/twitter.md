@@ -42,6 +42,3 @@ Nos pedirá nuestro nombre, un mail o un teléfono y una contraseña. En el sigu
 Para gestionar las listas y aprovechar Twitter al máximo, no podemos dejar de recomendar [TweetDeck](https://tweetdeck.twitter.com/). Es una herramienta que nos permitirá manejar varias cuentas a la vez y tener todo bien organizadito en columnas en la pestaña de un navegador. Existen apps similares para dispositivos móviles. Además, no solo permite la gestión de listas, sino que podremos programar mensajes, seguir «conversaciones», participar en eventos, etc., sin perdernos nada de lo que ocurre.
 
 @leonidasarjona realizó un [breve vídeo](https://www.youtube.com/watch?v=i-pez1Vs_Co) donde resume muy bien todo lo que se puede hacer con esto.
-
-
-
