@@ -43,5 +43,9 @@ Para gestionar las listas y aprovechar Twitter al máximo, no podemos dejar de r
 
 @leonidasarjona realizó un [breve vídeo](https://www.youtube.com/watch?v=i-pez1Vs_Co) donde resume muy bien todo lo que se puede hacer con esto.
 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/i-pez1Vs_Co?rel=0" frameborder="0" allowfullscreen></iframe>
+
+
+
 
 

@@ -13,7 +13,7 @@ Siendo de matemáticas, y siendo la hoja de cálculo uno de los recursos utiliza
 
 A modo de ejemplo:
 
-* Es interesante el realizado en Excel por Antonio J. Calvillo, compatible con LibreOffice, en cuya página podemos descargarlo \([http://www.musikawa.es/cuaderno-del-profesor-en-excel-muy-facil-manual-musikawa\](http://www.musikawa.es/cuaderno-del-profesor-en-excel-muy-facil-manual-musikawa%29\)
+* Es interesante el realizado en Excel por Antonio J. Calvillo, compatible con LibreOffice, en cuya página podemos descargarlo \([http://www.musikawa.es/cuaderno-del-profesor-en-excel-muy-facil-manual-musikawa/](http://www.musikawa.es/cuaderno-del-profesor-en-excel-muy-facil-manual-musikawa/)
 
 ## Otros cuadernos digitales del profesor
 
