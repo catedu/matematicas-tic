@@ -5,8 +5,6 @@ Hay cuadernos del profesor que casi podrían tildarse de obras de arte. Al final
 * El uso del papel hace necesario tirar de calculadora para calcular medias y notas finales.
 * Si pierdo el cuaderno... ¿qué pasa?
 
-
-
 ![](/herramientas/assets/calclogo.png)![](/herramientas/assets/excel.png)![](/herramientas/assets/drive.png)
 
 Siendo de matemáticas, y siendo la hoja de cálculo uno de los recursos utilizados en la enseñanza de las matemáticas, creemos que una forma de introducir este elemento en el curso es echar un vistazo a algún tipo de cuaderno del profesor sobre este soporte. Existen en la red multitud de cuadernos del profesor realizados en hoja de cálculo \(tanto en Excel, Drive como Libreoffice\) y que sustituyen al tradicional cuaderno de papel.
@@ -14,6 +12,7 @@ Siendo de matemáticas, y siendo la hoja de cálculo uno de los recursos utiliza
 A modo de ejemplo:
 
 * Es interesante el realizado en Excel por Antonio J. Calvillo, compatible con LibreOffice, en cuya página podemos descargarlo \([http://www.musikawa.es/cuaderno-del-profesor-en-excel-muy-facil-manual-musikawa\](http://www.musikawa.es/cuaderno-del-profesor-en-excel-muy-facil-manual-musikawa%29\)
+*  [Cuaderno virtual del profesor, en Google Drive](http://cv.tecnocentres.org/), de Jaume Feliu. El cuaderno virtual del profesor es un libro de cálculo que intenta sustituir la libreta de notas que los profesores siempre hemos utilizado para ir tomando nota del aprendizaje de los alumnos.
 
 ## Otros cuadernos digitales del profesor
 
