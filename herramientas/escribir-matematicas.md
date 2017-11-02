@@ -180,7 +180,7 @@ Hay un buen puñado de editores de markdown. En el fondo, basta con un editor de
 
 En la página web de [Typora ](https://typora.io/)podemos descargar el programita en cuestión. Si tenemos Windows o Mac se nos bajará un ejecutable, mientras que si tenemos Linux, en la página vienen las [instrucciones ](https://typora.io/#linux)para que se mantenga actualizado.
 
-Aunque para exportar a `pdf`y `html`no hace falta, para poder disfrutar de todas las capacidades de exportación, hay que instalar pandoc, para poder disfrutar de todas las capacidades de exportación, hay que instalar pandoc.
+Aunque para exportar a `pdf`y `html`no hace falta, para poder disfrutar de todas las capacidades de exportación, hay que instalar pandoc.
 
 #### Aspecto del entorno
 
