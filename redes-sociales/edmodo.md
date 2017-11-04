@@ -47,7 +47,7 @@ Lo más importante es ese código que aparece, aunque también nos genera un [pd
 
 ### Enviar mensajes, mandar tareas, encuestas...
 
-Lo primero que ve una persona cuando accede a una clase de Edmodo es algo similar a un muro de Facebook. Es decir, una línea temporal con los últimos mensajes que se han ido mandando. El profesor decide si, en cada momento, hay un mensaje fijo que aparece siempre el primero, o no. Podría ser el caso, por ejemplo, de un recordatorio sobre una actividad extraescolar, o sobre la entrega de un trabajo importante. 
+Lo primero que ve una persona cuando accede a una clase de Edmodo es algo similar a un muro de Facebook. Es decir, una línea temporal con los últimos mensajes que se han ido mandando. El profesor decide si, en cada momento, hay un mensaje fijo que aparece siempre el primero, o no. Podría ser el caso, por ejemplo, de un recordatorio sobre una actividad extraescolar, o sobre la entrega de un trabajo importante.
 
 ![](/redes-sociales/assets/edmodo_mensajes.png)
 
@@ -57,7 +57,16 @@ Podemos tener todos los materiales que utilizamos normalmente de forma organizad
 
 ![](/redes-sociales/assets/edmodo_compartir.png)
 
-### 
+#### Vincular Google Drive a la biblioteca
+
+Si tenemos muchos materiales organizados en Google Drive, tenemos la opción de vincular la cuenta de Google Drive a nuestra cuenta de Edmodo.  
+ Para ello:
+
+* Entramos en la «biblioteca», haciendo click en el icono de la barra de herramientas superior.
+* Seleccionamos Google Drive. en el panel izquierdo.
+* Le damos a «Conectar con Google Drive» y seguimos los pasos. Básicamente, nos pedirá nuestra cuenta de google.
+
+Conviene observar que los archivos en la sección «Google Drive» aparecen ordenados por la última fecha de modificación, en primer lugar los más recientes.
 
 ### Programar eventos
 
