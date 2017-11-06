@@ -98,7 +98,9 @@ Edmodo nos da dos opciones para escribir matemáticas. Por un lado, nos sugiere 
 
 ![](/redes-sociales/assets/edmodo_ejemploslatex.png)
 
-A este respecto, debemos decir que Edmodo acepta también markdown.
+Una página donde se puede practicar fácilmente esto de escribir ecuaciones y expresiones matemáticas en LaTeX es [Codecogs](https://www.codecogs.com/latex/eqneditor.php), pues nos permite ir introduciendo cada elemento desde un menú de iconos.
+
+Por otro lado, debemos decir que Edmodo acepta también markdown.
 
 ![](/redes-sociales/assets/md_edmodo.png)
 
