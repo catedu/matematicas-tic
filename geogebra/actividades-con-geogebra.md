@@ -51,7 +51,7 @@ A partir de aquí, las actividades obvias pasan por la definición de cuadrilát
 
 ## Conjeturemos
 
-En matemáticas, la idea de conjetura es esencial y se refiere a una proposición que se supone cierta, pero que todavía no ha sido probada ni refutada. Geogebra fomenta que, con tareas adecuadas, los alumnos conjeturen. 
+En matemáticas, la idea de conjetura es esencial y se refiere a una proposición que se supone cierta, pero que todavía no ha sido probada ni refutada. Geogebra fomenta que, con tareas adecuadas, los alumnos conjeturen.
 
 ### Ejemplo 1: polígono que forman los puntos medios de un cuadrilátero
 
@@ -61,7 +61,7 @@ Conjetura si la siguiente afirmación es verdadera o no, de forma razonada.
 
 La construcción que haríamos en primer lugar es la de un cuadrilátero libre; es decir, uno cuyos vértices fueran puntos libres. Esto lo podemos realizar directamente con la herramienta polígono o creando primero los puntos y luego el polígono sobre ellos.
 
-![](/geogebra/assets/cuadrilatero01.png) 
+![](/geogebra/assets/cuadrilatero01.png)
 
 A continuación, hallaremos los puntos medios de los lados. Dichos puntos ya no serán libres, y los crearemos utilizando la herramienta «punto medio». Observemos que también se podrían hallar a partir de la mediatriz \(para lo que hay otra herramienta\) y luego definiendo el punto como la intersección de la mediatriz y el lado.
 
@@ -89,9 +89,16 @@ Sin embargo, solo hemos comenzado con la actividad. Parece que tenemos todo list
 
 Bueno, parece que vamos acotando el problema. Pero para ser más exactos, vamos a mostrar también los ángulos:
 
+![](/geogebra/assets/cuadrilatero06.png)
 
+Lo que observamos es que, tanto sea cóncavo como convexo el cuadrilátero original, el cuadrilátero que resulta de unir los puntos medios tiene siempre:
 
+* Lados opuestos iguales.
+* Ángulos opuestos iguales.
 
+Por lo tanto, hagamos lo que hagamos, siempre es un paralelogramo.
+
+Y bueno, se podría seguir tirando de la cuerda. ¿Por qué EF y HG son paralelos \(y EH y FG\)? 
 
 
 
