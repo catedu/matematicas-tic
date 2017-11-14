@@ -47,9 +47,53 @@ Hemos dejado la hoja llena de objetos que ya no nos hacen falta y queríamos hac
 
 Desde el punto de vista de la didáctica de la geometría, esto que acabamos de hacer con el cuadrado es esencial. Para hacer un simple cuadrado de verdad hemos tenido que reflexionar sobre qué hace que un cuadrado sea un cuadrado. Esto es, las propiedades necesarias y suficientes que ha de tener un cuadrilátero para poder ser considerado como un cuadrado.
 
-A partir de aquí, las actividades obvias pasan por la definición de cuadriláteros y otras figuras geométricas. Si se complementa con las obligatorias reflexiones sobre lo que se está haciendo, estamos ante un recurso excelente y que, por otro lado, no tiene equivalente con lápiz y papel.  
+A partir de aquí, las actividades obvias pasan por la definición de cuadriláteros y otras figuras geométricas. Si se complementa con las obligatorias reflexiones sobre lo que se está haciendo, estamos ante un recurso excelente y que, por otro lado, no tiene equivalente con lápiz y papel.
 
 ## Conjeturemos
 
-Geogebra fomenta que, con tareas adecuadas, los alumnos conjeturen.
+En matemáticas, la idea de conjetura es esencial y se refiere a una proposición que se supone cierta, pero que todavía no ha sido probada ni refutada. Geogebra fomenta que, con tareas adecuadas, los alumnos conjeturen. 
+
+### Ejemplo 1: polígono que forman los puntos medios de un cuadrilátero
+
+Conjetura si la siguiente afirmación es verdadera o no, de forma razonada.
+
+> Dado un cuadrilátero cualquiera, los puntos medios de los lados determinan un paralelogramo
+
+La construcción que haríamos en primer lugar es la de un cuadrilátero libre; es decir, uno cuyos vértices fueran puntos libres. Esto lo podemos realizar directamente con la herramienta polígono o creando primero los puntos y luego el polígono sobre ellos.
+
+![](/geogebra/assets/cuadrilatero01.png) 
+
+A continuación, hallaremos los puntos medios de los lados. Dichos puntos ya no serán libres, y los crearemos utilizando la herramienta «punto medio». Observemos que también se podrían hallar a partir de la mediatriz \(para lo que hay otra herramienta\) y luego definiendo el punto como la intersección de la mediatriz y el lado.
+
+![](/geogebra/assets/cuadrilatero02.png)
+
+Solamente nos falta el polígono determinado por los puntos medios \(E, F, G y H\).Tomamos la herramienta polígono y unimos dichos puntos.
+
+![](/geogebra/assets/cuadrilatero03.png)
+
+Aquí ya podríamos empezar a tratar de conjeturar, moviendo los puntos libres que determinan los vértices del cuadrilátero original.
+
+![](/geogebra/assets/cuadrilatero04.png)
+
+Si la actividad se trabaja por parejas, se tiene la oportunidad de verbalizar estas primeras conjeturas:
+
+* Parece un rectángulo, ¿no?
+* No, no, espera, si movemos esto a mí me parece un rombo...
+* ...
+
+Es un buen momento para anotar estas conjeturas en el cuaderno.
+
+Sin embargo, solo hemos comenzado con la actividad. Parece que tenemos todo listo, pero nos falta algo más. Necesitamos más información, y para eso utilizaremos otras herramientas de Geogebra. Por ejemplo, nos puede interesar la longitud de los lados y los ángulos, ya que las clasificaciones usuales de los cuadriláteros se hacen en función de estos dos elementos. Si hacemos que la construcción muestre las distancias, podemos ver que, hagamos lo que hagamos con A, B, C y D, los lados opuestos siempre miden lo mismo. En la actividad de aula, es bueno que esto lo anoten en el cuaderno o que lo incluyan en un documento con la captura de pantalla correspondiente y señalando lo que está ocurriendo.
+
+![](/geogebra/assets/cuadrilatero05.png)
+
+Bueno, parece que vamos acotando el problema. Pero para ser más exactos, vamos a mostrar también los ángulos:
+
+
+
+
+
+
+
+
 
