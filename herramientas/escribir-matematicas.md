@@ -154,7 +154,7 @@ e=\lim_{n\to\infty} \left( 1+\frac{1}{n} \right)^n
 $$
 
 
-sin más que escribir esto otro:
+sin más que escribir esto otro entre signos de dólar:
 
 ```
 e=\lim_{n\to\infty} \left( 1+\frac{1}{n}\right)^n
@@ -186,5 +186,16 @@ Aunque para exportar a `pdf`y `html`no hace falta, para poder disfrutar de todas
 
 Puede parecer simple, porque lo es. Observemos que todas las opciones son accesibles desde los menús \(o con atajos de teclado\) y que tampoco hay que estar tecleando en markdown \(aunque acelera el asunto\).
 
-![](/herramientas/assets/typora01.png)Como podemos ver, tenemos las opciones básicas de cualquier editor.
+![](/herramientas/assets/typora01.png)Como podemos ver, tenemos las opciones básicas de cualquier editor, pero con una pequeña diferencia.
+
+#### Lo que vemos no es exactamente el documento para imprimir
+
+Cuando usamos Typora, ocurre un poquito lo mismo que cuando utilizamos LaTeX. Lo que vemos por pantalla no es WYSIWYG \(What You See Is What You Get, lo que ves es lo que obtienes\).  No es tan exagerado como LaTeX, pero hemos de ser conscientes de que el posicionamiento de los párrafos, el interlineado y demás opciones de formato irían aparte. Es decir, si queremos preparar un examen con preguntas para nuestros alumnos, por ejemplo, podemos optar por:
+
+* Que cada pregunta sea un item de una lista numerada.
+* Que cada pregunta comience por un título \(heading\), como «Pregunta 3»
+
+El estilo por defecto es más que suficiente para empezar a probar este sistema. La filosofía de este tipo de sistema de escritura es que te permite centrarte en el contenido en lugar de en el formato.
+
+
 
