@@ -23,6 +23,8 @@ Pensemos ahora que queremos introducir el concepto de mediatriz. O que simplemen
 | ![](/geogebra/assets/mediatriz06.png) | Los puntos que están una distancia determinada de A, por ejemplo, a distancia 2, forman la circunferencia c. Esto lo hacemos con la herramienta «circunferencia \(centro, radio\)». |
 | ![](/geogebra/assets/mediatriz07.png) | Los puntos que están una distancia 2 de B forman la circunferencia d. |
 | ![](/geogebra/assets/mediatriz08.png) | Los puntos de corte de las circunferencias c y d están, por lo tanto, a distancia 2 de A y de B. Los seleccionamos con la herramienta «intersección». |
+| ![](/geogebra/assets/mediatriz09.png) | Repetimos lo mismo con circunferencias centradas en A y B de radios 3 y 4. |
+| ![](/geogebra/assets/mediatriz10.png) | Limpiamos las circunferencias \(botón derecho sobre el objeto y dándole a «mostrar objeto» o en el circulito de la vista de objetos de la izquierda\) y... ¡eso parece una recta! La trazamos con la herramienta «recta» para comprobar que los puntos están alineados. Hemos construido la mediatriz y hemos visto que está formada por puntos que equidistan de A y de B. |
 
 ## Sistemas de ecuaciones lineales 2x2
 
