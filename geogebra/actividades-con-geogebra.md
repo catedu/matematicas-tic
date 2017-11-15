@@ -98,9 +98,9 @@ Lo que observamos es que, tanto sea cóncavo como convexo el cuadrilátero origi
 
 Por lo tanto, hagamos lo que hagamos, siempre es un paralelogramo.
 
-Y bueno, se podría seguir tirando de la cuerda. ¿Por qué EF y HG son paralelos \(y EH y FG\)? 
+Y bueno, se podría seguir tirando de la cuerda. ¿Por qué EF y HG son paralelos \(y EH y FG\)?
 
-
+### Ejemplo 2
 
 
 
