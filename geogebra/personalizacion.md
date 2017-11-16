@@ -22,5 +22,7 @@ Un ejemplo de personalización, con el fondo oscuro y las líneas y puntos algo 
 
 ### Fondo claro
 
+Un ejemplo de fondo claro, pero con algún detalle modificado, como el rótulo de los objetos.
+
 ![](/geogebra/assets/fondo_claro.png)
 
