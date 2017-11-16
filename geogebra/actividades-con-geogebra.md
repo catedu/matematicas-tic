@@ -108,10 +108,10 @@ Geogebra incluye una hoja de cálculo que es muy sencilla de utilizar. Para ejem
 
 | Geogebra | Explicación |
 | :---: | :--- |
-| ![](/geogebra/assets/mcm01.png) | Calculemos en primer lugar cuánto tarda en volver a la salida el primer autobús.  |
+| ![](/geogebra/assets/mcm01.png) | Calculemos en primer lugar cuánto tarda en volver a la salida el primer autobús. |
 | ![](/geogebra/assets/mcm02.png) | Seleccionamos las dos celdas y arrastramos para que la hoja nos calcule el resto de múltiplos, que nos proporcionan los instantes en que el primer bus vuelve a la salida. |
-|  |  |
-|  |  |
+| ![](/geogebra/assets/mcm03.png) | Aquí tenemos todos los múltiplos de 24 que deseemos. |
+| ![](/geogebra/assets/mcm05.png) | Realizamos lo mismo para el segundo autobús e identificamos que a los 72 minutos coinciden en la salida. Es decir, una hora y doce minutos después de las siete de la mañana, a las 8:12. |
 
 
 
