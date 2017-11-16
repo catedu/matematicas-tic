@@ -37,23 +37,31 @@ Desde el primer menú accedemos a la herramienta «Elige y mueve», que permite 
 
 ### Puntos
 
-En este menú se agrupan unas cuantas herramientas relacionadas con los puntos. Con la primera de ellas, «Punto»,
+En este menú se agrupan unas cuantas herramientas relacionadas con los puntos. Con la primera de ellas, «Punto», lo que crearemos es un punto «libre», que podremos desplazar a cualquier lugar. Sin embargo, utilizando las herramientas «punto en objeto», «intersección» o «punto medio o centro» crearemos un punto que cumple unas condiciones determinadas. En estos casos, si mantenemos el cursor encima de la herramienta, nos indica qué tipos de objetos debemos seleccionar para llevar a cabo la acción.
 
 ![](/geogebra/assets/menu_puntos.png)
 
 ### Rectas
 
+En este menú nos encontramos con rectas, segmentos, semirrectas, etc.
+
 ![](/geogebra/assets/menu_rectas.png)
 
 ### Rectas especiales
+
+El menú que hemos llamado «rectas especiales» contiene herramientas para trazar perpendiculares, paralelas, mediatrices, bisectrices, etc.
 
 ![](/geogebra/assets/menu_rectasespeciales.png)
 
 ### Polígonos
 
+El menú de polígonos.
+
 ![](/geogebra/assets/menu_poligonos.png)
 
 ### Circunferencias
+
+El menú más «circular» de todos, para crear circunferencias, arcos y demás. 
 
 ![](/geogebra/assets/menu_circ.png)
 
@@ -63,13 +71,19 @@ En este menú se agrupan unas cuantas herramientas relacionadas con los puntos. 
 
 ### Medida
 
+Una primera aproximación al menú de medida son las herramientas que nos permiten medir ángulos, distancias y áreas. Esencial para trabajar la conjetura con Geogebra, porque nos muestra mucha información sobre la construcción realizada.
+
 ![](/geogebra/assets/menu_medida.png)
 
 ### Transformaciones en el plano
 
+Las transformaciones tales como las simetrías, traslaciones y homotecias las tenemos en este menú. 
+
 ![](/geogebra/assets/menu_transformaciones.png)
 
 ### Controles
+
+De cara a elaborar gifs o manipulables, las herramientas de control son fundamentales. El «deslizador», por ejemplo, es un número que podemos variar con el ratón \(entre un mínimo y un máximo que podemos establecer\), mientras que si queremos introducir libremente un número utilizaríamos la «casilla de entrada». Además, tenemos la posibilidad de añadir texto o imágenes, así como botones y casillas de control.
 
 ![](/geogebra/assets/menu_control.png)
 
@@ -78,8 +92,6 @@ En este menú se agrupan unas cuantas herramientas relacionadas con los puntos. 
 Finalmente, tenemos un menú con el que controlar la vista en sí. Por ejemplo, qué objetos o etiquetas queremos mostrar, copiar el estilo \(formato\) visual o hacer zoom. No obstante, para hacer zoom es mucho mejor acostumbrarse a utilizar la tecla control mientras manejamos la rueda del ratón.
 
 ![](/geogebra/assets/menu_vista.png)
-
-
 
 ## 
 
