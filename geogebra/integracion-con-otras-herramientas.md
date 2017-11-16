@@ -30,11 +30,7 @@ Lo que estamos consiguiendo con el deslizador es ocultar y mostrar los objetos s
 
 Una vez tenemos montada así nuestra construcción, ocultamos el deslizador que hemos utilizado para montar la película y acudimos al menú de exportación, donde tendremos que indicar el deslizador en el cual se basa la animación, y alguna otra opción, como el tiempo entre fotogramas y si queremos que se repita en bucle.
 
- ![](/geogebra/assets/geogif09.png)
+![](/geogebra/assets/geogif09.png)
 
-El gif que hemos creado podemos utilizarlo en nuestro blog, en kahoot o en cualquier otro sitio.
-
-
-
-
+El gif que hemos creado podemos utilizarlo en nuestro blog, en kahoot o en cualquier otro sitio. Las posibilidades de exportación de Geogebra son inmensas.
 
