@@ -32,7 +32,7 @@ La conexión del álgebra y la geometría pocas veces es tan evidente como en la
 
 | **Geogebra** | **Discurso** |
 | :---: | :--- |
-| ![](/geogebra/assets/sistemas01.png) | Resolvamos gráficamente el sistema formado por las ecuaciones $$y=x+3$$ e $$y=2x+5$$. Comencemos trazando la primera de las rectas. Está formada por todos los puntos que cumplen dicha ecuación. Como, por ejemplo, el $$\(0,3\)$$. Aquí podemos utilizar la herramienta «punto en objeto» para ir mostrando puntos o, mejor todavía, pedir a la clase que propongan puntos e introducirlos en la barra de entrada para ver si están en la recta. |
+| ![](/geogebra/assets/sistemas01.png) | Resolvamos gráficamente el sistema formado por las ecuaciones $$y=x+3$$ e $$y=2x+5$$. Comencemos trazando la primera de las rectas. Está formada por todos los puntos que cumplen dicha ecuación. Como, por ejemplo, \(0,3\). Aquí podemos utilizar la herramienta «punto en objeto» para ir mostrando puntos o, mejor todavía, pedir a la clase que propongan puntos e introducirlos en la barra de entrada para ver si están en la recta. |
 | ![](/geogebra/assets/sistemas02.png) | Trazamos la segunda de las rectas. |
 | ![](/geogebra/assets/sistemas03.png) | El punto de corte de ambas rectas es el único punto que cumple las dos ecuaciones. |
 
