@@ -4,7 +4,13 @@ Es sencillo cambiar la apariencia de los objetos de Geogebra. Por ejemplo, que l
 
 ## ¿Cómo se personaliza?
 
+Los ejes y la cuadrícula en la vista gráfica se pueden mostrar y ocultar a voluntad, sin más que desplegando el menú con el botón derecho del ratón:
 
+![](/geogebra/assets/personaliza01.png)
+
+Además, si en dicho menú entramos en «Vista gráfica...» podremos elegir el color de fondo, entre otras cosas, como la relación entre los ejes:
+
+![](/geogebra/assets/personaliza02.png)
 
 ## Ejemplos
 
