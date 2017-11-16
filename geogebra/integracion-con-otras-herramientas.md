@@ -18,11 +18,15 @@ Para ello, la secuencia que podemos realizar es la siguiente:
 4. Como el punto así obtenido está a la misma distancia de A, B y C, es posible trazar la circunferencia que pasa por esos puntos, que circunscribe al triángulo.
 5. Ponemos los colorines a nuestro gusto, ocultamos rótulos y etiquetas que molesten y ya lo tenemos.
 
-![](/geogebra/assets/geogif01.png)Ahora, lo que queríamos era realizar un gif animado para mostrar el proceso. Si eres un lector atento, de análisis minucioso, tal vez te hayas fijado en un objeto oculto en la anterior figura. Es un deslizador con los pasos \(o fotogramas, si queremos\) de los que constará la animación. Veamos lo que ocurre al desplazarlo desde 1 hasta 6.
+![](/geogebra/assets/geogif01.png)Ahora, lo que queríamos era realizar un gif animado para mostrar el proceso. Si eres un lector atento, de análisis minucioso, tal vez te hayas fijado en un objeto oculto en la anterior figura. Es un deslizador con los pasos \(o fotogramas, si queremos\) de los que constará la animación. Veamos lo que ocurre al desplazarlo desde 1 hasta 6:
 
 | ![](/geogebra/assets/geogif02.png) | ![](/geogebra/assets/geogif03.png) | ![](/geogebra/assets/geogif04.png) |
 | :---: | :---: | :---: |
-|  |  |  |
+| ![](/geogebra/assets/geogif05.png) | ![](/geogebra/assets/geogif06.png) | ![](/geogebra/assets/geogif07.png) |
+
+Lo que estamos consiguiendo con el deslizador es ocultar y mostrar los objetos según nos convenga. Esto lo hacemos entrando en las propiedades avanzadas de cada objeto y especificando la condición para mostrarlo. En nuestro caso, el deslizador se llama «fr», y funciona como si fuera una variable numérica. En la figura siguiente observamos que la condición que hemos impuesto para mostrar la recta f \(una de las mediatrices\) es que $fr\geq4$
+
+![](/geogebra/assets/geogif08.png)
 
 ## Insertar el applet en un blog
 
