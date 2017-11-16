@@ -15,7 +15,7 @@ Geogebra tiene una herramienta que nos permite trazar directamente la mediatriz 
 
 ### Con significado
 
-Pensemos ahora que queremos introducir el concepto de mediatriz. O que simplemente queremos enfatizar que queremos encontrar todos los puntos que están a la misma distancia de A que de B. Realizaríamos algo similar a lo siguiente:
+Pensemos ahora que queremos introducir el concepto de mediatriz en clase. O que simplemente queremos enfatizar que queremos encontrar todos los puntos que están a la misma distancia de A que de B. Si utilizamos Geogebra para ello, en lugar de la regla y el compás, realizaríamos algo similar a lo siguiente:
 
 | Geogebra | Discurso |
 | :---: | :--- |
@@ -27,6 +27,14 @@ Pensemos ahora que queremos introducir el concepto de mediatriz. O que simplemen
 | ![](/geogebra/assets/mediatriz10.png) | Limpiamos las circunferencias \(botón derecho sobre el objeto y dándole a «mostrar objeto» o en el circulito de la vista de objetos de la izquierda\) y... ¡eso parece una recta! La trazamos con la herramienta «recta» para comprobar que los puntos están alineados. Hemos construido la mediatriz y hemos visto que está formada por puntos que equidistan de A y de B. |
 
 ## Sistemas de ecuaciones lineales 2x2
+
+La conexión del álgebra y la geometría pocas veces es tan evidente como en la representación gráfica de sistemas de dos ecuaciones lineales con dos incógnitas. Aunque aquí nos centraremos en ellos, el tipo de discurso es muy similar para otros tipos de funciones. Por otro lado, durante todo el tema de sistemas resulta muy interesante tener el Geogebra abierto para representar los ejercicios y problemas.
+
+| **Geogebra** | **Discurso** |
+| :---: | :--- |
+| ![](/geogebra/assets/sistemas01.png) | Resolvamos gráficamente el sistema formado por las ecuaciones $$y=x+3$$ e $$y=2x+5$$. Comencemos trazando la primera de las rectas. Está formada por todos los puntos que cumplen dicha ecuación. Como, por ejemplo, el $$\(0,3\)$$. Aquí podemos utilizar la herramienta «punto en objeto» para ir mostrando puntos o, mejor todavía, pedir a la clase que propongan puntos e introducirlos en la barra de entrada para ver si están en la recta. |
+| ![](/geogebra/assets/sistemas02.png) | Trazamos la segunda de las rectas. |
+| ![](/geogebra/assets/sistemas03.png) | El punto de corte de ambas rectas es el único punto que cumple las dos ecuaciones. |
 
 ## La hoja de cálculo de Geogebra
 
