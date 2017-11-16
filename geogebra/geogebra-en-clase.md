@@ -36,7 +36,7 @@ La conexión del álgebra y la geometría pocas veces es tan evidente como en la
 | ![](/geogebra/assets/sistemas02.png) | Trazamos la segunda de las rectas. |
 | ![](/geogebra/assets/sistemas03.png) | El punto de corte de ambas rectas es el único punto que cumple las dos ecuaciones. |
 
-## La hoja de cálculo de Geogebra
+
 
 
 
