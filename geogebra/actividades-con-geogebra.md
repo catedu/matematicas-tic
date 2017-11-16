@@ -102,5 +102,16 @@ Y bueno, se podría seguir tirando de la cuerda. ¿Por qué EF y HG son paralelo
 
 ## La hoja de cálculo de Geogebra
 
-Geogebra incluye una hoja de cálculo que es muy sencilla de utilizar. Para ejemplificar
+Geogebra incluye una hoja de cálculo que es muy sencilla de utilizar. Para ejemplificar su funcionamiento, pensemos en un problema de divisibilidad, en torno al concepto de mínimo común múltiplo.
+
+> El autobús que va a Cuarte y el que va a Villanueva inician sus recorridos a las siete de la mañana desde el  mismo punto de partida. Si el de Cuarte tiene un servicio cada 24 minutos, y el de Villanueva cada 36 minutos, ¿a qué hora, después de las siete, vuelven a coincidir en la salida?
+
+| Geogebra | Explicación |
+| :---: | :--- |
+| ![](/geogebra/assets/mcm01.png) | Calculemos en primer lugar cuánto tarda en volver a la salida el primer autobús.  |
+| ![](/geogebra/assets/mcm02.png) | Seleccionamos las dos celdas y arrastramos para que la hoja nos calcule el resto de múltiplos, que nos proporcionan los instantes en que el primer bus vuelve a la salida. |
+|  |  |
+|  |  |
+
+
 
