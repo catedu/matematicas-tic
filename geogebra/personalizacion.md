@@ -4,6 +4,8 @@ Es sencillo cambiar la apariencia de los objetos de Geogebra. Por ejemplo, que l
 
 ## ¿Cómo se personaliza?
 
+
+
 ## Ejemplos
 
 ### Fondo oscuro
@@ -15,6 +17,4 @@ Un ejemplo de personalización, con el fondo oscuro y las líneas y puntos algo 
 ### Fondo claro
 
 ![](/geogebra/assets/fondo_claro.png)
-
-
 
