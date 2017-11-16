@@ -12,6 +12,12 @@ Además, si en dicho menú entramos en «Vista gráfica...» podremos elegir el 
 
 ![](/geogebra/assets/personaliza02.png)
 
+Por otro lado, el color y el grosor de los objetos también puede modificarse, bien individualmente una vez creados, bien en los patrones por defecto.
+
+![](/geogebra/assets/personaliza04.png)
+
+
+
 ## Ejemplos
 
 ### Fondo oscuro
