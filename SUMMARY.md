@@ -2,7 +2,7 @@
 
 ## Introducción
 
-* [¿De qué va esto y qué puedo esperar de este curso?](README.md)
+* [Matemáticas y las TIC](README.md)
 
 ## Redes sociales y blogs
 
