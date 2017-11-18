@@ -14,8 +14,8 @@
 
 ## Algunas herramientas
 
-* [Escribir matemáticas](herramientas/escribir-matematicas.md)
 * [Hojas de cálculo como cuaderno del profesor](herramientas/cuaderno-del-profesor.md)
+* [Escribir matemáticas](herramientas/escribir-matematicas.md)
 
 ## Geogebra
 
