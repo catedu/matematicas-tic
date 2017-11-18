@@ -89,7 +89,7 @@ La plantilla está comentada \(cuando se escribe en una línea `%`, todo lo que 
 
 
 \begin{questions} % Comenzamos con las preguntas del examen
-% Entre corchetes se pone la puntuación de cada una
+% Entre corchetes se pone la puntuación de cada una, y luego el enunciado. Para pasar de línea, simplemente pondremos //
 
     %Pregunta con apartados
     \question Calcula:
