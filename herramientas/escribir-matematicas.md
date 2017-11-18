@@ -123,6 +123,8 @@ La forma más sencilla de introducirse en LaTeX, que además nos puede venir bie
 3. Crear un nuevo proyecto y subir los archivos de la plantilla. Es decir, el `main.tex` \(que reemplaza al creado por defecto\) y las imágenes en su carpeta `/img.`
 4. Modificar la plantilla al gusto de cada uno. Por ejemplo, añadiendo las preguntas de examen y sus soluciones, o cambiando los logos por los de tu instituto. Con esto último, debemos andar con atención, ya que si cambiamos los ficheros, también tendremos que cambiar los nombres de los mismos dentro de la plantilla.
 
+![](/herramientas/assets/plantilla-folders.png)
+
 ## LaTeX en MS Word
 
 Sigue teniendo su cosa escribir matemáticas en MS Word, pero allá vamos.
