@@ -2,7 +2,7 @@
 
 En módulos anteriores hemos visto que la hoja de cálculo \(HC\) puede usarse como cuaderno del profesor y para echar unas cuentas de vez en cuando. Sin embargo, la hoja de cálculo es, en sí misma, un recurso ampliamente utilizado en las aulas y sobre el que se ha investigado en profundidad. Algunas de estas experiencias didácticas incluyen la resolución algebraica de problemas con el apoyo de la hoja de cálculo, como entorno de trabajo, aunque hay que tener en cuenta ciertas limitaciones y, desde luego, es innegable su potencial en estadística.
 
-## Utilización de la hoja de cálculo en primaria
+## Utilización de la hoja de cálculo ya en primaria
 
 No debemos encasillar a un instrumento como la hoja de cálculo en una etapa determinada. No dejan de ser una serie de casillas o celdas que podemos relacionar y un entorno donde podemos manipular esos datos y representarlos gráficamente. La experiencia que relata Crespo \(2012\) se desarrolla, precisamente, con alumnos de 5º y 6º de primaria y, para ello, prepararon una serie de hojas semiestructuradas sobre las que trabajar la resolución de problemas. Vemos un ejemplo en la figura siguiente:
 
@@ -12,17 +12,9 @@ Crespo reconoce que una de las limitaciones es la rigidez inherente a la estruct
 
 En cualquier caso, no es una mala idea que las primeras veces que utilicemos la hoja de cálculo, lo hagamos con una hoja semiestructurada. De esta manera, ejemplificamos una forma de resolver problemas y los alumnos pueden probar a insertar fórmulas en las celdas, arrastrar valores, etc.
 
-## Simulación de eventos aleatorios: esperanza matemática
+### Un ejemplo: problema de divisibilidad \(mcm\)
 
-Aunque la esperanza es un concepto que formalmente, aparece ya en bachillerato, no está de más abordarlo en secundaria desde el punto de vista intuitivo y a partir de la simulación. En este sentido, la hoja de cálculo es un entorno muy apropiado, como relata Gil \(2012\). Consideremos el problema que propone:
 
-> Pedro y Ana apuestan un euro cada uno al resultado obtenido al lanzar un dado equilibrado. Si sale «uno» o «dos», Pedro se llevará los dos euros de la apuesta, mientras que  si sale otro número se los llevará Ana.
-
-La hoja de cálculo correspondiente puede descargarse de la web de [Miguel Barreras](http://calendas.ftp.catedu.es/catexcel/estadistica/pedroana.xls), y tiene la siguiente pinta:![](/otros-recursos/assets/esperanza01.png)
-
-Para la generación de los números aleatorios se ha hecho uso de la función `=ENTERO(ALEATORIO()*6)+1` y los valores que expresan ganancia o pérdida en cada mano se establecen con sencillos condicionales. 
-
-## Estadística
 
 
 
@@ -79,6 +71,16 @@ Observemos que la resolución que muestra la figura anterior se desmarca de los 
 
 > En una granja hay 180 ovejas en dos corrales. Si sabemos que en uno de ellos hay 30 ovejas más que en el otro, ¿cuántas ovejas hay en cada corral?
 
+## Simulación de eventos aleatorios: esperanza matemática
+
+Aunque la esperanza es un concepto que formalmente, aparece ya en bachillerato, no está de más abordarlo en secundaria desde el punto de vista intuitivo y a partir de la simulación. En este sentido, la hoja de cálculo es un entorno muy apropiado, como relata Gil \(2012\). Consideremos el problema que propone:
+
+> Pedro y Ana apuestan un euro cada uno al resultado obtenido al lanzar un dado equilibrado. Si sale «uno» o «dos», Pedro se llevará los dos euros de la apuesta, mientras que si sale otro número se los llevará Ana.
+
+La hoja de cálculo correspondiente puede descargarse de la web de[Miguel Barreras](https://www.gitbook.com/book/catedu/matematicas-y-las-tic/edit#), y tiene la siguiente pinta:![](blob:https://www.gitbook.com/9c9303aa-6cec-457b-a977-8bf6632bbe66)
+
+Para la generación de los números aleatorios se ha hecho uso de la función`=ENTERO(ALEATORIO()*6)+1`y los valores que expresan ganancia o pérdida en cada mano se establecen con sencillos condicionales.
+
 ## Para saber más \(referencias\)
 
 Arnau, D. \(2010\). [_La enseñanza de la resolución algebraica de problemas en el entorno de la hoja de cálculo_](http://www.tdx.cat/bitstream/handle/10803/41722/arnau.pdf?sequence=1). Tesis doctoral: Universitat de València.
@@ -96,8 +98,6 @@ Filloy, E., Puig, L., & Rojano, T. \(2008\). [El estudio teórico local del desa
 Roldán, A. [HojaMat](http://hojamat.es/). Espacio web de Antonio Roldán Martínez, con bastante material.
 
 VV. AA. \(2012\). [Monografía: La hoja de cálculo en la enseñanza de las matemáticas](https://issuu.com/editorialgrao/docs/un061_z_tot). _UNO, 61_.
-
-
 
 VV. AA. \(2012\). [Web Escolar Eustat EP-ESO](https://sites.google.com/site/webescolareustatep5/home). Algunos materiales para 5º/6º Primaria que referencia F. Crespo en la monografía de UNO.
 
