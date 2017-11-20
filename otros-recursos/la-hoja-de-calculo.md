@@ -14,9 +14,7 @@ En cualquier caso, no es una mala idea que las primeras veces que utilicemos la 
 
 ### Un ejemplo: problema de divisibilidad \(mcm\)
 
-
-
-
+En el capítulo dedicado a Geogebra se explica cómo abordar un problema de divisibilidad con la hoja de cálculo.
 
 ## Enlace con el álgebra, una experiencia de investigación
 
@@ -70,6 +68,10 @@ Observemos que la resolución que muestra la figura anterior se desmarca de los 
 #### Las ovejas
 
 > En una granja hay 180 ovejas en dos corrales. Si sabemos que en uno de ellos hay 30 ovejas más que en el otro, ¿cuántas ovejas hay en cada corral?
+
+## Estadística básica con la hoja de cálculo
+
+
 
 ## Simulación de eventos aleatorios: esperanza matemática
 
