@@ -71,15 +71,15 @@ Observemos que la resolución que muestra la figura anterior se desmarca de los 
 
 ## Estadística básica con la hoja de cálculo
 
-
-
 ## Simulación de eventos aleatorios: esperanza matemática
 
 Aunque la esperanza es un concepto que formalmente, aparece ya en bachillerato, no está de más abordarlo en secundaria desde el punto de vista intuitivo y a partir de la simulación. En este sentido, la hoja de cálculo es un entorno muy apropiado, como relata Gil \(2012\). Consideremos el problema que propone:
 
 > Pedro y Ana apuestan un euro cada uno al resultado obtenido al lanzar un dado equilibrado. Si sale «uno» o «dos», Pedro se llevará los dos euros de la apuesta, mientras que si sale otro número se los llevará Ana.
 
-La hoja de cálculo correspondiente puede descargarse de la web de[Miguel Barreras](https://www.gitbook.com/book/catedu/matematicas-y-las-tic/edit#), y tiene la siguiente pinta:![](blob:https://www.gitbook.com/9c9303aa-6cec-457b-a977-8bf6632bbe66)
+La hoja de cálculo correspondiente puede descargarse de la web de Miguel Barreras  y tiene la siguiente pinta:
+
+![](/otros-recursos/assets/esperanza01.png)
 
 Para la generación de los números aleatorios se ha hecho uso de la función`=ENTERO(ALEATORIO()*6)+1`y los valores que expresan ganancia o pérdida en cada mano se establecen con sencillos condicionales.
 
