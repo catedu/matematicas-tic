@@ -61,15 +61,27 @@ Observemos que la resolución que muestra la figura anterior se desmarca de los 
 
 ![](/otros-recursos/assets/mhc_correcto_edades.png)
 
-#### Lana y algodón
+#### Ejercicios
+
+A modo de ejercicio, sugerimos otros dos problemas que aparecen en la investigación de Arnau y Puig \(2013\):
+
+##### Lana y algodón
 
 > Se dispone de tela de lana y de tela de algodón. En total 12 metros. El precio del metro de lana es de 2 euros y el de algodón, de 4 euros. El valor total de la tela que se dispone es de 32 euros. ¿De cuántos metros de tela de lana y de cuántos metros de tela de algodón se dispone?
 
-#### Las ovejas
+##### Las ovejas
 
 > En una granja hay 180 ovejas en dos corrales. Si sabemos que en uno de ellos hay 30 ovejas más que en el otro, ¿cuántas ovejas hay en cada corral?
 
 ## Estadística básica con la hoja de cálculo
+
+Para mostrar una aplicación sencilla de la hoja de cálculo con fines estadísticos pensemos en seguir 
+
+Hay proyectos muy interesantes que cultivan la estadística desde la educación infantil. Por ejemplo, anotando en la pizarra los días que sale nublado, o que llueve, etc. y, posteriormente, haciendo una especie de diagrama de barras \(Alsina, 2017\):
+
+![](/otros-recursos/assets/alsinaestad.png)
+
+¿Por qué no seguir con este tipo de proyectos a lo largo de toda primaria y la secundaria? Sin duda, la hoja de cálculo facilita todo esto, y sobre el soporte de la misma se pueden establecer inferencias cada vez más sofisticadas. De hecho, estos datos suponen un contexto de primer orden para tratar la probabilidad. 
 
 ## Simulación de eventos aleatorios: esperanza matemática
 
@@ -77,13 +89,15 @@ Aunque la esperanza es un concepto que formalmente, aparece ya en bachillerato, 
 
 > Pedro y Ana apuestan un euro cada uno al resultado obtenido al lanzar un dado equilibrado. Si sale «uno» o «dos», Pedro se llevará los dos euros de la apuesta, mientras que si sale otro número se los llevará Ana.
 
-La hoja de cálculo correspondiente puede descargarse de la web de Miguel Barreras  y tiene la siguiente pinta:
+La hoja de cálculo correspondiente puede descargarse de la web de Miguel Barreras \([http://calendas.ftp.catedu.es/catexcel/estadistica.htm](http://calendas.ftp.catedu.es/catexcel/estadistica.htm)\) y tiene la siguiente pinta:
 
 ![](/otros-recursos/assets/esperanza01.png)
 
 Para la generación de los números aleatorios se ha hecho uso de la función`=ENTERO(ALEATORIO()*6)+1`y los valores que expresan ganancia o pérdida en cada mano se establecen con sencillos condicionales.
 
 ## Para saber más \(referencias\)
+
+Alsina, A. \(2017\). [La estadística y la probabilidad en educación infantil: conocimientos disciplinares, didácticos y experienciales](https://revistas.uam.es/didacticasespecificas/article/download/7700/7976). _Didácticas específicas, 7_, 4-22.
 
 Arnau, D. \(2010\). [_La enseñanza de la resolución algebraica de problemas en el entorno de la hoja de cálculo_](http://www.tdx.cat/bitstream/handle/10803/41722/arnau.pdf?sequence=1). Tesis doctoral: Universitat de València.
 
