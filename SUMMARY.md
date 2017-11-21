@@ -29,8 +29,8 @@
 ## Otros recursos para enseñanza-aprendizaje
 
 * [La hoja de cálculo](otros-recursos/la-hoja-de-calculo.md)
-* [Manipulables virtuales](otros-recursos/manipulables-virtuales.md)
 * [Scratch](otros-recursos/scratch.md)
+* [Manipulables virtuales](otros-recursos/manipulables-virtuales.md)
 * [Videojuegos](otros-recursos/videojuegos.md)
 * [Dispositivos móviles](otros-recursos/dispositivos-moviles.md)
 * [Algunos enlaces](otros-recursos/algunos-enlaces.md)

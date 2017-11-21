@@ -8,11 +8,15 @@ Por mucho que ponga «primaria» en el nombre de la web, en Didactmatic Primaria
 
 ![](/otros-recursos/assets/azar.png)
 
+## GeogebraTube
+
+Geogebra facilita el que cada usuario suba a la web las construcciones o libros que vaya haciendo, de forma que, además, se compartan con la comunidad. De ahí que una buena fuente de recursos interactivos sea la propia web de Geogebra \([https://www.geogebra.org/](https://www.geogebra.org/)\):
+
+![](/otros-recursos/assets/geo-materiales.png)
+
 ## Hacer nuestros propios manipulables
 
-Con GeoGebra y Scratch es posible hacer manipulables. Además, existen \(y existirán\) multitud de aplicaciones y plataformas sobre las que poder implementar nuestras ideas. Todo depende de lo que nos interese en cada momento.
-
-
+Tanto con GeoGebra como con Scratch es posible hacer manipulables o pequeños applets interactivos sobre los que proponer tareas. Además, existen \(y existirán\) multitud de aplicaciones y plataformas sobre las que poder implementar nuestras ideas. Todo depende de lo que nos interese en cada momento.
 
 ## Para saber más \(referencias\)
 
@@ -22,5 +26,6 @@ Con GeoGebra y Scratch es posible hacer manipulables. Además, existen \(y exist
 
 * [DidactmaticPrimaria](http://www.didactmaticprimaria.com/). Estupenda web de Juan García Moreno que nunca nos cansaremos de recomendar.
 
+* 
 
 
