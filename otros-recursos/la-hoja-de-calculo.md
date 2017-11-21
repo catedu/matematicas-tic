@@ -75,13 +75,21 @@ A modo de ejercicio, sugerimos otros dos problemas que aparecen en la investigac
 
 ## Estadística básica con la hoja de cálculo
 
-Para mostrar una aplicación sencilla de la hoja de cálculo con fines estadísticos pensemos en seguir 
+Para mostrar una aplicación sencilla de la hoja de cálculo con fines estadísticos pensemos en seguir
 
 Hay proyectos muy interesantes que cultivan la estadística desde la educación infantil. Por ejemplo, anotando en la pizarra los días que sale nublado, o que llueve, etc. y, posteriormente, haciendo una especie de diagrama de barras \(Alsina, 2017\):
 
 ![](/otros-recursos/assets/alsinaestad.png)
 
-¿Por qué no seguir con este tipo de proyectos a lo largo de toda primaria y la secundaria? Sin duda, la hoja de cálculo facilita todo esto, y sobre el soporte de la misma se pueden establecer inferencias cada vez más sofisticadas. De hecho, estos datos suponen un contexto de primer orden para tratar la probabilidad. 
+¿Por qué no seguir con este tipo de proyectos a lo largo de toda primaria y la secundaria? Sin duda, la hoja de cálculo facilita todo esto, y sobre el soporte de la misma se pueden establecer inferencias cada vez más sofisticadas. De hecho, estos datos suponen un contexto de primer orden para tratar la probabilidad.
+
+### Un ejemplo con la hoja de cálculo de Geogebra
+
+Nota: para replicar estos pasos deberemos cerrar la vista gráfica y abrir la vista hoja de cálculo en Geogebra.
+
+> Vamos a investigar acerca del número que calzamos en esta clase.
+
+El resultado![](/otros-recursos/assets/calzado-geogebra.png)
 
 ## Simulación de eventos aleatorios: esperanza matemática
 
