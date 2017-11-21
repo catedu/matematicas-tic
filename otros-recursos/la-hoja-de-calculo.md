@@ -89,7 +89,17 @@ La verdad es que Geogebra está acaparando gran parte de la atención en esto de
 
 > Vamos a investigar acerca del número que calzamos en esta clase.
 
-En primer lugar, introducimos los datos de los posibles números de calzado. Po
+En primer lugar, introducimos los datos de los posibles números de calzado. Hemos elegido hacerlo en una columna, pero podríamos haberlo hecho en una fila. En la columna de al lado, vamos realizando el recuento \(frecuencias absolutas\) para cada número de calzado. Esto lo podemos hacer en clase haciendo que los alumnos vayan levantando la mano.
+
+Posteriormente, podemos calcular el total de alumnos utilizando la función correspondiente \(habrá que seleccionar el conjunto de datos que queramos sumar\). Aunque también podríamos haber hecho la suma nosotros, de esta forma damos a entender que la hoja de cálculo permite automatizar cuentas. Así obtenemos el 19 de la siguiente figura:
+
+![](/otros-recursos/assets/hc-geo-02.png)
+
+Finalmente, nos queda hacer el diagrama de barras. Seleccionamos el número de calzado y le damos al icono correspondiente de «Análisis de una variable». Se nos desplegará  una ventana para terminar de introducir las fuentes de datos. Como en nuestro caso tenemos los datos con sus frecuencias, tendremos que acceder a la ruedecita de ajuste de dicha ventana, y señalar que queremos introducir datos y frecuencias. Entonces seleccionamos las frecuencias y le damos posteriormente al símbolo de la manita de la columna correspondiente.
+
+![](/otros-recursos/assets/hc-geo-01.png)
+
+
 
 La siguiente imagen muestra el aspecto resultante de la hoja de cálculo. Dependiendo del curso, haremos una serie de preguntas que nos facilitarán institucionalizar después el contenido matemático y decir qué es la media, moda, etc. Por ejemplo:
 
@@ -98,7 +108,7 @@ La siguiente imagen muestra el aspecto resultante de la hoja de cálculo. Depend
 * ¿Cuál será el número de calzado del próximo alumno que responda a una pregunta?
 * ...
 
- ![](/otros-recursos/assets/calzado-geogebra.png)Nota: para replicar estos pasos deberemos cerrar la vista gráfica y abrir la vista hoja de cálculo en Geogebra.
+  ![](/otros-recursos/assets/calzado-geogebra.png)Nota: para replicar estos pasos deberemos cerrar la vista gráfica y abrir la vista hoja de cálculo en Geogebra.
 
 ## Simulación de eventos aleatorios: esperanza matemática
 
