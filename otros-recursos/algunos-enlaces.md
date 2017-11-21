@@ -1,6 +1,6 @@
 # Algunos enlaces
 
-Y esto de aquí es directamente un cajón desastre, con enlaces que consideramos interesantes, totalmente abierto a actualizaciones y sugerencias.
+Y esto de aquí es directamente un cajón desastre, con enlaces que consideramos interesantes, además de los que hemos ido dejando a lo largo de las secciones. Queda totalmente abierto a actualizaciones y sugerencias.
 
 * [Matemáticas en tu mundo](http://matematicasentumundo.es/). Magnífica página de J. M. Sorando con un montón de recursos e ideas. 
 * [Didactmatic Primaria](http://www.didactmaticprimaria.com/). Web de J. García Moreno y sus estupendos manipulables virtuales. Aunque ponga primaria, también es interesante para los de secundaria.
