@@ -85,13 +85,20 @@ Hay proyectos muy interesantes que cultivan la estadística desde la educación 
 
 ### Un ejemplo con la hoja de cálculo de Geogebra
 
-La verdad es que Geogebra está acaparando 
-
-Nota: para replicar estos pasos deberemos cerrar la vista gráfica y abrir la vista hoja de cálculo en Geogebra.
+La verdad es que Geogebra está acaparando gran parte de la atención en esto de las TIC y las matemáticas. Vamos a dar a continuación un ejemplo de cómo se podría hacer estadística con la hoja de cálculo que lleva integrada \(vista «hoja de cálculo»\). En cualquier caso, con cualquier otro programa o aplicación, los pasos serían muy similares.
 
 > Vamos a investigar acerca del número que calzamos en esta clase.
 
-El resultado![](/otros-recursos/assets/calzado-geogebra.png)
+En primer lugar, introducimos los datos de los posibles números de calzado. Po
+
+La siguiente imagen muestra el aspecto resultante de la hoja de cálculo. Dependiendo del curso, haremos una serie de preguntas que nos facilitarán institucionalizar después el contenido matemático y decir qué es la media, moda, etc. Por ejemplo:
+
+* ¿Cuál es el número de calzado más común?
+* ¿Cuál es el número de calzado medio?
+* ¿Cuál será el número de calzado del próximo alumno que responda a una pregunta?
+* ...
+
+ ![](/otros-recursos/assets/calzado-geogebra.png)Nota: para replicar estos pasos deberemos cerrar la vista gráfica y abrir la vista hoja de cálculo en Geogebra.
 
 ## Simulación de eventos aleatorios: esperanza matemática
 
