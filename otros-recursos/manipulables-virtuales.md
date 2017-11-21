@@ -6,9 +6,13 @@ En palabras de su autor Juan García Moreno, la web [Didactmatic Primaria](http:
 
 Por mucho que ponga «primaria» en el nombre de la web, en Didactmatic Primaria encontraremos contenido digital desde la etapa de infantil hasta la secundaria. El propio autor menciona que para atención a la diversidad en ESO. Sin embargo, desde aquí creemos que es muy modesto. La forma en la que aborda la resolución de problemas o, sin ir más lejos, el magnífico laboratorio de azar y probabilidad, son válidos para secundaria tranquilamente.
 
+![](/otros-recursos/assets/azar.png)
+
 ## Hacer nuestros propios manipulables
 
 Con GeoGebra y Scratch es posible hacer manipulables. Además, existen \(y existirán\) multitud de aplicaciones y plataformas sobre las que poder implementar nuestras ideas. Todo depende de lo que nos interese en cada momento.
+
+
 
 ## Para saber más \(referencias\)
 
