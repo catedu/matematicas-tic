@@ -85,6 +85,8 @@ Hay proyectos muy interesantes que cultivan la estadística desde la educación 
 
 ### Un ejemplo con la hoja de cálculo de Geogebra
 
+La verdad es que Geogebra está acaparando 
+
 Nota: para replicar estos pasos deberemos cerrar la vista gráfica y abrir la vista hoja de cálculo en Geogebra.
 
 > Vamos a investigar acerca del número que calzamos en esta clase.
