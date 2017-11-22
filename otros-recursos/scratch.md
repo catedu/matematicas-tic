@@ -106,9 +106,7 @@ Vamos a añadir una mariposita, de manera que al hacer clic sobre ella, la rana 
 
 La ranita, al recibir el mensaje1 \(en realidad, cualquier objeto podría recibir esta señal\), hace lo que tenga que hacer. En este caso, la frase que habíamos mencionado:
 
-
-
-
+![](/otros-recursos/assets/scratch07.png)
 
 ### Paso 5. Y final. Compartir el proyecto si lo deseamos
 
