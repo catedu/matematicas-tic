@@ -98,7 +98,9 @@ Si presionamos la banderita en la ventana de la izquierda, ahora veremos cómo v
 
 ![](/otros-recursos/assets/scratch05.png)
 
-Paso 4. Añadir otras acciones
+### Paso 4. Añadir otras acciones
+
+### Paso 5. Y final. Compartir el proyecto si lo deseamos.
 
 ## Diseño de una actividad de clase con Scratch
 
