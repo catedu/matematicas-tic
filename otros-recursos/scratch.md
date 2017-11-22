@@ -72,11 +72,29 @@ La tarea de iniciación a Scratch más habitual es la realización de un collage
 
 ![](/otros-recursos/assets/scratch01.png)
 
-Cuando creamos un proyecto nuevo, lo que veremos será algo similar a lo de la figura siguiente. La zona gris de la derecha es donde iremos añadiendo los programas, que actuarán sobre el objeto seleccionado a la derecha. 
+Cuando creamos un proyecto nuevo, lo que veremos será algo similar a lo de la figura siguiente. La zona gris de la derecha es donde iremos añadiendo los programas, que actuarán sobre el objeto seleccionado a la derecha.
 
 ![](/otros-recursos/assets/scratch02.png)
 
-## Diseño de una actividad con Scratch
+### Paso 1. Elegimos o subimos el objeto que queramos
+
+Borramos el gato que aparece por defecto \(botón derecho sobre el objeto y borrar\) y añadimos uno nuevo, bien de la galería, bien subido por nosotros. En este caso, hemos elegido una rana. Aparecerá en la ventana superior de la izquierda y observaremos que al desplazarla con el ratón, podemos ver sus coordenadas, tal y como se observa en la siguiente image:
+
+![](/otros-recursos/assets/scratch03.png)
+
+### Paso 2. Elegimos el fondo
+
+De la misma forma que hemos hecho para la rana, elegimos el fondo que queramos.
+
+![](/otros-recursos/assets/scratch04.png)
+
+### Paso 3. Primera acción.
+
+Por ejemplo, queremos que cuando le demos a la banderita verde \(que marca el inicio de cualquier programa de Scratch\), la rana diga «Hola» y salte.
+
+
+
+## Diseño de una actividad de clase con Scratch
 
 A continuación, dejamos un ejemplo de diseño en detalle de una actividad en torno a la idea de mínimo común múltiplo.
 
