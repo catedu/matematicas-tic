@@ -10,7 +10,7 @@ La enseñanza de las matemáticas está llena de algoritmos. Así, ya en las pri
 
 Por otro lado, cuando diseñamos un algoritmo hemos de tener muy claro el resultado al que queremos llegar y los pasos que vemos necesarios para alcanzarlo. Además, exige describir muy bien estos pasos. Hay que describirlos tan bien, ¡que hasta una cosa tan tonta como una máquina debe ser capaz de entenderlos!
 
-Conste que todo esto del pensamiento computacional no nace con Scratch. Ni mucho menos. Basta recordar la famosa tortuguita de Logo con la que se introducía la programación a los más pequeños hace décadas. 
+Conste que todo esto del pensamiento computacional no nace con Scratch. Ni mucho menos. Basta recordar la famosa tortuguita de Logo con la que se introducía la programación a los más pequeños hace décadas.
 
 ### Un ejemplo de pseudocódigo
 
@@ -39,7 +39,7 @@ FIN
 
 ### Otro ejemplo de pseudocódigo: algoritmo de la suma tradicional
 
-Las siguientes líneas de pseudocódigo
+Las siguientes líneas de pseudocódigo muestran los pasos 
 
 ```
 ALGORITMO suma
@@ -69,8 +69,6 @@ FIN
 ## Empezando con Scratch
 
 La tarea de iniciación a Scratch más habitual es la realización de un collage de presentación.
-
-
 
 ## Diseño de una actividad con Scratch
 
