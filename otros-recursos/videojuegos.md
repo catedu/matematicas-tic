@@ -8,9 +8,9 @@ Albarracín, L. \(2015\). [Jugando con el espacio y el tiempo](https://www.resea
 
 Albarracín, L. \(2015\).[ La creatividad hecha videojuego: Minecraft](https://www.researchgate.net/profile/Lluis_Albarracin/publication/284899362_La_creatividad_hecha_videojuego_Minecraft/links/5659e23b08ae4988a7b95419/La-creatividad-hecha-videojuego-Minecraft.pdf?origin=publication_detail&ev=pub_int_prw_xdl&msrp=61xyJvzkljHtLRlJDQumuqnolDt0Rp203jGaPqwvapvz4V2K5_4LaKvZ7QdrCBpX_KCNuX3zIdnRgjy-0xjlfi82joxyetYAP0Gzq-5NcO1svD1CnBDAQuj1.VlHxgNhTpq-IgFU4p_MTf2ptIjv7HxOwUaYc7J9Hk9tEbX_tf9hQfRP2YnxyeiGl1heTux5VJ6xH2QbLk99A3Tq_QCJDsRTIvQAoMw.pdfOFdoxYdYcJTK2w4q8srISumLFzCsv0qNCzWvg5bgP12dNqdaBAqbjDS54vWO2JzVVkQyyWcenkgwUMolN4h__I3bhY_v4Nm7zUA.W_7aK-wSGM2CK7na8-64-3knfqbA3mR5fb_3XgbzJVMdcBZhCsrKKyQCbsaMeAz1i1AvXZsEYp0RRoM-lmvSd2Sxj6qXTw7gXezpHg). _Suma: Revista sobre Enseñanza y Aprendizaje de las Matemáticas, 79_, 35-42.
 
-Albarracín, L. \(2015\). Videojuegos. Diseñando ciudades en SimCity. _Suma: Revista sobre Enseñanza y Aprendizaje de las Matemáticas, 78_, 65-71.
+Albarracín, L. \(2015\). [Diseñando ciudades en SimCity](https://goo.gl/uJKVwB). _Suma: Revista sobre Enseñanza y Aprendizaje de las Matemáticas, 78_, 65-71.
 
-Albarracín, L. \(2014\). Los videojuegos de defensa de torres. _Suma: Revista sobre Enseñanza y Aprendizaje de las Matemáticas, 77_, 61-67.
+Albarracín, L. \(2014\). [Los videojuegos de defensa de torres](https://revistasuma.es/IMG/pdf/61-67--s77-videojuegos.pdf). _Suma: Revista sobre Enseñanza y Aprendizaje de las Matemáticas, 77_, 61-67.
 
-Albarracín, L. \(2014\). Los videojuegos de gestión deportiva: FX Fútbol 2.0. _Suma: Revista sobre Enseñanza y Aprendizaje de las Matemáticas, 76_, 75-82.
+Albarracín, L. \(2014\). [Los videojuegos de gestión deportiva: FX Fútbol 2.0](https://goo.gl/ixnQZT). _Suma: Revista sobre Enseñanza y Aprendizaje de las Matemáticas, 76_, 75-82.
 
