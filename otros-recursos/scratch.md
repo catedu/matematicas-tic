@@ -35,7 +35,7 @@ FIN
 
 ### Otro ejemplo de pseudocódigo: algoritmo de la suma tradicional
 
-Las
+Las siguientes líneas de pseudocódigo
 
 ```
 ALGORITMO suma
@@ -59,8 +59,7 @@ INICIO
         MOVER mano a siguiente columna    
         orden=orden+1 //pasamos a la siguiente columna, es decir, al siguiente orden de magnitud.     
     ESCRIBIR sumando1(orden)+sumando2(orden)+llevada // para el último orden, se escribe el resultado directamente
-FIN    
-    
+FIN
 ```
 
 ## Empezando con Scratch
