@@ -31,6 +31,7 @@
 * [La hoja de cálculo](otros-recursos/la-hoja-de-calculo.md)
 * [Scratch](otros-recursos/scratch.md)
 * [Manipulables virtuales](otros-recursos/manipulables-virtuales.md)
+* [Desmos](otros-recursos/desmos.md)
 * [Videojuegos](otros-recursos/videojuegos.md)
 * [Dispositivos móviles](otros-recursos/dispositivos-moviles.md)
 * [Algunos enlaces](otros-recursos/algunos-enlaces.md)

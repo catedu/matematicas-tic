@@ -4,7 +4,9 @@ Si bien Geogebra es un software esencialmente matemático, [Scratch ](https://sc
 
 ## Los algoritmos en la educación matemática
 
-La enseñanza de las matemáticas está llena de algoritmos. Así, ya en las primeras etapas nos encontramos con algoritmos \(tradicionales o no\) para las operaciones básicas, más adelante tenemos los que permiten calcular el mínimo común múltiplo y el máximo común divisor y... en bachillerato, por ejemplo, está el método de Gauss para resolver sistemas de ecuaciones lineales. 
+La enseñanza de las matemáticas está llena de algoritmos. Así, ya en las primeras etapas nos encontramos con algoritmos \(tradicionales o no\) para las operaciones básicas, más adelante tenemos los que permiten calcular el mínimo común múltiplo y el máximo común divisor y... en bachillerato, por ejemplo, se aprende el método de Gauss para resolver sistemas de ecuaciones lineales. Al enseñar estos algoritmos, lo realmente interesante, es que los alumnos aprendan a asignarles un significado. Es decir, 
+
+Por otro lado, cuando diseñamos un algoritmo hemos de anticiparnos 
 
 ### Un ejemplo de pseudocódigo
 
@@ -39,9 +41,12 @@ DATOS
     sumando1
     sumando2
 INICIO
+    
 ```
 
 ## Diseño de una actividad con Scratch
+
+
 
 ![](/otros-recursos/assets/scratch_canvas.png)
 
