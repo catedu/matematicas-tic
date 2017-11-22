@@ -110,7 +110,12 @@ La ranita, al recibir el mensaje1 \(en realidad, cualquier objeto podría recibi
 
 ### Paso 5. Y final. Compartir el proyecto si lo deseamos
 
+Le damos al botón de compartir... y ya lo tenemos. El ejemplo anterior puede visitarse en el siguiente enlace: [https://scratch.mit.edu/projects/188129308/](https://scratch.mit.edu/projects/188129308/), donde observaremos que podemos hacer dos cosas:
 
+* Ver el programa en funcionamiento, a pantalla completa si queremos.
+* Ver _dentro _del programa; esto es, cómo esta hecho e, incluso, reutilizar los bloques.
+
+![](/otros-recursos/assets/scratch08.png)
 
 ## Diseño de una actividad de clase con Scratch
 
