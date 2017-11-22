@@ -6,11 +6,9 @@ Aquí tenemos a un más que digno competidor para Geogebra, sobre todo en lo que
 
 ## ¿En qué consiste?
 
-Desmos es, esencialmente, una calculadora gráfica diseñada en HTML5, de manera que explota todas sus posibilidades en los navegadores modernos. Sobre esta calculadora, además de actividades ya realizadas  se pueden crear actividades que permiten explorar a los estudiantes y dar sentido a las matemáticas.
+Desmos es, esencialmente, una calculadora gráfica diseñada en HTML5, de manera que explota todas sus posibilidades en los navegadores modernos. Sobre esta calculadora, además de actividades ya realizadas por el equipo de Desmos, los docentes pueden crear actividades y modificar otras ya hechas que permiten explorar a los estudiantes y dar sentido a las matemáticas.
 
-
-
-Nuestra comunidad de usuarios se multiplica cada año y esa comunidad ha solicitado nuevas características para todo el año. Mantenemos ese crecimiento a través de nuestras asociaciones con editores y otras compañías de educación matemática que desean agregar nuestra tecnología a sus productos.
+Como calculadora gráfica
 
 ## Copiar y editar actividades ya hechas
 
