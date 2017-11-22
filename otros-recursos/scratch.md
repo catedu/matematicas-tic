@@ -100,7 +100,19 @@ Si presionamos la banderita en la ventana de la izquierda, ahora veremos cómo v
 
 ### Paso 4. Añadir otras acciones
 
-### Paso 5. Y final. Compartir el proyecto si lo deseamos.
+Vamos a añadir una mariposita, de manera que al hacer clic sobre ella, la rana diga que le gusta comer pequeños animalitos voladores. Comenzamos de esta manera, donde la mariposa, cuando se hace clic sobre ella, manda un «mensaje» \(es como una señal de activación\).
+
+![](/otros-recursos/assets/scratch06.png)
+
+La ranita, al recibir el mensaje1 \(en realidad, cualquier objeto podría recibir esta señal\), hace lo que tenga que hacer. En este caso, la frase que habíamos mencionado:
+
+
+
+
+
+### Paso 5. Y final. Compartir el proyecto si lo deseamos
+
+
 
 ## Diseño de una actividad de clase con Scratch
 
