@@ -88,11 +88,17 @@ De la misma forma que hemos hecho para la rana, elegimos el fondo que queramos.
 
 ![](/otros-recursos/assets/scratch04.png)
 
-### Paso 3. Primera acción.
+### Paso 3. Primera acción
 
-Por ejemplo, queremos que cuando le demos a la banderita verde \(que marca el inicio de cualquier programa de Scratch\), la rana diga «Hola» y salte. La «banderita» es un evento y, como tal 
+Por ejemplo, queremos que cuando le demos a la banderita verde \(que marca el inicio de cualquier programa de Scratch\), la rana diga «Hola» y salte. La «banderita» es un evento y, como tal, lo tenemos en el menú de eventos. Lo arrastramos a la ventana de la derecha. Hacemos lo mismo para la instrucción «decir», que encontraremos en el bloque de apariencia y para la instrucción «mover», que está en el bloque de movimiento. Las encajamos para conseguir esto:
 
+![](/otros-recursos/assets/scratch.png)
 
+Si presionamos la banderita en la ventana de la izquierda, ahora veremos cómo va la cosa:
+
+![](/otros-recursos/assets/scratch05.png)
+
+Paso 4. Añadir otras acciones
 
 ## Diseño de una actividad de clase con Scratch
 
