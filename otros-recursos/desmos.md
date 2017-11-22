@@ -10,6 +10,8 @@ Desmos es, esencialmente, una calculadora gráfica diseñada en HTML5, de manera
 
 ## Como calculadora gráfica
 
+## Lanzar actividades en el aula
+
 ## Copiar y editar actividades ya hechas
 
 De momento, salvo que nos descarguemos alguna actividad subida por compañeros en español, está casi todo en inglés. Sin embargo, si vemos alguna que se adapte muy bien a nuestras necesidades, podemos copiarla y editarla \(copy and edit\) \(no en todas será posible\):
