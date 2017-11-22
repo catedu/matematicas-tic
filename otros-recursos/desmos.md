@@ -16,11 +16,15 @@ De momento, salvo que nos descarguemos alguna actividad subida por compañeros e
 
 ![](/otros-recursos/assets/desmos01.png)
 
-### Ejemplo. Vamos a traducir una
+### Ejemplo. Traducir un polygraph \(«quién es quién»\)
 
-[https://teacher.desmos.com/polygraph/custom/560aa8d79e65da561507a4ea](https://teacher.desmos.com/polygraph/custom/560aa8d79e65da561507a4ea)
+Un tipo de actividades muy popular en Desmos es el «Polygraph» o polígrafo. Pero creo que nos entenderemos mejor si la llamamos por el nombre por el que la conocemos todos: quién es quién. Tampoco es que sea nueva la idea, pero poder generar juegos de este tipo fácilmente es una maravilla, ya que permiten movilizar mucho vocabulario.
 
-![](/otros-recursos/assets/polygraph01.png)
+
+
+
+
+
 
 ## Búsqueda de actividades
 
