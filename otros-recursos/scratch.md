@@ -1,12 +1,16 @@
 # Scratch
 
+![](/otros-recursos/assets/logoscratch.png)
+
 Si bien Geogebra es un software esencialmente matemático, [Scratch ](https://scratch.mit.edu/)es una aplicación que ha ido ganando mucha popularidad en diferentes ámbitos y que tiene también un potencial enorme en la enseñanza y el aprendizaje de ciertos contenidos propios de las matemáticas. Normalmente, Scratch se asocia a lo que se conoce como pensamiento computacional. De hecho, existen cursos que directamente se denominan «Pensamiento computacional con Scratch».
 
 ## Los algoritmos en la educación matemática
 
 La enseñanza de las matemáticas está llena de algoritmos. Así, ya en las primeras etapas nos encontramos con algoritmos \(tradicionales o no\) para las operaciones básicas, más adelante tenemos los que permiten calcular el mínimo común múltiplo y el máximo común divisor y... en bachillerato, por ejemplo, se aprende el método de Gauss para resolver sistemas de ecuaciones lineales. Al enseñar estos algoritmos, lo realmente interesante, es que los alumnos aprendan a asignarles un significado. Es decir,
 
-Por otro lado, cuando diseñamos un algoritmo hemos de anticiparnos
+Por otro lado, cuando diseñamos un algoritmo hemos de tener muy claro el resultado al que queremos llegar y los pasos que vemos necesarios para alcanzarlo. Además, exige describir muy bien estos pasos. Hay que describirlos tan bien, ¡que hasta una cosa tan tonta como una máquina debe ser capaz de entenderlos!
+
+Conste que todo esto del pensamiento computacional no nace con Scratch. Ni mucho menos. Basta recordar la famosa tortuguita de Logo con la que se introducía la programación a los más pequeños hace décadas. 
 
 ### Un ejemplo de pseudocódigo
 
@@ -65,6 +69,8 @@ FIN
 ## Empezando con Scratch
 
 La tarea de iniciación a Scratch más habitual es la realización de un collage de presentación.
+
+
 
 ## Diseño de una actividad con Scratch
 
