@@ -72,9 +72,9 @@ La tarea de iniciación a Scratch más habitual es la realización de un collage
 
 ![](/otros-recursos/assets/scratch01.png)
 
- 
+Cuando creamos un proyecto nuevo, lo que veremos será algo similar a lo de la figura siguiente. La zona gris de la derecha es donde iremos añadiendo los programas, que actuarán sobre el objeto seleccionado a la derecha. 
 
-
+![](/otros-recursos/assets/scratch02.png)
 
 ## Diseño de una actividad con Scratch
 
