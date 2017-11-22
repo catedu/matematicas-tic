@@ -39,7 +39,7 @@ FIN
 
 ### Otro ejemplo de pseudocódigo: algoritmo de la suma tradicional
 
-Las siguientes líneas de pseudocódigo muestran los pasos 
+Las siguientes líneas de pseudocódigo muestran los pasos
 
 ```
 ALGORITMO suma
@@ -68,7 +68,13 @@ FIN
 
 ## Empezando con Scratch
 
-La tarea de iniciación a Scratch más habitual es la realización de un collage de presentación.
+La tarea de iniciación a Scratch más habitual es la realización de un collage de presentación. Para ello, aunque se puede hacer con el editor offline \([https://scratch.mit.edu/download](https://scratch.mit.edu/download)\), recomendamos hacerlo directamente en el editor online. En primer lugar,  nos crearemos una cuenta:
+
+![](/otros-recursos/assets/scratch01.png)
+
+ 
+
+
 
 ## Diseño de una actividad con Scratch
 
