@@ -90,7 +90,7 @@ De la misma forma que hemos hecho para la rana, elegimos el fondo que queramos.
 
 ### Paso 3. Primera acción.
 
-Por ejemplo, queremos que cuando le demos a la banderita verde \(que marca el inicio de cualquier programa de Scratch\), la rana diga «Hola» y salte.
+Por ejemplo, queremos que cuando le demos a la banderita verde \(que marca el inicio de cualquier programa de Scratch\), la rana diga «Hola» y salte. La «banderita» es un evento y, como tal 
 
 
 
