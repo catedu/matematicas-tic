@@ -24,15 +24,15 @@ Mostraremos la dinámica de funcionamiento con una de las más populares y que s
 
 Esto es realmente lo importante para ponerlo en marcha. De forma similar a otras aplicaciones \(pensemos en Kahoot\), será el código que pasemos a nuestros alumnos para que entren en la actividad. Haciendo clic en «Create class code» obtenemos dicho código:
 
-![](/otros-recursos/assets/desmos10.png)Como para cada código podemos acceder a su correspondiente panel de control \(«dashboard»\), con estadísticas y resultados, lo recomendable es crear un código distinto para cada grupo de alumnos o sesión. 
+![](/otros-recursos/assets/desmos10.png)Como para cada código podemos acceder a su correspondiente panel de control \(«dashboard»\), con estadísticas y resultados, lo recomendable es crear un código distinto para cada grupo de alumnos o sesión.
 
 ### ¿Cómo entran los alumnos?
 
-Si hacemos clic sobre el código, se abre una pantalla que indica el procedimiento. 
+Si hacemos clic sobre el código, se abre una pantalla que indica el procedimiento.
 
 ![](/otros-recursos/assets/desmos11.png)
 
-Observaremos que en la parte inferior, también tenemos un enlace directo que podemos mandar por correo. Una vez que inician el procedimiento, a los estudiantes se les da la opción de identificarse, lo cual permite interrumpir el trabajo y volver a él más adelante. Pero es opcional, bastará con poner un nombre o pseudónimo en la pantalla que sale después. 
+Observaremos que en la parte inferior, también tenemos un enlace directo que podemos mandar por correo. Una vez que inician el procedimiento, a los estudiantes se les da la opción de identificarse, lo cual permite interrumpir el trabajo y volver a él más adelante. Pero es opcional, bastará con poner un nombre o pseudónimo en la pantalla que sale después.
 
 ![](/otros-recursos/assets/desmos12.png)
 
@@ -40,7 +40,7 @@ Y ya estarían dentro los alumnos, disfrutando, en este caso, de una bonita sesi
 
 ![](/otros-recursos/assets/desmos13.png)
 
-### Panel de control 
+### Panel de control
 
 En el panel de control se muestra qué estudiantes lo están realizando y qué respuestas están dando.
 
