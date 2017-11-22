@@ -1,6 +1,6 @@
 # Videojuegos y matemáticas
 
-Una mirada matemática a algunos videojuegos.
+No podíamos dejar un curso de Matemáticas y TIC sin hacer referencia a los videojuegos. Como muestra del contenido matemático subyacente en muchos de ellos, así como de sus posibilidades didácticas, dejamos aquí enlaces a los artículos de Lluís Albarracín en la revista Suma.
 
 ## Para saber más \(referencias\)
 
