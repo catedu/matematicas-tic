@@ -8,7 +8,7 @@ Aquí tenemos a un más que digno competidor para Geogebra, sobre todo en lo que
 
 Desmos es, esencialmente, una calculadora gráfica diseñada en HTML5, de manera que explota todas sus posibilidades en los navegadores modernos. Sobre esta calculadora, además de actividades ya realizadas por el equipo de Desmos, los docentes pueden crear actividades y modificar otras ya hechas que permiten explorar a los estudiantes y dar sentido a las matemáticas.
 
-Como calculadora gráfica
+## Como calculadora gráfica
 
 ## Copiar y editar actividades ya hechas
 
@@ -20,11 +20,9 @@ De momento, salvo que nos descarguemos alguna actividad subida por compañeros e
 
 Un tipo de actividades muy popular en Desmos es el «Polygraph» o polígrafo. Pero creo que nos entenderemos mejor si la llamamos por el nombre por el que la conocemos todos: quién es quién. Tampoco es que sea nueva la idea, pero poder generar juegos de este tipo fácilmente es una maravilla, ya que permiten movilizar mucho vocabulario.
 
+La actividad original está en este enlace: [https://teacher.desmos.com/polygraph/custom/560c53f7441172070b262215.](https://teacher.desmos.com/polygraph/custom/560c53f7441172070b262215) Accedemos y, si estamos registrados podremos copiar y editarla. Al hacerlo, veremos la primera pantalla de edición, donde se configuran las tarjetas. ![](/otros-recursos/assets/demos02.png)Si quisiéramos crear uno nuevo, lo haríamos aquí. Pero como lo que queremos es traducir el texto, hacemos clic en details. Y cambiamos el texto. Una vez hecho, hacemos lo mismo con «Title».
 
-
-
-
-
+![](/otros-recursos/assets/desmos03.png)El resultado lo vemos en el enlace siguiente: [https://teacher.desmos.com/polygraph/custom/5a1591ce8c08800a6023fbbb](https://teacher.desmos.com/polygraph/custom/5a1591ce8c08800a6023fbbb)
 
 ## Búsqueda de actividades
 
