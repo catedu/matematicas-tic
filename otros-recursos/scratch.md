@@ -35,6 +35,8 @@ FIN
 
 ### Otro ejemplo de pseudocódigo: algoritmo de la suma tradicional
 
+Las
+
 ```
 ALGORITMO suma
 DATOS
@@ -45,20 +47,25 @@ INICIO
     escribir debajo el segundo número, de forma que coincidan unidades con unidades, decenas con decenas, etc.
     trazar una línea horizontal
     llevada=0
-    REPETIR veces=máximo(cifras de sumando1, cifras de sumando2)
+    REPETIR veces=máximo(cifras de sumando1, cifras de sumando2)-1
         orden=0 //indica la posición que tomaremos. Orden 0 serán las unidades.
-        parcial=sumando1(orden)+sumando2(orden)
+        parcial=sumando1(orden)+sumando2(orden)+llevada //observar que la primera vez, la llevada es 0
         SI parcial<10 ENTONCES //no hay llevada
             ESCRIBIR parcial
             llevada=0
         EN CASO CONTRARIO //hay llevada
             ESCRIBIR parcial-10
-            llevada=1 
+            llevada=1
+        MOVER mano a siguiente columna    
+        orden=orden+1 //pasamos a la siguiente columna, es decir, al siguiente orden de magnitud.     
+    ESCRIBIR sumando1(orden)+sumando2(orden)+llevada // para el último orden, se escribe el resultado directamente
+FIN    
+    
 ```
 
 ## Empezando con Scratch
 
-La tarea de iniciación a Scratch más habitual es la realización de un collage de presentación. 
+La tarea de iniciación a Scratch más habitual es la realización de un collage de presentación.
 
 ## Diseño de una actividad con Scratch
 
