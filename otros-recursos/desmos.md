@@ -10,15 +10,23 @@ Desmos es, esencialmente, una calculadora gráfica diseñada en HTML5, de manera
 
 ## Como calculadora gráfica
 
-
-
 ## Lanzar actividades en el aula
 
 Desde la web de profesor de Desmos \([https://teacher.desmos.com](https://teacher.desmos.com)\), podemos buscar en su banco de recursos, tanto actividades diseñadas por el equipo de Desmos como aquellas subidas por otros docentes:
 
 ![](/otros-recursos/assets/searchdesmos.png)
 
-Mostraremos la dinámica de funcionamiento con una de las más populares y que sirve para introducir y trabajar las coordenadas de un plano cartesiano en dos dimensiones. En el siguiente apartado veremos que muchas de estas actividades podremos modificarlas \(por ejemplo, para traducirlas\), pero otras, como esta, no. En cualquier caso, nos servirá para nuestros propósitos. Al seleccionarla, veremos algo similar a lo siguiente:![](/otros-recursos/assets/desmos04.png)Es decir, 
+Mostraremos la dinámica de funcionamiento con una de las más populares y que sirve para introducir y trabajar las coordenadas de un plano cartesiano en dos dimensiones. En el siguiente apartado veremos que muchas de estas actividades podremos modificarlas \(por ejemplo, para traducirlas\), pero otras, como esta, no. En cualquier caso, nos servirá para nuestros propósitos. Al seleccionarla, veremos algo similar a lo siguiente:
+
+###  ![](/otros-recursos/assets/desmos04.png)Class code \(código de aula\)
+
+Esto es realmente lo importante para ponerlo en marcha. De forma similar a otras aplicaciones \(pensemos en Kahoot\), será el código que 
+
+### Marcadores de favoritos
+
+Haciendo clic en el símbolo de marcador podremos guardar aquellas actividades que nos resulten de utilidad.
+
+![](/otros-recursos/assets/desmos09.png)
 
 ## Copiar y editar actividades ya hechas
 
