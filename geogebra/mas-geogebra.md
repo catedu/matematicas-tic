@@ -12,8 +12,6 @@ Una construcción de Geogebra realizada por el profesor, con deslizadores para m
 
 ![](/geogebra/assets/animation01.png)
 
-
-
 ## «Libros» de Geogebra
 
 Muchos de los tutoriales de la wiki de Geogebra están creados, de hecho, con el propio editor de libros Geogebra. Se trata de un formato interactivo que permite integrar texto y applets de Geogebra. Se puede consultar en este [enlace](https://www.geogebra.org/m/Smmt4pVM).
@@ -29,6 +27,8 @@ Hohenwarter, M. & Preiner, J. \(2007\). [Dynamic mathematics with GeoGebra](http
 Hohenwarter, J., Hohenwarter, M., & Lavicza, Z. \(2009\).[ Introducing dynamic mathematics software to secondary school teachers: The case of GeoGebra](https://archive.geogebra.org/static/publications/2009-Hohenwarter_Lavicza_IntroducingDynMathSoft-GeoGebra.pdf). _Journal of Computers in Mathematics and Science Teaching, 28_\(2\), 135-146.
 
 Iranzo, N. & Fortuny, J. M. \(2009\).[ La influencia conjunta del uso de GeoGebra y lápiz y papel en la adquisición de competencias del alumnado](https://ddd.uab.cat/pub/edlc/02124521v27n3/02124521v27n3p433.pdf). _Enseñanza de las Ciencias, 27_\(3\), 433-446.
+
+Varios autores \(2017\).[ Seminario Experiencias de aula con GeoGebra](http://rrrgeogebra.tk/). CIEM, Castro Urdiales. 17-19 de noviembre de 2017.
 
 Varios Autores \(2016\).[ Monografía: Uso de geogebra para la enseñanza y el aprendizaje de las matemáticas](http://uno.grao.com/revistas/uno/71-uso-de-geogebra-para-la-ensenanza-y-el-aprendizaje-de-las-matematicas). _UNO, 71_.
 
