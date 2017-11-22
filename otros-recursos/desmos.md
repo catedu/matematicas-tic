@@ -10,7 +10,13 @@ De momento, salvo que nos descarguemos alguna actividad subida por compañeros e
 
 ![](/otros-recursos/assets/desmos01.png)
 
-Ejemplo. Vamos a españolizar 
+Ejemplo. Vamos a traducir una
+
+https://teacher.desmos.com/polygraph/custom/560aa8d79e65da561507a4ea
+
+![](/otros-recursos/assets/polygraph01.png)
+
+
 
 ## Búsqueda de actividades
 
