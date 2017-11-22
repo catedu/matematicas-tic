@@ -10,5 +10,13 @@ De momento, salvo que nos descarguemos alguna actividad subida por compañeros e
 
 ![](/otros-recursos/assets/desmos01.png)
 
+## Búsqueda de actividades
+
+* Desde la propia web de desmos.
+
+![](/otros-recursos/assets/searchdesmos.png)
+
+* En este enlace, hay un repositorio de actividades catalogadas por niveles \(en general, del sistema educativo estadounidense\): [https://sites.google.com/site/desmosbank/](https://sites.google.com/site/desmosbank/)
+
 
 
