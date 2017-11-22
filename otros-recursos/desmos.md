@@ -10,7 +10,11 @@ Desmos es, esencialmente, una calculadora gráfica diseñada en HTML5, de manera
 
 ## Como calculadora gráfica
 
+Accediendo desde la página de Desmos, o directamente en [https://www.desmos.com/calculator](https://www.desmos.com/calculator), podremos utilizar la calculadora gráfica, que es la esencia de esta aplicación. 
 
+![](/otros-recursos/assets/desmos15.png)No solo podemos añadir funciones, sino que desde el menú de la izquierda podemos insertar otros elementos, tales como texto, imágenes, etc.
+
+![](/otros-recursos/assets/desmos16.png)
 
 ## Lanzar actividades en el aula
 
