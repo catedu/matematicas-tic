@@ -1,6 +1,20 @@
 # Videojuegos y matemáticas
 
-No podíamos dejar un curso de Matemáticas y TIC sin hacer referencia a los videojuegos. Como muestra del contenido matemático subyacente en muchos de ellos, así como de sus posibilidades didácticas, dejamos aquí enlaces a los artículos de Lluís Albarracín en la revista Suma.
+No podíamos dejar un curso de Matemáticas y TIC sin hacer referencia a los videojuegos. 
+
+## Videojuegos de contenido matemático
+
+Distinguiremos entre videojuegos de contenido matemático, con una orientación claramente didáctica, de aquellos videojuegos más generales, diseñados para el entretenimiento, pero a los que también se les puede sacar jugo.
+
+Los que encontramos en la web de Arcademics \([http://www.arcademics.com](http://www.arcademics.com/)\) son un claro ejemplo de los del primer tipo. Se juegan online y tienen actividades desde primaria \(incluso últimos años de infantil\) hasta el primer ciclo de secundaria. Hay algunos, como el Alien Addition de la imagen, que se juegan en modo individual y otros, que suelen ser carreras, que se juegan en modo multijugador. 
+
+Los individuales también pueden jugarse en la pizarra digital, por equipos, de manera que todos colaboren a identificar el resultado correcto. Por ejemplo, en Alien Addition hay que disparar a la nave que lleva escrita la operación cuyo resultado aparece en el láser. Con lo cual, estamos repasando las tablas de la suma o haciendo cálculo mental, si los números son mayores. Aviso que los niños suelen emocionarse mucho si jugamos en la pizarra, y es posible que haya que calmarlos. Por otro lado, si disponemos de minis o de una sala de informática, las carreras de patitos o coches que se juegan en modo multijugador son muy divertidas, a la vez que sirven para afianzar operaciones formales. En las carreras, la velocidad del coche \(o el patito...\) depende de que vayamos haciendo bien las cuentas. 
+
+![](/otros-recursos/assets/arcademics.png)
+
+## Videojuegos en general
+
+Como muestra del contenido matemático subyacente en muchos de ellos, así como de sus posibilidades didácticas, dejamos aquí enlaces a los artículos de Lluís Albarracín en la revista Suma.
 
 ## Para saber más \(referencias\)
 
