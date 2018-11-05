@@ -10,7 +10,7 @@ Hay quien sigue llamando _nuevas tecnologías_ a las tecnologías de la informac
 
 ### En el día a día
 
-Tal y como están las cosas, hablar de TIC es hablar de redes sociales. Como docentes, nos pueden interesar, al menos, dos cosas. Por un lado, recurrir a ellas como fuente de información o intercambio de experiencias. Aquí es donde entra, por ejemplo, el uso profesional de Twitter o los blogs personales. Por otro lado, las redes sociales proporcionan un soporte excelente para el apoyo al aprendizaje. Tenemos el ejemplo de Edmodo, Google Classroom. aunque no son las únicas opciones.
+Tal y como están las cosas, hablar de TIC es hablar de redes sociales. Como docentes, nos pueden interesar, al menos, dos cosas. Por un lado, recurrir a ellas como fuente de información o intercambio de experiencias. Aquí es donde entra, por ejemplo, el uso profesional de Twitter o los blogs personales. Por otro lado, las redes sociales proporcionan un soporte excelente para el apoyo al aprendizaje. Tenemos el ejemplo de Edmodo o de Google Classroom, aunque no son las únicas opciones.
 
 Las TIC se pueden emplear para realizar ciertas tareas cotidianas de forma más eficiente o cómoda. Ejemplo de ello es llevar en una hoja de cálculo el registro de las calificaciones de las tareas y exámenes, así como de las observaciones y demás instrumentos de evaluación. Y quien dice hoja de cálculo, dice cuaderno digital del profesor, porque las opciones son tan variadas que cada cual puede optar por la que mejor se adapte a sus necesidades.
 
