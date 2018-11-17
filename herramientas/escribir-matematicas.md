@@ -4,11 +4,11 @@
 
 LaTeX es algo que genera sentimientos encontrados. Hay gente que lo ama y gente que lo odia. Pero su sintaxis para escribir expresiones matemáticas es muy, pero que muy cómoda. No vamos aquí a aprender los entresijos más avanzados, sino que vamos a centrar nuestra atención en utilizar un editor online con una plantilla para hacer exámenes. De esta manera, conoceremos la estructura de un documento de LaTeX  a la vez que nos hacemos con algo que podemos utilizar mañana mismo en el colegio o en el instituto.
 
-Utilizaremos el estupendo editor en línea ShareLaTeX, a partir de la[ plantilla para examen](https://es.sharelatex.com/project/59e28be7b1ea802c6058f481) con la clase [exam](http://www-math.mit.edu/~psh/exam/examdoc.pdf) que hemos hecho pública para este curso \(ese regalo que se lleva el lector\). Comentemos rápidamente sobre una captura qué es lo que nos vamos a encontrar en la interfaz de ShareLaTeX, que sería muy similar si usamos editores offline, salvo las opciones de colaboración \(entre los que podemos recomendar [Texmaker ](http://www.xm1math.net/texmaker/)o [TexStudio](https://www.texstudio.org/)\).
+Utilizaremos el estupendo editor en línea OverLeaf \(antiguo ShareLaTeX\), a partir de la [plantilla para examen](https://www.overleaf.com/project/59e28be7b1ea802c6058f481) con la clase [exam](http://www-math.mit.edu/~psh/exam/examdoc.pdf) que hemos hecho pública para este curso \(ese regalo que se lleva el lector\). Comentemos rápidamente sobre una captura qué es lo que nos vamos a encontrar en la interfaz de OverLeaf, que sería muy similar si usamos editores offline, salvo las opciones de colaboración \(entre los que podemos recomendar [Texmaker ](http://www.xm1math.net/texmaker/)o [TexStudio](https://www.texstudio.org/)\).
 
 ![](/herramientas/assets/sharelatex01.png)
 
-Si nos fijamos en la plantilla, que exponemos un poco más abajo \(aunque se puede ver directamente en ShareLaTeX\), veremos que un documento simple de LaTeX se divide en:
+Si nos fijamos en la plantilla, que exponemos un poco más abajo \(aunque se puede ver directamente en OverLeaf\), veremos que un documento simple de LaTeX se divide en:
 
 * Preámbulo
 * Cuerpo del documento
@@ -114,12 +114,12 @@ La plantilla está comentada \(cuando se escribe en una línea `%`, todo lo que 
 \end{document}
 ```
 
-### Utilizando la plantilla con ShareLaTeX
+### Utilizando la plantilla con OverLeaf
 
-La forma más sencilla de introducirse en LaTeX, que además nos puede venir bien como docentes para elaborar exámenes o tareas, es a través de un editor online como ShareLaTeX. Para ello, los pasos a realizar son:
+La forma más sencilla de introducirse en LaTeX, que además nos puede venir bien como docentes para elaborar exámenes o tareas, es a través de un editor online como OverLeaf. Para ello, los pasos a realizar son:
 
-1. Bajar la plantilla \([https://es.sharelatex.com/project/59e28be7b1ea802c6058f481](https://es.sharelatex.com/project/59e28be7b1ea802c6058f481)\), desde el menú de la izquierda. Descargar-&gt; Fuente. Se bajará un archivo zip comprimido. Lo descomprimimos y veremos un fichero `main.tex` y un directorio `/img` con las imágenes de los logos.
-2. Crear una cuenta en [https://es.sharelatex.com](https://es.sharelatex.com) \(es gratuito\).
+1. Bajar la plantilla \([https://www.overleaf.com/project/59e28be7b1ea802c6058f481](https://www.overleaf.com/project/59e28be7b1ea802c6058f481)\), desde el menú de la izquierda. Descargar-&gt; Fuente. Se bajará un archivo zip comprimido. Lo descomprimimos y veremos un fichero `main.tex` y un directorio `/img` con las imágenes de los logos.
+2. Crear una cuenta en [https://www.overleaf.com](https://www.overleaf.com) \(es gratuito\).
 3. Crear un nuevo proyecto y subir los archivos de la plantilla. Es decir, el `main.tex` \(que reemplaza al creado por defecto\) y las imágenes en su carpeta `/img.`
 4. Modificar la plantilla al gusto de cada uno. Por ejemplo, añadiendo las preguntas de examen y sus soluciones, o cambiando los logos por los de tu instituto. Con esto último, debemos andar con atención, ya que si cambiamos los ficheros, también tendremos que cambiar los nombres de los mismos dentro de la plantilla.
 
