@@ -116,10 +116,18 @@ La plantilla está comentada \(cuando se escribe en una línea `%`, todo lo que 
 
 ### Utilizando la plantilla con OverLeaf
 
-La forma más sencilla de introducirse en LaTeX, que además nos puede venir bien como docentes para elaborar exámenes o tareas, es a través de un editor online como OverLeaf. Para ello, los pasos a realizar son:
+La forma más sencilla de introducirse en LaTeX, que además nos puede venir bien como docentes para elaborar exámenes o tareas, es a través de un editor online como OverLeaf. En primer lugar, nos creamos una cuenta en www.overleaf.com. Después, tenemos dos métodos:
+
+#### Método 1
+
+1. Abrir el enlace de la plantilla: 
+2. Esta plantilla no se puede modificar directamente \(sería un jaleo en este caso, pero muy útil si estamos elaborando un documento de LaTeX compartido entre varios compañeros\). Por lo tanto, hay que hacer una copia:![](/assets/copy.png)
+3. Elegimos el nombre que queramos y ya lo tendremos disponible en nuestros proyectos y podremos modificarlo a nuestro antojo.
+
+#### Método 2
 
 1. Bajar la plantilla \([https://www.overleaf.com/project/59e28be7b1ea802c6058f481](https://www.overleaf.com/project/59e28be7b1ea802c6058f481)\), desde el menú de la izquierda. Descargar-&gt; Fuente. Se bajará un archivo zip comprimido. Lo descomprimimos y veremos un fichero `main.tex` y un directorio `/img` con las imágenes de los logos.
-2. Crear una cuenta en [https://www.overleaf.com](https://www.overleaf.com) \(es gratuito\).
+2. Crear una cuenta en [https://www.overleaf.com](https://www.overleaf.com) \(es gratuito\). Realmente, con este método podría emplearse cualquier editor/compilador de LaTeX.
 3. Crear un nuevo proyecto y subir los archivos de la plantilla. Es decir, el `main.tex` \(que reemplaza al creado por defecto\) y las imágenes en su carpeta `/img.`
 4. Modificar la plantilla al gusto de cada uno. Por ejemplo, añadiendo las preguntas de examen y sus soluciones, o cambiando los logos por los de tu instituto. Con esto último, debemos andar con atención, ya que si cambiamos los ficheros, también tendremos que cambiar los nombres de los mismos dentro de la plantilla.
 
