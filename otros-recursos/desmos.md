@@ -10,7 +10,7 @@ Desmos es, esencialmente, una calculadora gráfica diseñada en HTML5, de manera
 
 ## Como calculadora gráfica
 
-Accediendo desde la página de Desmos, o directamente en [https://www.desmos.com/calculator](https://www.desmos.com/calculator), podremos utilizar la calculadora gráfica, que es la esencia de esta aplicación. 
+Accediendo desde la página de Desmos, o directamente en [https://www.desmos.com/calculator](https://www.desmos.com/calculator), podremos utilizar la calculadora gráfica, que es la esencia de esta aplicación.
 
 ![](/otros-recursos/assets/desmos15.png)No solo podemos añadir funciones, sino que desde el menú de la izquierda podemos insertar otros elementos, tales como texto, imágenes, etc.
 
@@ -22,9 +22,20 @@ Desde la web de profesor de Desmos \([https://teacher.desmos.com](https://teache
 
 ![](/otros-recursos/assets/searchdesmos.png)
 
+Antes de seguir, que nadie se lleve las manos a la cabeza por el hecho de que esté en inglés. Por dos cosas:
+
+* Porque ya hay profesores que están subiendo las actividades traducidas o modificadas por ellos mismos.
+* Porque el traductor de Google permite apañarse bastante bien. De hecho, posibilita llevar a cabo estas actividades con grupos de alumnos cuyo nivel de inglés no es alto.La siguiente captura muestra cómo queda la página traducida \(para ello, desde Chrome o la mayoría de navegadores basta con hacer click con el botón derecho del ratón y darle a traducir:
+
+![](/otros-recursos/desmos-a.png)
+
+### Dinámica general
+
 Mostraremos la dinámica de funcionamiento con una de las más populares y que sirve para introducir y trabajar las coordenadas de un plano cartesiano en dos dimensiones. En el siguiente apartado veremos que muchas de estas actividades podremos modificarlas \(por ejemplo, para traducirlas\), pero otras, como esta, no. En cualquier caso, nos servirá para nuestros propósitos. Al seleccionarla, veremos algo similar a lo siguiente:
 
-### ![](/otros-recursos/assets/desmos04.png)Class code \(código de aula\)
+![](/otros-recursos/assets/desmos04.png)
+
+### Class code \(código de aula\)
 
 Esto es realmente lo importante para ponerlo en marcha. De forma similar a otras aplicaciones \(pensemos en Kahoot\), será el código que pasemos a nuestros alumnos para que entren en la actividad. Haciendo clic en «Create class code» obtenemos dicho código:
 
