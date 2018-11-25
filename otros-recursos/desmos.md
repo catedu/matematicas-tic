@@ -89,5 +89,11 @@ La actividad original está en este enlace: [https://teacher.desmos.com/polygrap
 
 * En este enlace, hay un repositorio de actividades catalogadas por niveles \(en general, del sistema educativo estadounidense\): [https://sites.google.com/site/desmosbank/](https://sites.google.com/site/desmosbank/)
 
+## Para saber más
+
+Se puede consultar el siguiente enlace donde se describen los tipos de actividades más populares:
+
+Beltrán-Pellicer, P. \(2018\). [Una introducción a los tipos de actividades que podemos encontrar en Desmos](http://personal.unizar.es/pbeltran/files/BeltranPellicer-2018-EA-Desmos.pdf). _Entorno Abierto, Boletín Digital de la Sociedad Aragonesa «Pedro Sánchez Ciruelo» de Profesores de Matemática, 24_, 4-10.
+
 
 
