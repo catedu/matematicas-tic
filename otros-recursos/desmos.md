@@ -69,7 +69,7 @@ Haciendo clic en el símbolo de marcador podremos guardar aquellas actividades q
 
 ## Copiar y editar actividades ya hechas
 
-De momento, salvo que nos descarguemos alguna actividad subida por compañeros en español, está casi todo en inglés. Sin embargo, si vemos alguna que se adapte muy bien a nuestras necesidades, podemos copiarla y editarla \(copy and edit\) \(no en todas será posible\):
+De momento, salvo que nos descarguemos alguna actividad subida por compañeros en español, está casi todo en inglés \(repetimos, el traductor de Chrome funciona bastante bien\). Sin embargo, si vemos alguna que se adapte muy bien a nuestras necesidades, podemos copiarla y editarla \(copy and edit\), cosa que no en todas será posible:
 
 ![](/otros-recursos/assets/desmos01.png)
 
@@ -94,6 +94,4 @@ La actividad original está en este enlace: [https://teacher.desmos.com/polygrap
 Se puede consultar el siguiente enlace donde se describen los tipos de actividades más populares:
 
 Beltrán-Pellicer, P. \(2018\). [Una introducción a los tipos de actividades que podemos encontrar en Desmos](http://personal.unizar.es/pbeltran/files/BeltranPellicer-2018-EA-Desmos.pdf). _Entorno Abierto, Boletín Digital de la Sociedad Aragonesa «Pedro Sánchez Ciruelo» de Profesores de Matemática, 24_, 4-10.
-
-
 
