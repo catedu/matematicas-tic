@@ -1,18 +1,22 @@
 {
-    "plugins": [
-        "katex",
-        "youtube",
-        "edit-link",
-        "githubcontributors"
-    ],
-    "pluginsConfig": {
-        "edit-link": {
-            "base": "https://github.com/catedu/matematicas-tic/edit/master",
-            "label": "Edita esta página"
-        },
-        "githubcontributors": {
-            "githubOwner": "catedu",
-            "githubRepository": "matematicas-tic"
-        }
+  "plugins": [
+    "katex",
+    "youtube",
+    "edit-link",
+    "githubcontributors",
+    "ga"
+  ],
+  "pluginsConfig": {
+    "edit-link": {
+      "base": "https://github.com/catedu/matematicas-tic/edit/master",
+      "label": "Edita esta página"
+    },
+    "githubcontributors": {
+      "githubOwner": "catedu",
+      "githubRepository": "matematicas-tic"
+    },
+    "ga": {
+      "token": "UA-135691041-2"
     }
+  }
 }
