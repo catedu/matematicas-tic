@@ -6,7 +6,7 @@ Cualquier cosa que escribamos sobre el tema, corre riesgo de quedarse obsoleta e
 
 Para gustos, colores. Aquí van diferentes opciones.
 
-* [Google Classroom](https://catedu.gitbooks.io/google-classroom/content/). La apuesta de Google por esto del blended learning. Han tomado nota de lo que funciona \(por ejemplo, de Edmodo\) y es una gran opción.
+* [Google Classroom](https://catedu.github.io/google-classroom-2018/). La apuesta de Google por esto del blended learning. Han tomado nota de lo que funciona \(por ejemplo, de Edmodo\) y es una gran opción.
 
 * [Schoology](https://www.schoology.com/). Similar a Edmodo, pero un poquito más estructurada.
 
